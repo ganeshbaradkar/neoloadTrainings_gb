@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/generate_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/b46b5ad0-21f3-4957-97b4-2e24c4107054.zip"
+    slaProfileEnabled="false" thinkTime="1276"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b46b5ad0-21f3-4957-97b4-2e24c4107054">
+    <embedded-action>291a828f-8d64-4dcd-9a74-c5d6a02dba84</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b46b5ad0-21f3-4957-97b4-2e24c4107054.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/generate_204" path="/generate_204" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/b46b5ad0-21f3-4957-97b4-2e24c4107054.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.youtube.com" slaProfileEnabled="false"
+    uid="291a828f-8d64-4dcd-9a74-c5d6a02dba84" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_291a828f-8d64-4dcd-9a74-c5d6a02dba84.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cXSs0w"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.youtube.com/embed/?enablejsapi=1&amp;rel=0&amp;autoplay=0&amp;playsinline=1&amp;fs=1&amp;hl=en-IN&amp;embed_config=%7B%22enc%22%3A%22AXH1ezmdVGKTwLtXphnuCPY01e-rnW3oFKUb8asK6ttxxN_yE-MJk6CTcQNjGPSSa2DEPCz-tHfiKsNzl4VjW0gPmR5_qlbD9PC29maxUIeraAxPkHQl-Q0ZLOptKIe8b9jd90YmrrIJXquR735C-udq33wGVXYOnw4m-V93ygwvGUnpcoZL12WtZxM8yMcikYS5PuHRhk_nETrU_KZJT8xsvP1XzWwylRPg2v2c0Xlju8BpjP0HR6qvwVvsmlgqX2hq13j_KqjqWbUc-I6u45Mk0ljRPg3oVBn2sYXgiDf0MjREdB8R-tbl8fBIw68rrNwqdi9jKR0%3D%22%7D"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="YSC=eGqK8BJwe-E; VISITOR_INFO1_LIVE=yprB9oBdx5c; VISITOR_PRIVACY_METADATA=CgJJThIEGgAgHQ%3D%3D; __Secure-YNID=19.YT=jrNG2b5v-ck3b9rFLVk6cylsd61ydnuZ9pl9zwPfk3bkzwdS_uPW2DhMCObqIZkuFXLoHd_kJPcS3fMhkJ7BLXf5EY5STeRsBn2YRHYf5wArL-t50U19KN3xYCQc3CGLzc1OgFbfnkGU165y9pXyuwxO3fymcH7FaoOcc6-vPahpdEm4I8m--vVTk4EOpC5oYu0d4hC10a7gN1QjdQHv-0G2BZwq7FgoX0I9q0au-rHGDn4Uv2HlMh5sJOk05e5JkXFmN95r_9yRnqx5sytOoeDp-jG_yCdZiw2eW70UQKQWhOjZJ0iZTAqQ9kuF6zBrKrpbjo0poTTxhUUvVitDXQ; __Secure-ROLLOUT_TOKEN=CJfAiOS2pemoUhCqu4zAxPKUAxi0zPHAxPKUAw%3D%3D"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+Content-Length: 0&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Sat, 06 Jun 2026 11:43:35 GMT&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

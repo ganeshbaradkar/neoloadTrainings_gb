@@ -1,0 +1,7 @@
+<websocket-action name="websocket_request_1" slaProfileEnabled="false"
+    status-code="1000" synchronous-type="ASYNCHRONOUS"
+    uid="26c6a82b-be74-447c-9e2e-d28be5e054df"
+    websocket-body-type="TEXT" websocket-channel-uid="0488113d-aadb-4634-a695-2a7a47f72c07">
+    <binaryPostContentBase64><![CDATA[eyJtc2ciOiJtZXRob2QiLCJpZCI6IjMyIiwibWV0aG9kIjoic2Vzc2lvbi5nZXRVcGRhdGVkVHJpZ2dlciIsInBhcmFtcyI6WyJoeVRxakt4YU4yRFhkS0F0WF9jIiwiaHR0cHM6Ly9hZHZhbnRhZ2VvbmxpbmViYW5raW5nLmNvbS9kYXNoYm9hcmQiLCJoeVRHaVdmUUtXUU5TN1NFa19jdWQiLCJHNDRyUVhSTDZ5Z3p0VGRTcV9jdSJdfQ==]]></binaryPostContentBase64>
+    <requestContentFileDescription>team/vus/01_script_record/%resources%/recorded-requests/req_26c6a82b-be74-447c-9e2e-d28be5e054df.txt</requestContentFileDescription>
+</websocket-action>

@@ -1,0 +1,125 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/pagead/conversion/16521530460/_6"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c87e0015-fa10-4705-bb80-3d5dc4e5dc91.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c87e0015-fa10-4705-bb80-3d5dc4e5dc91">
+    <embedded-action>97a80164-eee0-4af1-b07d-91681ba1c159</embedded-action>
+    <embedded-action>2bbcfbc4-4b94-493a-8155-d5f77990fbb5</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c87e0015-fa10-4705-bb80-3d5dc4e5dc91.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/conversion/16521530460/"
+    path="/pagead/conversion/16521530460/" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c87e0015-fa10-4705-bb80-3d5dc4e5dc91.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googleadservices.com" slaProfileEnabled="false"
+    uid="97a80164-eee0-4af1-b07d-91681ba1c159" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_97a80164-eee0-4af1-b07d-91681ba1c159.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="gad_source"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="adview_type"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="adview_query_id"
+        recordRawValue="CJOMovTE8pQDFaMIXAAdoAwocg" separator="="
+        value="CJOMovTE8pQDFaMIXAAdoAwocg" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="i"/>
+    <header name="attribution-reporting-support" value="web=os"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="attribution-reporting-eligible" value="event-source, trigger, not-navigation-source"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-type: text/css; charset=UTF-8&#xd;
+date: Sat, 06 Jun 2026 11:44:58 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+x-content-type-options: nosniff&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json+protobuf; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    path="/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    postCharset="ISO-8859-1" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c87e0015-fa10-4705-bb80-3d5dc4e5dc91.zip"
+    recordedResponseCode="200" responseSize="53"
+    serverUid="ogads-pa.clients6.google.com" slaProfileEnabled="false"
+    uid="2bbcfbc4-4b94-493a-8155-d5f77990fbb5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2bbcfbc4-4b94-493a-8155-d5f77990fbb5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2bbcfbc4-4b94-493a-8155-d5f77990fbb5.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; NID=532=ZiDX3mXoauM4DWRsETTGmAlSCX1Vzp3FCpa1qUUUUsjEoYGkUn2VNugX16SB-qO05jfc1vVWal6YYQbgEF8pieS2O3_wJN-0qDNBZyoHJw3EZiyWPuJaMKWIPD-WhKfDoNwGpeOdDAFysMfB4QmZK4e7Jd4vO1FNeD7QH2SbrUvmtw_P30dplqzx6dg8bv0MhqSUAYYvksDuPbIIXXPI9vdmi7ufjvf1poQAV8S9EvW9ITVO62IV0IQNZWdWMcRZUYiZlMp6stE"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyCbsbvGCe7C9mCtdaTycZB2eUFuzsYKG_E"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="x-user-agent" value="grpc-web-javascript/0.1"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json+protobuf"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json+protobuf; charset=UTF-8&#xd;
+strict-transport-security: max-age=10886400; includeSubdomains&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Sat, 06 Jun 2026 11:44:58 GMT&#xd;
+server: ESF&#xd;
+content-length: 30&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-expose-headers: x-google-eom,vary,vary,vary,content-encoding,date,server,content-length&#xd;
+server-timing: gfet4t7; dur=82&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[1,"",1,"en","co.in",0,null,0,0,"","",1,0,null,89978449,null,[1],null,1,0,{"1001":0}]]]></textPostContent>
+</http-action>

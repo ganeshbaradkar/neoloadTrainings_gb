@@ -1,0 +1,83 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/complete/search_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/5f411100-472c-453d-a86c-32601f05b434.zip"
+    slaProfileEnabled="false" thinkTime="721"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5f411100-472c-453d-a86c-32601f05b434">
+    <embedded-action>4b814e4d-48a3-4376-a546-0f8dd7e833cc</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5f411100-472c-453d-a86c-32601f05b434.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/complete/search" path="/complete/search"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/5f411100-472c-453d-a86c-32601f05b434.zip"
+    recordedResponseCode="200" responseSize="479"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="4b814e4d-48a3-4376-a546-0f8dd7e833cc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4b814e4d-48a3-4376-a546-0f8dd7e833cc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4b814e4d-48a3-4376-a546-0f8dd7e833cc.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="chrome-omni" separator="=" value="chrome-omni" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gs_ri"
+        recordRawValue="chrome-ext-ansg" separator="="
+        value="chrome-ext-ansg" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="xssi"
+        recordRawValue="t" separator="=" value="t" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="q"
+        recordRawValue="ib" separator="=" value="ib" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="oit"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cp"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pgcl"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gs_rn"
+        recordRawValue="42" separator="=" value="42" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="psi"
+        recordRawValue="mogkJ6dbBktoKxI4" separator="="
+        value="mogkJ6dbBktoKxI4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sugkey"
+        recordRawValue="dummytoken" separator="=" value="dummytoken" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:42:58 GMT&#xd;
+pragma: no-cache&#xd;
+expires: -1&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+strict-transport-security: max-age=31536000&#xd;
+content-security-policy: object-src 'none';base-uri 'self';script-src 'nonce-TPgD3aEWDywJpLyrHIJ0gQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/web&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/web"}]}&#xd;
+accept-ch: Sec-CH-Prefers-Color-Scheme&#xd;
+accept-ch: Downlink&#xd;
+accept-ch: RTT&#xd;
+accept-ch: Sec-CH-UA-Form-Factors&#xd;
+accept-ch: Sec-CH-UA-Platform&#xd;
+accept-ch: Sec-CH-UA-Platform-Version&#xd;
+accept-ch: Sec-CH-UA-Full-Version&#xd;
+accept-ch: Sec-CH-UA-Arch&#xd;
+accept-ch: Sec-CH-UA-Model&#xd;
+accept-ch: Sec-CH-UA-Bitness&#xd;
+accept-ch: Sec-CH-UA-Full-Version-List&#xd;
+accept-ch: Sec-CH-UA-WoW64&#xd;
+permissions-policy: unload=()&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+content-encoding: gzip&#xd;
+server: gws&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

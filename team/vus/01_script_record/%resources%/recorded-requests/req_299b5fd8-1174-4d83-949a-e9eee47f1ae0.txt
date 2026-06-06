@@ -1,0 +1,1 @@
+{"msg":"method","id":"7","method":"session.getUpdatedTrigger","params":["hyTqjKxaN2DXdKAtX_c","https://advantageonlinebanking.com/new-transfer","hyTGiWfQKWQNS7SEk_cud","G44rQXRL6ygztTdSq_cu"]}

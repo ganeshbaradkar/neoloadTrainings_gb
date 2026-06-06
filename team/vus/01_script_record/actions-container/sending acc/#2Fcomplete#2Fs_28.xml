@@ -1,0 +1,124 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/complete/s_28"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d5ed4b83-d6b0-4fdf-bebb-415c521a7956.zip"
+    slaProfileEnabled="false" thinkTime="35"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d5ed4b83-d6b0-4fdf-bebb-415c521a7956">
+    <embedded-action>4d525d6f-ff96-4513-a97c-c7767ee3d6ea</embedded-action>
+    <embedded-action>590b83ba-d70a-49cd-a842-5b2bac4c4ed3</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d5ed4b83-d6b0-4fdf-bebb-415c521a7956.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/complete/s" path="/complete/s" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d5ed4b83-d6b0-4fdf-bebb-415c521a7956.zip"
+    recordedResponseCode="200" responseSize="26"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="4d525d6f-ff96-4513-a97c-c7767ee3d6ea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4d525d6f-ff96-4513-a97c-c7767ee3d6ea</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4d525d6f-ff96-4513-a97c-c7767ee3d6ea.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="q"
+        recordRawValue="openiban.com" separator="=" value="openiban.com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cp"
+        recordRawValue="12" separator="=" value="12" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="gws-wiz-serp" separator="=" value="gws-wiz-serp" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="xssi"
+        recordRawValue="t" separator="=" value="t" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gs_pcrt"
+        recordRawValue="undefined" separator="=" value="undefined" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-IN" separator="=" value="en-IN" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="authuser"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pq"
+        recordRawValue="sample%20get%20iban" separator="="
+        value="sample get iban" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="psi"
+        recordRawValue="6QckapjMN_u-4-EPnvuh8QU.1780746225506"
+        separator="=" value="6QckapjMN_u-4-EPnvuh8QU.1780746225506" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dpr"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gs_mss"
+        recordRawValue="openiban" separator="=" value="openiban" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.54&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.54&quot;"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; NID=532=ZiDX3mXoauM4DWRsETTGmAlSCX1Vzp3FCpa1qUUUUsjEoYGkUn2VNugX16SB-qO05jfc1vVWal6YYQbgEF8pieS2O3_wJN-0qDNBZyoHJw3EZiyWPuJaMKWIPD-WhKfDoNwGpeOdDAFysMfB4QmZK4e7Jd4vO1FNeD7QH2SbrUvmtw_P30dplqzx6dg8bv0MhqSUAYYvksDuPbIIXXPI9vdmi7ufjvf1poQAV8S9EvW9ITVO62IV0IQNZWdWMcRZUYiZlMp6stE; DV=o5ZrUnU9N9EzsHQ0yOb_f20Jte7L6dlh6_XJcm-gWxEAAODr4fFEMpLUGxoJAAA"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="100"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:44:57 GMT&#xd;
+expires: Sat, 06 Jun 2026 11:44:57 GMT&#xd;
+cache-control: private, max-age=3600&#xd;
+content-type: application/json; charset=UTF-8&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+permissions-policy: unload=()&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/cdt1"}]}&#xd;
+accept-ch: Sec-CH-UA-WoW64&#xd;
+content-encoding: br&#xd;
+server: Proxima&#xd;
+content-length: 30&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="2"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d5ed4b83-d6b0-4fdf-bebb-415c521a7956.zip"
+    recordedResponseCode="100" responseSize="0"
+    serverUid="functional.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="590b83ba-d70a-49cd-a842-5b2bac4c4ed3" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[KQM0LjBJL01pY3Jvc29mdC5XZWJCcm93c2VyLlNFUlAuVFBfU0VSUEF1dG9TdWdnZXN0aW9ucerIg8Wh8OHeEakibzowNzllM2U3NjUyODA0OGRlOWZlY2JiYzM3MGZkYzZiMNEGgoTAAssVCgFpBkxFTk9WT4kKMjBBU1MxQTcwMADLFgoBAMsXCgFJJnI6NTYxMDE1MDAtNDg3Ni00NkQwLUFCNDMtRkE4RTYzNDBDNjk2qQ9XaW5kb3dzLkRlc2t0b3AAyxgKAYkPV2luZG93cyBEZXNrdG9wqSwxMC4wLjE5MDQxLjEuYW1kNjRmcmUudmJfcmVsZWFzZS4xOTEyMDYtMTQwNgDLGQoBqWZXOjAwMDY2OTM3MjYxYWQyNmEyYWNiMjMyMjRjYmRkZWZmMTdlZDAwMDAwOTA0ITAwMDBkYTM5YTNlZTVlNmI0YjBkMzI1NWJmZWY5NTYwMTg5MGFmZDgwNzA5IW1zZWRnZS5leGXJBiUyMDI2LzA2LzAzOjIwOjU4OjQ3ITUwOTc1YyFtc2VkZ2UuZXhlAMsfCgFJCVVubWV0ZXJlZGkHVW5rbm93bgDLIAoBKRxFVlQtV2luZG93cy1DKystTm8tMy41LjEzMS4xAMshCgFpBiswNTozMADLJQoBAMk8BmN1c3RvbctGCgEtCQoLDEFwcEluZm8uRVRhZwAHQ2hhbm5lbDAAkQgADkNvbm5lY3Rpb25UeXBlaQdVbmtub3duAAdDb250ZW50aRopXX0nCltbXSx7ImkiOiJvcGVuaWJhbiJ9XQANQ29ycmVsYXRpb25JZGkkZjY0Y2U3YTktYTM2NC00MGJhLWFhNzUtZjQ4ZWY0NzMzNWI0AA9FdmVudEluZm8uTGV2ZWwwAJEGAAlTZXNzaW9uSWRpJGMzOGVjZDdhLWNmOTYtNDI0YS1hZDJiLWU5ZTQ4OTg2MTZlNgAJVGltZXN0YW1waRgyMDI2LTA2LTA2VDExOjQ1OjAzLjU4NVoAA1VybGnNAWh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY29tcGxldGUvcz9xPW9wZW5pYmFuLmNvJmNwPTExJmNsaWVudD1nd3Mtd2l6LXNlcnAmeHNzaT10JmdzX3BjcnQ9dW5kZWZpbmVkJmhsPWVuLUlOJmF1dGh1c2VyPTAmcHE9c2FtcGxlJTIwZ2V0JTIwaWJhbiZwc2k9NlFja2Fwak1OX3UtNC1FUG52dWg4UVUuMTc4MDc0NjIyNTUwNiZkcHI9MSZnc19tc3M9b3BlbmliYW4ACnBvcF9zYW1wbGUwCKgAAAAAAABZQAAJdXRjX2ZsYWdzMACRhoCAgICAQAAAACkDNC4wSS9NaWNyb3NvZnQuV2ViQnJvd3Nlci5TRVJQLlRQX1NFUlBBdXRvU3VnZ2VzdGlvbnHQ7MzDofDh3hGpIm86MDc5ZTNlNzY1MjgwNDhkZTlmZWNiYmMzNzBmZGM2YjDRBoKEwALLFQoBaQZMRU5PVk+JCjIwQVNTMUE3MDAAyxYKAQDLFwoBSSZyOjU2MTAxNTAwLTQ4NzYtNDZEMC1BQjQzLUZBOEU2MzQwQzY5NqkPV2luZG93cy5EZXNrdG9wAMsYCgGJD1dpbmRvd3MgRGVza3RvcKksMTAuMC4xOTA0MS4xLmFtZDY0ZnJlLnZiX3JlbGVhc2UuMTkxMjA2LTE0MDYAyxkKAalmVzowMDA2NjkzNzI2MWFkMjZhMmFjYjIzMjI0Y2JkZGVmZjE3ZWQwMDAwMDkwNCEwMDAwZGEzOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4OTBhZmQ4MDcwOSFtc2VkZ2UuZXhlyQYlMjAyNi8wNi8wMzoyMDo1ODo0NyE1MDk3NWMhbXNlZGdlLmV4ZQDLHwoBSQlVbm1ldGVyZWRpB1Vua25vd24AyyAKASkcRVZULVdpbmRvd3MtQysrLU5vLTMuNS4xMzEuMQDLIQoBaQYrMDU6MzAAyyUKAQDJPAZjdXN0b23LRgoBLQkKCwxBcHBJbmZvLkVUYWcAB0NoYW5uZWwwAJEIAA5Db25uZWN0aW9uVHlwZWkHVW5rbm93bgAHQ29udGVudGkaKV19JwpbW10seyJpIjoib3BlbmliYW4ifV0ADUNvcnJlbGF0aW9uSWRpJGY2NGNlN2E5LWEzNjQtNDBiYS1hYTc1LWY0OGVmNDczMzViNAAPRXZlbnRJbmZvLkxldmVsMACRBgAJU2Vzc2lvbklkaSRjMzhlY2Q3YS1jZjk2LTQyNGEtYWQyYi1lOWU0ODk4NjE2ZTYACVRpbWVzdGFtcGkYMjAyNi0wNi0wNlQxMTo0NTowMy40MThaAANVcmxpzAFodHRwczovL3d3dy5nb29nbGUuY29tL2NvbXBsZXRlL3M/cT1vcGVuaWJhbi5jJmNwPTEwJmNsaWVudD1nd3Mtd2l6LXNlcnAmeHNzaT10JmdzX3BjcnQ9dW5kZWZpbmVkJmhsPWVuLUlOJmF1dGh1c2VyPTAmcHE9c2FtcGxlJTIwZ2V0JTIwaWJhbiZwc2k9NlFja2Fwak1OX3UtNC1FUG52dWg4UVUuMTc4MDc0NjIyNTUwNiZkcHI9MSZnc19tc3M9b3BlbmliYW4ACnBvcF9zYW1wbGUwCKgAAAAAAABZQAAJdXRjX2ZsYWdzMACRhoCAgICAQAAAACkDNC4wSS9NaWNyb3NvZnQuV2ViQnJvd3Nlci5TRVJQLlRQX1NFUlBBdXRvU3VnZ2VzdGlvbnG0/vbBofDh3hGpIm86MDc5ZTNlNzY1MjgwNDhkZTlmZWNiYmMzNzBmZGM2YjDRBoKEwALLFQoBaQZMRU5PVk+JCjIwQVNTMUE3MDAAyxYKAQDLFwoBSSZyOjU2MTAxNTAwLTQ4NzYtNDZEMC1BQjQzLUZBOEU2MzQwQzY5NqkPV2luZG93cy5EZXNrdG9wAMsYCgGJD1dpbmRvd3MgRGVza3RvcKksMTAuMC4xOTA0MS4xLmFtZDY0ZnJlLnZiX3JlbGVhc2UuMTkxMjA2LTE0MDYAyxkKAalmVzowMDA2NjkzNzI2MWFkMjZhMmFjYjIzMjI0Y2JkZGVmZjE3ZWQwMDAwMDkwNCEwMDAwZGEzOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4OTBhZmQ4MDcwOSFtc2VkZ2UuZXhlyQYlMjAyNi8wNi8wMzoyMDo1ODo0NyE1MDk3NWMhbXNlZGdlLmV4ZQDLHwoBSQlVbm1ldGVyZWRpB1Vua25vd24AyyAKASkcRVZULVdpbmRvd3MtQysrLU5vLTMuNS4xMzEuMQDLIQoBaQYrMDU6MzAAyyUKAQDJPAZjdXN0b23LRgoBLQkKCwxBcHBJbmZvLkVUYWcAB0NoYW5uZWwwAJEIAA5Db25uZWN0aW9uVHlwZWkHVW5rbm93bgAHQ29udGVudGlLKV19JwpbW1sib3BlbmliYW5cdTAwM2NiXHUwMDNlIG5sXHUwMDNjL2JcdTAwM2UiLDAsWzMwXV1dLHsiaSI6Im9wZW5pYmFuIn1dAA1Db3JyZWxhdGlvbklkaSRmNjRjZTdhOS1hMzY0LTQwYmEtYWE3NS1mNDhlZjQ3MzM1YjQAD0V2ZW50SW5mby5MZXZlbDAAkQYACVNlc3Npb25JZGkkYzM4ZWNkN2EtY2Y5Ni00MjRhLWFkMmItZTllNDg5ODYxNmU2AAlUaW1lc3RhbXBpGDIwMjYtMDYtMDZUMTE6NDU6MDMuMjU1WgADVXJsacoBaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jb21wbGV0ZS9zP3E9b3BlbmliYW4uJmNwPTkmY2xpZW50PWd3cy13aXotc2VycCZ4c3NpPXQmZ3NfcGNydD11bmRlZmluZWQmaGw9ZW4tSU4mYXV0aHVzZXI9MCZwcT1zYW1wbGUlMjBnZXQlMjBpYmFuJnBzaT02UWNrYXBqTU5fdS00LUVQbnZ1aDhRVS4xNzgwNzQ2MjI1NTA2JmRwcj0xJmdzX21zcz1vcGVuaWJhbgAKcG9wX3NhbXBsZTAIqAAAAAAAAFlAAAl1dGNfZmxhZ3MwAJGGgICAgIBAAAAA]]></binaryPostContentBase64>
+    <requestContentFileDescription>recorded-requests/req_590b83ba-d70a-49cd-a842-5b2bac4c4ed3.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="upload-time" value="1780746303604"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="apikey" value="079e3e76528048de9fecbbc370fdc6b0-4f27dd06-fdd2-4611-b5ea-698fd823bae6-7734"/>
+    <header name="content-encoding" value="deflate"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="expect" value="100-continue"/>
+    <header name="authmsadeviceticket" value="t=GwD2AbuEBAAUuXgePZcYxdw8EZuBoUxTAR3gtGcOZgAAEPCiWkJZmCYJON6zEEJO1CLAAd3kb/yWqUphrNcz1MXdjwJxXVru21/yZrKDxmPkB0kxfrAGQjq2i/0O7FxFyvECV01px5ncrK4A8sqZKe0E/imO6RP82MTQrXnBWpaMfKOKX/aNHMtbpzcS1H+gGHHBeshcPJrnqQxUnMGLmTT0MZbwPqeCrHM5xRsDhMczEbwk98+Xu7/RzFb9gCPOhzEsU2Iljq+R/7N4jaVoUQNE6gDfbgekKhJQ2fEZcyUpPfGsuIIPdjkzjtQxjROH50Mcx49nNC0cVqQBmZc2R6WWKT03BbdFmevpTdvspEI1YBKPgceEagk6iFJnYOvGjcZtuf2CWHuEmiQu64/8TNYhail4fLnbtJ7FZTrKGNPFR5W2MzgjQDP6e8SS5zhxJ6dqO2U7TWzeAwy83G7GUXcYmhDreNAdfq9AVPBBWz31cNCc73walRtcxwd67rG73pj5cPzJkuOpQu+9ata8YZPDciSoa8Iz1XMrwXL8uSrUoTis6jtV6CKaNgVpiFxsr1i4xi0U5NzOo56rGoLSH2gClYBaE9WI7iu1zQFH3XdtllMUhQWOTnWsLDF/y0/BIYxzXaU3bbxGXvUtFJ4/7r15PR35AQ==&amp;p="/>
+    <header name="sdk-version" value="EVT-Windows-C++-No-3.5.131.1"/>
+    <header name="content-type" value="application/bond-compact-binary"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 100&#xd;
+</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

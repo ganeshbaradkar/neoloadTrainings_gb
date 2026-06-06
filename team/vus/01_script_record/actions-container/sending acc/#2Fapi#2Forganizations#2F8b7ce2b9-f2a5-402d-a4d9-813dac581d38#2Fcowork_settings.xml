@@ -1,0 +1,68 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/organizations/8b7ce2b9-f2a5-402d-a4d9-813dac581d38/cowork_settings"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/466f4eca-78ca-4d12-a912-be06bd7652b1.zip"
+    slaProfileEnabled="false" thinkTime="721"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="466f4eca-78ca-4d12-a912-be06bd7652b1">
+    <embedded-action>aabb22c5-2852-4cac-abc7-42efd8032606</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_466f4eca-78ca-4d12-a912-be06bd7652b1.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/api/organizations/8b7ce2b9-f2a5-402d-a4d9-813dac581d38/cowork_settings"
+    path="/api/organizations/8b7ce2b9-f2a5-402d-a4d9-813dac581d38/cowork_settings"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/466f4eca-78ca-4d12-a912-be06bd7652b1.zip"
+    recordedResponseCode="200" responseSize="142" serverUid="claude.ai"
+    slaProfileEnabled="false" uid="aabb22c5-2852-4cac-abc7-42efd8032606" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aabb22c5-2852-4cac-abc7-42efd8032606</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aabb22c5-2852-4cac-abc7-42efd8032606.txt</requestContentFileDescription>
+    <header name="anthropic-client-platform" value="desktop_app"/>
+    <header name="referer" value="https://claude.ai/chat/9f3e7856-e099-481b-b306-cd32cb05ad53"/>
+    <header name="x-datadog-sampling-priority" value="1"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="x-datadog-origin" value="rum"/>
+    <header name="anthropic-desktop-topbar" value="1"/>
+    <header name="anthropic-client-os-version" value="10.0.19045"/>
+    <header name="x-datadog-parent-id" value="1273963109996564833"/>
+    <header name="tracestate" value="dd=s:1;o:rum"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="content-type" value="application/json"/>
+    <header name="anthropic-client-version" value="1.9659.2"/>
+    <header name="anthropic-client-os-platform" value="win32"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="cookie" value="anthropic-device-id=cdf6c00a-81a2-4438-abe0-0adc87e454e0; CH-prefers-color-scheme=light; cookie_seed_done=1; __ssid=d7a14fac-bf37-41e1-a6c6-64b273406641; app-shell-mode=gate-disabled; anthropic-consent-preferences=%7B%22analytics%22%3Atrue%2C%22marketing%22%3Atrue%7D; _fbp=fb.1.1772596994543.27177141649268390; ajs_anonymous_id=claudeai.v1.660d66ec-afab-42fb-a8e9-47e2cbb3da12; lastActiveOrg=8b7ce2b9-f2a5-402d-a4d9-813dac581d38; intercom-device-id-lupk8zyo=bda5d6ce-8296-493e-b72e-2941a97fc773; ajs_user_id=530f45a9-49c8-4362-95a3-25f68813f4eb; _gcl_au=1.1.571307535.1777049905; sessionKey=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; sessionKeyLC=1777050526726; user-sidebar-visible-on-load=true; __stripe_mid=9d3cbd12-7737-4d7b-99ab-86e26f763edaaeab60; intercom-session-lupk8zyo=bW1lZkJEelBOczlOWWZZbnE4RnRWczRUMFJlK1RwVE4xdHRBZlBLZCtHVG0ybCtvQ2pmRmZURGxYM2VkTXFsNVczYlplSTZTZ0lJL0NLOWFnN01lSGxCK2x6L1FaVU1PQTVmQytsdGMzdU9Db0tZOHp4dDVLSHg5ZzkwZUZaN29ZbzZOYzVLTDdHVmtydmVPZVAydURObDZoVGpTU3FmZnlJcE4yZWNpOGVDV2lpNmFNaXVlcDZwZVErbWhTOFZibmdqcEFjMEp4Q0JuTENxSWxNM0MvbDlnMTQvK2NjQWlZSzVJakwzZEFvNFphMzhoZkxUUU4wZmQydGFYcHF1Y2YyNUR5SFZzMGZIamtFYlVvOS9BdmRGM0RXTHo1SGIrdzgvOUhudlBINm89LS1jMlFTTDRrbFFIOVlQa2dUZVFpTWxBPT0=--170f5bf49aa5d2c6fa3c03db7f6423c8c5a58c24; ion-vk=7cdb137e-567d-43ad-869e-51086b0b3616; cf_clearance=p2.dA6E7i167LfujoIwLb.Xg5tqtmLvXVtHuu31ZcCw-1780582181-1.2.1.1-BqiUoyTKQk30X71OxVWdLKEf6.Iyadr1R.UemGxiSWhzs_zOGRSsqRStUmIdi10QRYajP1Zwdn9Ht_HkXIGUyyyJDkGsAOtRC9ilw1iAVXmrHpxrdDwSKe5s6KAeMMC1vxcwT8gtXcR.5F1bpR3e8_KSPUm.9VAPNCtt5thYH0ig_pBV4W9.F8uDedAsRgsxkfCbfJ.UAbUh.WSRRxxDhiTS20Cn0h5kh55yMFJZQloJvVffQJIlUqIPlXxRrPTPqJeZICsgIOiLqWlq4El.ZO8.YtJyeIvTB83twsx4t1CDEpIxBW5vP8ND5jc_uNpp.tGls7Vn59lVobETfT0yTA; _cfuvid=EHr7dH51.tlN37mcM5ngW7iYLzM2kp4Cj8JBOeaylBI-1780746344.9155781-1.0.1.1-0ehsk_2N6WsCpC87JFyNOqZPh51RLCzi5rhOUx_XR6s; __cf_bm=dH.od_c9tfM12aZOB2mi1O7UFvrwMAe5.lWJkVIT_oY-1780746344.920218-1.0.1.1-WV5T2mgvNbccXFn6pV9NEBHuSLzdoTRD__xH9_hlpAjJj4xLW95sDVaqb1tLFF19zH.aDMLpZsjTH2YBR4wHRbOdFYX_TdgEruwdwtVT.rtV.rF.rg9Q08juvMz5KHDH; _dd_s=aid=c52f94d2-dcc2-4346-b952-3cc0207206bc&amp;rum=2&amp;id=768a9520-8979-4cfe-a937-7990143dbf03&amp;created=1780745082381&amp;expire=1780747274207"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="anthropic-client-sha" value="49fa7153e812d4504c86e1158341f3c321b35648"/>
+    <header name="x-datadog-trace-id" value="964532134424045651"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="anthropic-client-app" value="com.anthropic.claudefordesktop"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not-A.Brand&quot;;v=&quot;24&quot;, &quot;Chromium&quot;;v=&quot;146&quot;"/>
+    <header name="anthropic-device-id" value="cdf6c00a-81a2-4438-abe0-0adc87e454e0"/>
+    <header name="traceparent" value="00-00000000000000000d62b4ddaecb6853-11ae06b2e44c1161-01"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="anthropic-anonymous-id" value="claudeai.v1.660d66ec-afab-42fb-a8e9-47e2cbb3da12"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.9659.2 Chrome/146.0.7680.216 Electron/41.6.1 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:46:08 GMT&#xd;
+content-type: application/json&#xd;
+request-id: req_011Cbmx6Af8LkteXy96kVsqz&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+server: cloudflare&#xd;
+x-robots-tag: none&#xd;
+vary: Accept-Encoding&#xd;
+cf-cache-status: DYNAMIC&#xd;
+content-encoding: zstd&#xd;
+cf-ray: a0772cc31dd87ab9-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

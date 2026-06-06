@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/cookieconsentpub/v1/geo/location"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/ebd4bd98-b1ea-4d50-8024-b0fd798f05e1.zip"
+    slaProfileEnabled="false" thinkTime="573"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ebd4bd98-b1ea-4d50-8024-b0fd798f05e1">
+    <embedded-action>f2223210-baaa-46ed-a94a-52d00107ee0d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_ebd4bd98-b1ea-4d50-8024-b0fd798f05e1.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cookieconsentpub/v1/geo/location"
+    path="/cookieconsentpub/v1/geo/location" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/ebd4bd98-b1ea-4d50-8024-b0fd798f05e1.zip"
+    recordedResponseCode="200" responseSize="72"
+    serverUid="geolocation.onetrust.com" slaProfileEnabled="false"
+    uid="f2223210-baaa-46ed-a94a-52d00107ee0d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f2223210-baaa-46ed-a94a-52d00107ee0d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f2223210-baaa-46ed-a94a-52d00107ee0d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="application/json"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:56 GMT&#xd;
+content-type: application/json&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-headers: Content-Type&#xd;
+access-control-allow-methods: GET, OPTIONS&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+content-encoding: gzip&#xd;
+server: cloudflare&#xd;
+cf-ray: a07729893bdf7f77-MAA</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

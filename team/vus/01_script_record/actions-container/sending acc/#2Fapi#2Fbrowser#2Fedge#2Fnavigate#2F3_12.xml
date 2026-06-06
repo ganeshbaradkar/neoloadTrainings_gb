@@ -1,0 +1,159 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3_12"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/44219f5a-ad46-45db-a9ae-3bc8022af8a1.zip"
+    slaProfileEnabled="false" thinkTime="49"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="44219f5a-ad46-45db-a9ae-3bc8022af8a1">
+    <embedded-action>7fc797e3-d470-47ea-9931-029ad7a4c4b8</embedded-action>
+    <embedded-action>e1d4cf4b-e3fc-40bd-b315-463b9482b700</embedded-action>
+    <embedded-action>84dfc78c-5e22-4794-999f-40d87e3cc622</embedded-action>
+    <embedded-action>ebe9e2d6-3a17-4118-9531-8237415d7ace</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_44219f5a-ad46-45db-a9ae-3bc8022af8a1.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/44219f5a-ad46-45db-a9ae-3bc8022af8a1.zip"
+    recordedResponseCode="200" responseSize="805"
+    serverUid="nav-edge.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="7fc797e3-d470-47ea-9931-029ad7a4c4b8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7fc797e3-d470-47ea-9931-029ad7a4c4b8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7fc797e3-d470-47ea-9931-029ad7a4c4b8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoibTU5RUJYb0gxTFQzN1UxU3VwWHVLZz09IiwgImhhc2giOiIwOGM4TWNzeXFlST0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:46:41 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 805&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:fa70c45d-e611-4301-aa85-379b4eb84ac3</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0","redirectChain":[{"uri":"http://generateiban.com/"},{"uri":"https://generateiban.com/"}],"enhancedRedirectChain":{"redirectSource":null,"referrerChain":[]},"identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":"923cd68b-ab97-40f3-9186-a0bc5ea9583d","onlineIdTicket":"t=GwD2Ad9tBAAUACvdRm27aTQoBWtI3fAPXDuVCyUOZgAAEKq3LN1fYdEhJdsL2r2W7brAAQzVUnStpB72W7hUT8wqdyAiblhobc1qd1axk/WBacXeRQpkMj6UzDOJZDtbipKsG0+PSaHel6eXFauGkMEA7NhhSynIeiXAcxOlCGU41/mAK1muN4yMZlMlUsdWCdiQMBrIs49st8XKK3dS1Rmf7KwJsLPNFc7wYxYaZGtWAMdt23bIZZ0SHPlD9HVP1Ea1xCSPTfeG4VIVirvE807kmGLD7zU+Cie/3SRDzEJbSXqfSg/JPoysBa8/feMNtuuqcVLp+X3Z4O5ICxmmWq/zSqR7j0vyzFf0lESVdvfzO2eRwWA4YwzhX3Q9lU/1M7Y2ZWC6kUijOrrSXjaw6M+byjzdCDIRbZKp+seBeECIcUjbR8Nas8jRqvr+STzdctdf1RelVDxc9uUAaGsAg3YH7Ue821cIgKK5mXcicTdOH+eJWzea+yvk1U9vvPbHOz1Wp73wilR534YBSAe8gGuwXtNu+fdeVFT/j+H94TQmEcBfbdj6HuctWBj3guIvwUpi/Tk7dNE7mi+CWsm1SyOdmP8MiDBiBTrRxI+mJmlGmHFOybR+1/gRn/ZZlClogs4Z8et8Gjl03cswec/AcI2SubH5AQ==&p=","family":3,"locale":"en-US","osVersion":"10.0.19045.6466.vb_release","browser":{"internetExplorer":"9.11.19041.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"","version":"149.0.4022.52 (Official build) "},"client":{"version":"281483737300995","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-a82cb2897a8bf9445d68dcc2be05af89ad4b2fda1fddb2952693be7cd5353ad3","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"https://www.generateiban.com/","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"72a73cfe-380f-4006-ab37-d7300d2196da","synchronous":false}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/44219f5a-ad46-45db-a9ae-3bc8022af8a1.zip"
+    recordedResponseCode="103" responseSize="0"
+    serverUid="www.generateiban.com" slaProfileEnabled="false"
+    uid="e1d4cf4b-e3fc-40bd-b315-463b9482b700" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e1d4cf4b-e3fc-40bd-b315-463b9482b700.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 103&#xd;
+server: Vercel&#xd;
+x-vercel-id: 3Z4emld89aDYGh7V8KXLGc46VUcD6IpE</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/index-CR0Q1e8a.js"
+    path="/assets/index-CR0Q1e8a.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/44219f5a-ad46-45db-a9ae-3bc8022af8a1.zip"
+    recordedResponseCode="200" responseSize="712683"
+    serverUid="www.generateiban.com" slaProfileEnabled="false"
+    uid="84dfc78c-5e22-4794-999f-40d87e3cc622" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_84dfc78c-5e22-4794-999f-40d87e3cc622</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_84dfc78c-5e22-4794-999f-40d87e3cc622.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.generateiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://www.generateiban.com"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+age: 711554&#xd;
+cache-control: public, max-age=0, must-revalidate&#xd;
+content-disposition: inline; filename="index-CR0Q1e8a.js"&#xd;
+content-encoding: br&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+date: Sat, 06 Jun 2026 11:46:41 GMT&#xd;
+etag: W/"0ec9bc368d8aae337b38a8fb25071bd4"&#xd;
+last-modified: Fri, 29 May 2026 06:07:27 GMT&#xd;
+server: Vercel&#xd;
+strict-transport-security: max-age=63072000&#xd;
+x-vercel-cache: HIT&#xd;
+x-vercel-id: bom1::tjn2j-1780746401653-bdbda5d6b5dc</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/index-CFGonQ0_.css"
+    path="/assets/index-CFGonQ0_.css" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/44219f5a-ad46-45db-a9ae-3bc8022af8a1.zip"
+    recordedResponseCode="200" responseSize="61262"
+    serverUid="www.generateiban.com" slaProfileEnabled="false"
+    uid="ebe9e2d6-3a17-4118-9531-8237415d7ace" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ebe9e2d6-3a17-4118-9531-8237415d7ace.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ebe9e2d6-3a17-4118-9531-8237415d7ace.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.generateiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://www.generateiban.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+age: 714822&#xd;
+cache-control: public, max-age=0, must-revalidate&#xd;
+content-disposition: inline; filename="index-CFGonQ0_.css"&#xd;
+content-encoding: br&#xd;
+content-type: text/css; charset=utf-8&#xd;
+date: Sat, 06 Jun 2026 11:46:41 GMT&#xd;
+etag: W/"adf49406dcfa70ae487c4d3f760e18ca"&#xd;
+last-modified: Fri, 29 May 2026 05:12:59 GMT&#xd;
+server: Vercel&#xd;
+strict-transport-security: max-age=63072000&#xd;
+x-vercel-cache: HIT&#xd;
+x-vercel-id: bom1::tl44c-1780746401683-a81a9601c7be</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

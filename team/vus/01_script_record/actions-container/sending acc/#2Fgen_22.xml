@@ -1,0 +1,90 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gen_22"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dcd55c30-d83f-4377-a64d-ab136a99f5f9.zip"
+    slaProfileEnabled="false" thinkTime="63"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="dcd55c30-d83f-4377-a64d-ab136a99f5f9">
+    <embedded-action>f0d1cfbd-2170-4f9c-9d02-88e853397370</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_dcd55c30-d83f-4377-a64d-ab136a99f5f9.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/gen_204" path="/gen_204" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dcd55c30-d83f-4377-a64d-ab136a99f5f9.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="f0d1cfbd-2170-4f9c-9d02-88e853397370" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f0d1cfbd-2170-4f9c-9d02-88e853397370.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="xAckap7WJ8mS4-EPz_LtuQE" separator="="
+        value="xAckap7WJ8mS4-EPz_LtuQE" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ct"
+        recordRawValue="slh" separator="=" value="slh" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="t1" separator="=" value="t1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="im"
+        recordRawValue="M" separator="=" value="M" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aqid"
+        recordRawValue="xAckas2ML7XYmsMPxNOOMA" separator="="
+        value="xAckas2ML7XYmsMPxNOOMA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pv"
+        recordRawValue="0.16137944763592504" separator="="
+        value="0.16137944763592504" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="me"
+        recordRawValue="133:1780746192585,V,0,0,0,0:7751,V,0,500,1358,620:184,h,1,CCYQAA,o:1,h,1,CAwQCA,o:28,h,1,CCQQAA,i:0,h,1,CAwQCA,i:44,h,1,CCQQAA,o:15,h,1,CCYQAA,i:65,h,1,CCYQAA,o:433,h,1,CCUQAA,i:641,S,252:0,R,1,CBQQAQ,122,1123,652,52:0,R,1,CBUQAQ,122,1176,652,52:0,R,1,CCAQAQ,122,1229,652,52:0,R,1,CE4QAA,122,1325,652,118:258,h,1,CCUQAA,o:160,h,1,CEAQAA,i:0,h,1,CFoQAw,i:0,h,1,CFoQAA,i:97,S,648:0,R,1,CFoQAA,122,1473,652,435:0,R,1,CFoQAw,122,1507,652,367:0,R,1,CD8QAA,122,1507,652,151:0,R,1,CD8QBg,122,1519,148,83:0,R,1,CD8QCA,122,1614,652,44:0,R,1,CD8QCQ,122,1614,652,44:0,R,1,CEAQAA,122,1659,652,107:0,R,1,CEAQBg,122,1671,148,83:0,R,1,CFkQAA,122,1767,652,107:0,R,1,CE0QAA,122,1954,652,118:335,h,1,CEAQAA,o:1,h,1,CFkQAA,i:627,S,17:412,h,1,CFkQAA,o:0,h,1,CEAQAA,i:102,S,-117:340,h,1,CEAQAA,o:0,h,1,CFoQAw,o:0,h,1,CFoQAA,o:1,h,1,CEsQAA,i:333,S,500:0,R,1,CEsQAA,122,2102,652,118:0,R,1,CEwQAA,122,2250,652,118:0,R,1,CE8QAA,122,2398,652,118:94,h,1,CEsQAA,o:3,h,1,CEwQAA,i:1176,S,114:242,h,1,CEwQAA,o:0,h,1,CAwQCA,o:1,h,1,CFcQAA,i:0,h,1,CEEQAA,i:0,h,1,CD4QAA,i:267,S,388:0,R,1,CD4QAA,122,2546,652,374:0,R,1,CEEQAA,122,2546,652,274:0,R,1,CEIQAA,122,2580,318,60:0,R,1,CFgQAA,122,2640,318,60:0,R,1,CFcQAA,122,2700,318,60:0,R,1,CFYQAA,122,2760,318,60:0,R,1,CFAQAA,456,2580,318,60:0,R,1,CEoQAA,456,2640,318,60:0,R,1,CEkQAA,456,2700,318,60:0,R,1,CEgQAA,456,2760,318,60:44,h,1,CFcQAA,o:1,h,1,CFYQAA,i:54,h,1,CFYQAA,o:0,h,1,CEEQAA,o:244,h,1,CFYQAA,i:0,h,1,CEEQAA,i:32,h,1,CFYQAA,o:0,h,1,CFgQAA,i:38,h,1,CFgQAA,o:28,h,1,CEEQAA,o:1,h,1,CD4QAA,o:67,S,133:0,R,1,CAYQAA,0,2950,1343,105:430,V,0,0,0,0:2065,V,0,2435,1358,620:8,e,B"
+        separator="="
+        value="133:1780746192585,V,0,0,0,0:7751,V,0,500,1358,620:184,h,1,CCYQAA,o:1,h,1,CAwQCA,o:28,h,1,CCQQAA,i:0,h,1,CAwQCA,i:44,h,1,CCQQAA,o:15,h,1,CCYQAA,i:65,h,1,CCYQAA,o:433,h,1,CCUQAA,i:641,S,252:0,R,1,CBQQAQ,122,1123,652,52:0,R,1,CBUQAQ,122,1176,652,52:0,R,1,CCAQAQ,122,1229,652,52:0,R,1,CE4QAA,122,1325,652,118:258,h,1,CCUQAA,o:160,h,1,CEAQAA,i:0,h,1,CFoQAw,i:0,h,1,CFoQAA,i:97,S,648:0,R,1,CFoQAA,122,1473,652,435:0,R,1,CFoQAw,122,1507,652,367:0,R,1,CD8QAA,122,1507,652,151:0,R,1,CD8QBg,122,1519,148,83:0,R,1,CD8QCA,122,1614,652,44:0,R,1,CD8QCQ,122,1614,652,44:0,R,1,CEAQAA,122,1659,652,107:0,R,1,CEAQBg,122,1671,148,83:0,R,1,CFkQAA,122,1767,652,107:0,R,1,CE0QAA,122,1954,652,118:335,h,1,CEAQAA,o:1,h,1,CFkQAA,i:627,S,17:412,h,1,CFkQAA,o:0,h,1,CEAQAA,i:102,S,-117:340,h,1,CEAQAA,o:0,h,1,CFoQAw,o:0,h,1,CFoQAA,o:1,h,1,CEsQAA,i:333,S,500:0,R,1,CEsQAA,122,2102,652,118:0,R,1,CEwQAA,122,2250,652,118:0,R,1,CE8QAA,122,2398,652,118:94,h,1,CEsQAA,o:3,h,1,CEwQAA,i:1176,S,114:242,h,1,CEwQAA,o:0,h,1,CAwQCA,o:1,h,1,CFcQAA,i:0,h,1,CEEQAA,i:0,h,1,CD4QAA,i:267,S,388:0,R,1,CD4QAA,122,2546,652,374:0,R,1,CEEQAA,122,2546,652,274:0,R,1,CEIQAA,122,2580,318,60:0,R,1,CFgQAA,122,2640,318,60:0,R,1,CFcQAA,122,2700,318,60:0,R,1,CFYQAA,122,2760,318,60:0,R,1,CFAQAA,456,2580,318,60:0,R,1,CEoQAA,456,2640,318,60:0,R,1,CEkQAA,456,2700,318,60:0,R,1,CEgQAA,456,2760,318,60:44,h,1,CFcQAA,o:1,h,1,CFYQAA,i:54,h,1,CFYQAA,o:0,h,1,CEEQAA,o:244,h,1,CFYQAA,i:0,h,1,CEEQAA,i:32,h,1,CFYQAA,o:0,h,1,CFgQAA,i:38,h,1,CFgQAA,o:28,h,1,CEEQAA,o:1,h,1,CD4QAA,o:67,S,133:0,R,1,CAYQAA,0,2950,1343,105:430,V,0,0,0,0:2065,V,0,2435,1358,620:8,e,B" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1780746209209" separator="="
+        value="1780746209209" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="opi"
+        recordRawValue="89978449" separator="=" value="89978449" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.54&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.54&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; DV=o5ZrUnU9N9EzsHQ0yOb_f22ZyeXL6Zmvh8cTyUhSr7oAAHDYen2y3Bvoxi8AAAA; NID=532=lQrFyceRLoU-jDNB60cHV1WEYLbC2dsGPqsEWHrMZ7XPkDGEzxyF2FRSNM1mbzvd85zdBZ0adwdMavJ2dbK2XuIwkleMYZ1Iw5_x5dyvteQgVuPqz6Q0XinslknE9x8x2VPOhFrq13a1uhkejVmAZRnJhjnk5UDslcoNoshKdLpH-Z6fpB3_nYXjN4UmkWzLeCRku4TuHCjCWP0QopblPiZsLw1fzArlaYo8Zq5LIODEQOXGgCmCZJe5AUfDhu0J"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="150"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+content-security-policy: object-src 'none';base-uri 'self';script-src 'nonce-ilQ4AmqJ4ywmC8lV40MO0w' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}&#xd;
+permissions-policy: unload=()&#xd;
+date: Sat, 06 Jun 2026 11:43:23 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

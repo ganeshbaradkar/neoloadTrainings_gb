@@ -1,0 +1,84 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/static/media/coins.94d436c3.svg"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/78449a71-90e9-4169-b983-c3d1c713f69a.zip"
+    slaProfileEnabled="false" thinkTime="42"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="78449a71-90e9-4169-b983-c3d1c713f69a">
+    <embedded-action>18fb0fb3-c11b-4e33-a094-66431d185858</embedded-action>
+    <embedded-action>657e6f6e-c0d6-434e-af0b-8541226852c4</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_78449a71-90e9-4169-b983-c3d1c713f69a.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/media/coins.94d436c3.svg"
+    path="/static/media/coins.94d436c3.svg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/78449a71-90e9-4169-b983-c3d1c713f69a.zip"
+    recordedResponseCode="200" responseSize="3159"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="18fb0fb3-c11b-4e33-a094-66431d185858" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_18fb0fb3-c11b-4e33-a094-66431d185858.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_18fb0fb3-c11b-4e33-a094-66431d185858.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/dashboard"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746139$j54$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:42:14 GMT&#xd;
+content-type: image/svg+xml&#xd;
+content-length: 3159&#xd;
+last-modified: Thu, 09 Nov 2023 10:02:04 GMT&#xd;
+etag: "654cae1c-c57"&#xd;
+accept-ranges: bytes&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/media/cards.14d7d738.svg"
+    path="/static/media/cards.14d7d738.svg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/78449a71-90e9-4169-b983-c3d1c713f69a.zip"
+    recordedResponseCode="200" responseSize="620"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="657e6f6e-c0d6-434e-af0b-8541226852c4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_657e6f6e-c0d6-434e-af0b-8541226852c4.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_657e6f6e-c0d6-434e-af0b-8541226852c4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/dashboard"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746139$j54$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:42:14 GMT&#xd;
+content-type: image/svg+xml&#xd;
+content-length: 620&#xd;
+last-modified: Thu, 09 Nov 2023 10:02:04 GMT&#xd;
+etag: "654cae1c-26c"&#xd;
+accept-ranges: bytes&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

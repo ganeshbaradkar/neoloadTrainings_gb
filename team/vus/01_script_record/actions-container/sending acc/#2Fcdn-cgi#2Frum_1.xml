@@ -1,0 +1,53 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/cdn-cgi/rum_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/adf0ebc3-a031-4aae-9351-e5129001400a.zip"
+    slaProfileEnabled="false" thinkTime="99"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="adf0ebc3-a031-4aae-9351-e5129001400a">
+    <embedded-action>aaa5f4a8-0e82-4c23-b59b-7f6ff61b0785</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_adf0ebc3-a031-4aae-9351-e5129001400a.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/cdn-cgi/rum" path="/cdn-cgi/rum"
+    postCharset="ISO-8859-1" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/adf0ebc3-a031-4aae-9351-e5129001400a.zip"
+    recordedResponseCode="204" responseSize="0" serverUid="openiban.com"
+    slaProfileEnabled="false" uid="aaa5f4a8-0e82-4c23-b59b-7f6ff61b0785" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_aaa5f4a8-0e82-4c23-b59b-7f6ff61b0785.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://openiban.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 11:45:17 GMT&#xd;
+content-type: text/plain&#xd;
+access-control-allow-origin: https://openiban.com&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-max-age: 86400&#xd;
+vary: Origin&#xd;
+access-control-allow-credentials: true&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KBs797ZuZHT8Y0kRKqovpZPbfxWDHO7Nr3BiyC6ZL2KBBWjQb58fvHTJP2OxWuobJHtyO%2F6OAqvuSb%2FqjQTUaJiJOhAyWjaW5UdzYjQOsc8tRntFrdVJV9mQMguFKBM%3D"}]}&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+server: cloudflare&#xd;
+cf-ray: a0772b81ba20f8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"referrer":"https://www.google.com/","eventType":3,"versions":{"js":"2026.5.0","fl":"2024.11.0"},"pageloadId":"aa47d847-f661-49ee-8baa-1be674fa5138","location":"https://openiban.com/","landingPath":"/","startTime":1780746306383.1,"nt":"navigate","siteToken":"14a87baca8d94ff9bc067f0e1d9eb651","lcp":{"value":2500,"path":"/","element":"html>body>div.container>div.jumbotron.hidden-xs>p.lead","size":46330,"rld":0,"rlt":0,"erd":1240.199999988079,"fp":null},"cls":{"value":0,"path":"/"},"fcp":{"value":2500,"path":"/"},"ttfb":{"value":1259.800000011921,"path":"/"},"inp":{"value":40,"path":"/","element":"#start_validation","name":"pointer","idy":0.5,"pdn":8.300000011920929,"pdy":31.19999998807907},"timingsV2":{"nextHopProtocol":"h2","transferSize":5318,"decodedBodySize":16723},"dt":"","st":1}]]></textPostContent>
+</http-action>

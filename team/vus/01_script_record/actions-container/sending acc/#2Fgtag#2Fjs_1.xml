@@ -1,0 +1,203 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gtag/js_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/2e888a58-6f5f-41f5-9de9-f105f3eba075.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2e888a58-6f5f-41f5-9de9-f105f3eba075">
+    <embedded-action>c2614bab-e22d-45f6-ab65-5c2b2081dd7f</embedded-action>
+    <embedded-action>eeca07e9-1009-4bc1-8c15-490229f17257</embedded-action>
+    <embedded-action>768cabaf-35e3-42ec-94d5-90130fb6c101</embedded-action>
+    <embedded-action>6ece0899-965e-419c-bcaa-faa003a5328e</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2e888a58-6f5f-41f5-9de9-f105f3eba075.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtag/js" path="/gtag/js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/2e888a58-6f5f-41f5-9de9-f105f3eba075.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="c2614bab-e22d-45f6-ab65-5c2b2081dd7f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c2614bab-e22d-45f6-ab65-5c2b2081dd7f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="AW-16521530460" separator="="
+        value="AW-16521530460" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="preconnect"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="type"
+        recordRawValue="7" separator="=" value="7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qid"
+        recordRawValue="CIiEisfE8pQDFR_QPAIdvUc6YQ" separator="="
+        value="CIiEisfE8pQDFR_QPAIdvUc6YQ" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="attribution-reporting-support" value="web;os"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="attribution-reporting-eligible" value="not-navigation-source, trigger, event-source"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 11:43:24 GMT&#xd;
+content-type: text/html&#xd;
+server: Google Tag Manager&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtm.js" path="/gtm.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/2e888a58-6f5f-41f5-9de9-f105f3eba075.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="eeca07e9-1009-4bc1-8c15-490229f17257" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_eeca07e9-1009-4bc1-8c15-490229f17257.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="GTM-16521530460" separator="="
+        value="GTM-16521530460" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="preconnect"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="type"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qid"
+        recordRawValue="CIiEisfE8pQDFR_QPAIdvUc6YQ" separator="="
+        value="CIiEisfE8pQDFR_QPAIdvUc6YQ" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="attribution-reporting-support" value="web;os"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="attribution-reporting-eligible" value="event-source, trigger"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 11:43:24 GMT&#xd;
+content-type: text/html&#xd;
+server: Google Tag Manager&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json+protobuf; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    path="/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    postCharset="ISO-8859-1" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/2e888a58-6f5f-41f5-9de9-f105f3eba075.zip"
+    recordedResponseCode="200" responseSize="53"
+    serverUid="ogads-pa.clients6.google.com" slaProfileEnabled="false"
+    uid="768cabaf-35e3-42ec-94d5-90130fb6c101" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_768cabaf-35e3-42ec-94d5-90130fb6c101</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_768cabaf-35e3-42ec-94d5-90130fb6c101.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; NID=532=CN2-VUTLpuES2aw5ZvxJ-jmb41Whz3esJrEyk_2pY_n36akNp0BvzcHNHQP7vUG6UEv3D2VWHZaMmu8NYT3fgnoxOufkCnHi7UMymUGkrQPhWWTS-yqy4HyZ3EFh4A2sGq-avg16qk3uwpevZ6WO1v4GRev7vD5p8E3495oI9i9OUdyN-uNhrUU2RI_qHPHaQJkEadjhHrkEljI9nQV3U5hDKiapIErAju18BVHWZiNlwILEK3B7HFAficd0wlZHa23Now"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyCbsbvGCe7C9mCtdaTycZB2eUFuzsYKG_E"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="x-user-agent" value="grpc-web-javascript/0.1"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json+protobuf"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json+protobuf; charset=UTF-8&#xd;
+strict-transport-security: max-age=10886400; includeSubdomains&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Sat, 06 Jun 2026 11:43:24 GMT&#xd;
+server: ESF&#xd;
+content-length: 30&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-expose-headers: x-google-eom,vary,vary,vary,content-encoding,date,server,content-length&#xd;
+server-timing: gfet4t7; dur=86&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[1,"",1,"en","co.in",0,null,0,0,"","",1,0,null,89978449,null,[1],null,1,0,{"1001":0}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="2"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/2e888a58-6f5f-41f5-9de9-f105f3eba075.zip"
+    recordedResponseCode="200" responseSize="9"
+    serverUid="functional.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="6ece0899-965e-419c-bcaa-faa003a5328e" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[KQM0LjBJL01pY3Jvc29mdC5XZWJCcm93c2VyLlNFUlAuVFBfU0VSUEF1dG9TdWdnZXN0aW9ucfSPur6a8OHeEakibzowNzllM2U3NjUyODA0OGRlOWZlY2JiYzM3MGZkYzZiMNEGgoTAAssVCgFpBkxFTk9WT4kKMjBBU1MxQTcwMADLFgoBAMsXCgFJJnI6NTYxMDE1MDAtNDg3Ni00NkQwLUFCNDMtRkE4RTYzNDBDNjk2qQ9XaW5kb3dzLkRlc2t0b3AAyxgKAYkPV2luZG93cyBEZXNrdG9wqSwxMC4wLjE5MDQxLjEuYW1kNjRmcmUudmJfcmVsZWFzZS4xOTEyMDYtMTQwNgDLGQoBqWZXOjAwMDY2OTM3MjYxYWQyNmEyYWNiMjMyMjRjYmRkZWZmMTdlZDAwMDAwOTA0ITAwMDBkYTM5YTNlZTVlNmI0YjBkMzI1NWJmZWY5NTYwMTg5MGFmZDgwNzA5IW1zZWRnZS5leGXJBiUyMDI2LzA2LzAzOjIwOjU4OjQ3ITUwOTc1YyFtc2VkZ2UuZXhlAMsfCgFJCVVubWV0ZXJlZGkHVW5rbm93bgDLIAoBKRxFVlQtV2luZG93cy1DKystTm8tMy41LjEzMS4xAMshCgFpBiswNTozMADLJQoBAMk8BmN1c3RvbctGCgEtCQoLDEFwcEluZm8uRVRhZwAHQ2hhbm5lbDAAkQgADkNvbm5lY3Rpb25UeXBlaQdVbmtub3duAAdDb250ZW50aZcFKV19JwpbW1siZ2V0IGliYW5cdTAwM2NiXHUwMDNlIGZyb20gYWNjb3VudCBudW1iZXJcdTAwM2MvYlx1MDAzZSIsMCxbNTEyLDY1MCw2N11dLFsiZ2V0IGliYW5cdTAwM2NiXHUwMDNlIG51bWJlclx1MDAzYy9iXHUwMDNlIiwwLFs1MTIsNjUwLDY3XV0sWyJnZXRcdTAwM2NiXHUwMDNlIHN3aWZ0IGNvZGUgZnJvbSBcdTAwM2MvYlx1MDAzZWliYW4iLDAsWzcsMzBdXSxbImdldFx1MDAzY2JcdTAwM2UgYmljIGZyb20gXHUwMDNjL2JcdTAwM2VpYmFuIiwwLFs3LDMwXV0sWyJnZXRcdTAwM2NiXHUwMDNlIHNvcnQgY29kZSBmcm9tIFx1MDAzYy9iXHUwMDNlaWJhbiIsMCxbNywzMF1dLFsiZ2V0XHUwMDNjYlx1MDAzZSBzd2lmdCBmcm9tIFx1MDAzYy9iXHUwMDNlaWJhbiIsMCxbNywzMF1dLFsiZ2V0XHUwMDNjYlx1MDAzZSBteSBcdTAwM2MvYlx1MDAzZWliYW4iLDAsWzcsMzBdXSxbImdldFx1MDAzY2JcdTAwM2UgbXkgXHUwMDNjL2JcdTAwM2VpYmFuXHUwMDNjYlx1MDAzZSBudW1iZXJcdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiZ2V0XHUwMDNjYlx1MDAzZSB5b3VyIFx1MDAzYy9iXHUwMDNlaWJhbiIsMCxbNywzMF1dLFsiZ2V0XHUwMDNjYlx1MDAzZSBiaWMgY29kZSBmcm9tIFx1MDAzYy9iXHUwMDNlaWJhbiIsMCxbNywzMF1dXSx7ImkiOiJnZXRpYmFuIn1dAA1Db3JyZWxhdGlvbklkaSRjOTc0YjE2Yi02MmFkLTQ2MDktYTlmMS00ZTAxYzIwMTg2NzAAD0V2ZW50SW5mby5MZXZlbDAAkQYACVNlc3Npb25JZGkkYzM4ZWNkN2EtY2Y5Ni00MjRhLWFkMmItZTllNDg5ODYxNmU2AAlUaW1lc3RhbXBpGDIwMjYtMDYtMDZUMTE6NDM6MjguOTI5WgADVXJsabsBaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jb21wbGV0ZS9zP3E9Z2V0JTIwaWJhbiZjcD00JmNsaWVudD1nd3Mtd2l6LXNlcnAmeHNzaT10JmdzX3BjcnQ9dW5kZWZpbmVkJmhsPWVuLUlOJmF1dGh1c2VyPTAmcHE9aWJhbiZwc2k9eEFja2FwN1dKOG1TNC1FUHpfTHR1UUUuMTc4MDc0NjE4OTAzNSZkcHI9MSZnc19tc3M9Z2V0aWJhbgAKcG9wX3NhbXBsZTAIqAAAAAAAAFlAAAl1dGNfZmxhZ3MwAJGGgICAgIBAAAAAKQM0LjBJL01pY3Jvc29mdC5XZWJCcm93c2VyLlNFUlAuVFBfU0VSUEF1dG9TdWdnZXN0aW9ucYSQg72a8OHeEakibzowNzllM2U3NjUyODA0OGRlOWZlY2JiYzM3MGZkYzZiMNEGgoTAAssVCgFpBkxFTk9WT4kKMjBBU1MxQTcwMADLFgoBAMsXCgFJJnI6NTYxMDE1MDAtNDg3Ni00NkQwLUFCNDMtRkE4RTYzNDBDNjk2qQ9XaW5kb3dzLkRlc2t0b3AAyxgKAYkPV2luZG93cyBEZXNrdG9wqSwxMC4wLjE5MDQxLjEuYW1kNjRmcmUudmJfcmVsZWFzZS4xOTEyMDYtMTQwNgDLGQoBqWZXOjAwMDY2OTM3MjYxYWQyNmEyYWNiMjMyMjRjYmRkZWZmMTdlZDAwMDAwOTA0ITAwMDBkYTM5YTNlZTVlNmI0YjBkMzI1NWJmZWY5NTYwMTg5MGFmZDgwNzA5IW1zZWRnZS5leGXJBiUyMDI2LzA2LzAzOjIwOjU4OjQ3ITUwOTc1YyFtc2VkZ2UuZXhlAMsfCgFJCVVubWV0ZXJlZGkHVW5rbm93bgDLIAoBKRxFVlQtV2luZG93cy1DKystTm8tMy41LjEzMS4xAMshCgFpBiswNTozMADLJQoBAMk8BmN1c3RvbctGCgEtCQoLDEFwcEluZm8uRVRhZwAHQ2hhbm5lbDAAkQgADkNvbm5lY3Rpb25UeXBlaQdVbmtub3duAAdDb250ZW50acYEKV19JwpbW1siXHUwMDNjYlx1MDAzZWdldCBhY2NvdW50IG51bWJlciBmcm9tIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBzd2lmdCBjb2RlIGZyb20gaWJhblx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJnZXQgaWJhbiIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBiaWMgZnJvbSBpYmFuXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXSxbImdldCBpYmFuXHUwMDNjYlx1MDAzZSBudW1iZXJcdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiZ2V0IGliYW5cdTAwM2NiXHUwMDNlIHFpYlx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJcdTAwM2NiXHUwMDNlZ2V0IHNvcnQgY29kZSBmcm9tIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBzd2lmdCBmcm9tIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBteSBpYmFuXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXSxbIlx1MDAzY2JcdTAwM2VnZXQgbXkgaWJhbiBudW1iZXJcdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dXSx7ImkiOiJnZXRpYmFuIn1dAA1Db3JyZWxhdGlvbklkaSRjOTc0YjE2Yi02MmFkLTQ2MDktYTlmMS00ZTAxYzIwMTg2NzAAD0V2ZW50SW5mby5MZXZlbDAAkQYACVNlc3Npb25JZGkkYzM4ZWNkN2EtY2Y5Ni00MjRhLWFkMmItZTllNDg5ODYxNmU2AAlUaW1lc3RhbXBpGDIwMjYtMDYtMDZUMTE6NDM6MjguNzk1WgADVXJsaakBaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jb21wbGV0ZS9zP3E9Z2V0aWJhbiZjcD0zJmNsaWVudD1nd3Mtd2l6LXNlcnAmeHNzaT10JmdzX3BjcnQ9dW5kZWZpbmVkJmhsPWVuLUlOJmF1dGh1c2VyPTAmcHE9aWJhbiZwc2k9eEFja2FwN1dKOG1TNC1FUHpfTHR1UUUuMTc4MDc0NjE4OTAzNSZkcHI9MQAKcG9wX3NhbXBsZTAIqAAAAAAAAFlAAAl1dGNfZmxhZ3MwAJGGgICAgIBAAAAAKQM0LjBJL01pY3Jvc29mdC5XZWJCcm93c2VyLlNFUlAuVFBfU0VSUEF1dG9TdWdnZXN0aW9ucfSU87ua8OHeEakibzowNzllM2U3NjUyODA0OGRlOWZlY2JiYzM3MGZkYzZiMNEGgoTAAssVCgFpBkxFTk9WT4kKMjBBU1MxQTcwMADLFgoBAMsXCgFJJnI6NTYxMDE1MDAtNDg3Ni00NkQwLUFCNDMtRkE4RTYzNDBDNjk2qQ9XaW5kb3dzLkRlc2t0b3AAyxgKAYkPV2luZG93cyBEZXNrdG9wqSwxMC4wLjE5MDQxLjEuYW1kNjRmcmUudmJfcmVsZWFzZS4xOTEyMDYtMTQwNgDLGQoBqWZXOjAwMDY2OTM3MjYxYWQyNmEyYWNiMjMyMjRjYmRkZWZmMTdlZDAwMDAwOTA0ITAwMDBkYTM5YTNlZTVlNmI0YjBkMzI1NWJmZWY5NTYwMTg5MGFmZDgwNzA5IW1zZWRnZS5leGXJBiUyMDI2LzA2LzAzOjIwOjU4OjQ3ITUwOTc1YyFtc2VkZ2UuZXhlAMsfCgFJCVVubWV0ZXJlZGkHVW5rbm93bgDLIAoBKRxFVlQtV2luZG93cy1DKystTm8tMy41LjEzMS4xAMshCgFpBiswNTozMADLJQoBAMk8BmN1c3RvbctGCgEtCQoLDEFwcEluZm8uRVRhZwAHQ2hhbm5lbDAAkQgADkNvbm5lY3Rpb25UeXBlaQdVbmtub3duAAdDb250ZW50aeEEKV19JwpbW1siXHUwMDNjYlx1MDAzZWdlbmVyYXRvciBpYmFuXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXSxbIlx1MDAzY2JcdTAwM2VnZW5lcmF0ZSBpYmFuIG51bWJlclx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJcdTAwM2NiXHUwMDNlZ2VybWFuIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdlcm1hbnkgaWJhbiBudW1iZXJcdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdlcm1hbiBpYmFuIGV4YW1wbGVcdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBhY2NvdW50IG51bWJlciBmcm9tIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBpYmFuXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXSxbIlx1MDAzY2JcdTAwM2VnZXQgYmljIGZyb20gaWJhblx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJcdTAwM2NiXHUwMDNlZ2V0IGliYW4gbnVtYmVyXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXSxbIlx1MDAzY2JcdTAwM2VnZW5lcmF0ZSBpYmFuIG1lZXphbiBiYW5rXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXV0seyJpIjoiZ2VpYmFuIn1dAA1Db3JyZWxhdGlvbklkaSRjOTc0YjE2Yi02MmFkLTQ2MDktYTlmMS00ZTAxYzIwMTg2NzAAD0V2ZW50SW5mby5MZXZlbDAAkQYACVNlc3Npb25JZGkkYzM4ZWNkN2EtY2Y5Ni00MjRhLWFkMmItZTllNDg5ODYxNmU2AAlUaW1lc3RhbXBpGDIwMjYtMDYtMDZUMTE6NDM6MjguNjc4WgADVXJsaagBaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jb21wbGV0ZS9zP3E9Z2VpYmFuJmNwPTImY2xpZW50PWd3cy13aXotc2VycCZ4c3NpPXQmZ3NfcGNydD11bmRlZmluZWQmaGw9ZW4tSU4mYXV0aHVzZXI9MCZwcT1pYmFuJnBzaT14QWNrYXA3V0o4bVM0LUVQel9MdHVRRS4xNzgwNzQ2MTg5MDM1JmRwcj0xAApwb3Bfc2FtcGxlMAioAAAAAAAAWUAACXV0Y19mbGFnczAAkYaAgICAgEAAAAApAzQuMEkvTWljcm9zb2Z0LldlYkJyb3dzZXIuU0VSUC5UUF9TRVJQQXV0b1N1Z2dlc3Rpb25xpPGYu5rw4d4RqSJvOjA3OWUzZTc2NTI4MDQ4ZGU5ZmVjYmJjMzcwZmRjNmIw0QaChMACyxUKAWkGTEVOT1ZPiQoyMEFTUzFBNzAwAMsWCgEAyxcKAUkmcjo1NjEwMTUwMC00ODc2LTQ2RDAtQUI0My1GQThFNjM0MEM2OTapD1dpbmRvd3MuRGVza3RvcADLGAoBiQ9XaW5kb3dzIERlc2t0b3CpLDEwLjAuMTkwNDEuMS5hbWQ2NGZyZS52Yl9yZWxlYXNlLjE5MTIwNi0xNDA2AMsZCgGpZlc6MDAwNjY5MzcyNjFhZDI2YTJhY2IyMzIyNGNiZGRlZmYxN2VkMDAwMDA5MDQhMDAwMGRhMzlhM2VlNWU2YjRiMGQzMjU1YmZlZjk1NjAxODkwYWZkODA3MDkhbXNlZGdlLmV4ZckGJTIwMjYvMDYvMDM6MjA6NTg6NDchNTA5NzVjIW1zZWRnZS5leGUAyx8KAUkJVW5tZXRlcmVkaQdVbmtub3duAMsgCgEpHEVWVC1XaW5kb3dzLUMrKy1Oby0zLjUuMTMxLjEAyyEKAWkGKzA1OjMwAMslCgEAyTwGY3VzdG9ty0YKAS0JCgsMQXBwSW5mby5FVGFnAAdDaGFubmVsMACRCAAOQ29ubmVjdGlvblR5cGVpB1Vua25vd24AB0NvbnRlbnRpwwopXX0nCltbWyJcdTAwM2NiXHUwMDNlZ2VuZXJhdG9yIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdlbmVyYXRlIGliYW4gbnVtYmVyXHUwMDNjL2JcdTAwM2UiLDAsWzcsMzBdXSxbImdpYmJvbiIsNDYsWzUxMiwxMF0seyJ6YWgiOiJbW251bGwsbnVsbCxudWxsLFtbXCJHaWJib25cIl0sW1wiUHJpbWF0ZVwiXSxudWxsLFtbXCJodHRwczovL2VuY3J5cHRlZC10Ym4wLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUWTB3U0xmZmpiY1dwOGxvVi1GT1VWVTJiSXZJRjg3UkdSVncySnhKOG5tYnEtLUJ3bGFKRXJqc19kMlFcXHUwMDI2cz0xMFwiLDFdXSxudWxsLG51bGwsbnVsbCxbW1wiaHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUmc0S2REYUh5alN5YVZhWjQwejBvLVVSdkNMWnZyZmhoOXFPWWpnUjVCV3Q5emNvVURZWW9JdjE0d1pXenN6cVRYZDVxYnV6SFUwWjg3UXlYWnpoMFVULWF5TnRFQ1xcdTAwMjZzPTEwXCIsMV0sW1wiaHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUmdrNFM0LVZndHNyekZQazhsZFdQWUVNSFl5ZGZuQW85M2pOdjdFN0FYZXFJZzdGY0VYbGQybkx6ampSa3lxZG5VOGhZQTNMYzdZd19keXhnTmJmZ2pUUkE2MTg4XFx1MDAyNnM9MTBcIiwxXSxbXCJodHRwczovL2VuY3J5cHRlZC10Ym4wLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRMTVxcVBobVBHdzYxaFNDY01yOE9fSmtGT2RoUl8tNmJrcWlnaGVkbk1HQzZKcjNOaDVfOHJ6TWRPSnhtWmhXVUQwSVRyRVlWWkZmamZiMXFJRmJnR2FOcE1xSjhcXHUwMDI2cz0xMFwiLDFdXV1dXSIsInpwIjp7ImdzX3NzcCI6ImVKemo0dERQMVRjb3pDb3hNMkQwWWt2UFRFckt6d01BTWVVRmhRIn19XSxbIlx1MDAzY2JcdTAwM2VnZXJtYW4gaWJhblx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJcdTAwM2NiXHUwMDNlZ2VuZXJhcmUgY29kIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdiIGliYW5cdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dLFsiXHUwMDNjYlx1MDAzZWdldCBpYmFuIG51bWJlclx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJnaWJhblx1MDAzY2JcdTAwM2UgbWVhbmluZ1x1MDAzYy9iXHUwMDNlIiwwLFs1MTJdXSxbIlx1MDAzY2JcdTAwM2Vnb3YgaWJhblx1MDAzYy9iXHUwMDNlIiwwLFs3LDMwXV0sWyJcdTAwM2NiXHUwMDNlZ2VuZXJhdGUgaWJhbiBudW1iZXIgbWVlemFuIGJhbmtcdTAwM2MvYlx1MDAzZSIsMCxbNywzMF1dXSx7ImFnIjp7ImEiOnsiNDAwMjQiOlsiIiwiIiwxLDIwXX19fV0ADUNvcnJlbGF0aW9uSWRpJGM5NzRiMTZiLTYyYWQtNDYwOS1hOWYxLTRlMDFjMjAxODY3MAAPRXZlbnRJbmZvLkxldmVsMACRBgAJU2Vzc2lvbklkaSRjMzhlY2Q3YS1jZjk2LTQyNGEtYWQyYi1lOWU0ODk4NjE2ZTYACVRpbWVzdGFtcGkYMjAyNi0wNi0wNlQxMTo0MzoyOC42MDFaAANVcmxppwFodHRwczovL3d3dy5nb29nbGUuY29tL2NvbXBsZXRlL3M/cT1naWJhbiZjcD0xJmNsaWVudD1nd3Mtd2l6LXNlcnAmeHNzaT10JmdzX3BjcnQ9dW5kZWZpbmVkJmhsPWVuLUlOJmF1dGh1c2VyPTAmcHE9aWJhbiZwc2k9eEFja2FwN1dKOG1TNC1FUHpfTHR1UUUuMTc4MDc0NjE4OTAzNSZkcHI9MQAKcG9wX3NhbXBsZTAIqAAAAAAAAFlAAAl1dGNfZmxhZ3MwAJGGgICAgIBAAAAAKQM0LjBJJ01pY3Jvc29mdC5XZWJCcm93c2VyLlNFUlAuVFBfU0VSUFNjcm9sbHGcjqa5mvDh3hGpIm86MDc5ZTNlNzY1MjgwNDhkZTlmZWNiYmMzNzBmZGM2YjDRBoKEwALLFQoBaQZMRU5PVk+JCjIwQVNTMUE3MDAAyxYKAQDLFwoBSSZyOjU2MTAxNTAwLTQ4NzYtNDZEMC1BQjQzLUZBOEU2MzQwQzY5NqkPV2luZG93cy5EZXNrdG9wAMsYCgGJD1dpbmRvd3MgRGVza3RvcKksMTAuMC4xOTA0MS4xLmFtZDY0ZnJlLnZiX3JlbGVhc2UuMTkxMjA2LTE0MDYAyxkKAalmVzowMDA2NjkzNzI2MWFkMjZhMmFjYjIzMjI0Y2JkZGVmZjE3ZWQwMDAwMDkwNCEwMDAwZGEzOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4OTBhZmQ4MDcwOSFtc2VkZ2UuZXhlyQYlMjAyNi8wNi8wMzoyMDo1ODo0NyE1MDk3NWMhbXNlZGdlLmV4ZQDLHwoBSQlVbm1ldGVyZWRpB1Vua25vd24AyyAKASkcRVZULVdpbmRvd3MtQysrLU5vLTMuNS4xMzEuMQDLIQoBaQYrMDU6MzAAyyUKAQDJPAZjdXN0b23LRgoBLQkKDQxBcHBJbmZvLkVUYWcAB0NoYW5uZWwwAJEIAA5Db25uZWN0aW9uVHlwZWkHVW5rbm93bgANQ29ycmVsYXRpb25JZGkkYzk3NGIxNmItNjJhZC00NjA5LWE5ZjEtNGUwMWMyMDE4NjcwAA9FdmVudEluZm8uTGV2ZWwwAJEGAAdPZmZzZXRYMAgAB09mZnNldFkwCKgAAAAAAAajQAAHT3JpZ2luWDAIAAdPcmlnaW5ZMAioAAAAAABQlEAACVNlc3Npb25JZGkkYzM4ZWNkN2EtY2Y5Ni00MjRhLWFkMmItZTllNDg5ODYxNmU2AAlUaW1lc3RhbXBpGDIwMjYtMDYtMDZUMTE6NDM6MjMuOTA5WgAKcG9wX3NhbXBsZTAIqAAAAAAAAFlAAAl1dGNfZmxhZ3MwAJGGgICAgIBAAAAA]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_6ece0899-965e-419c-bcaa-faa003a5328e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6ece0899-965e-419c-bcaa-faa003a5328e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="upload-time" value="1780746210424"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="apikey" value="079e3e76528048de9fecbbc370fdc6b0-4f27dd06-fdd2-4611-b5ea-698fd823bae6-7734"/>
+    <header name="content-encoding" value="deflate"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="expect" value="100-continue"/>
+    <header name="authmsadeviceticket" value="t=GwD2AbuEBAAUuXgePZcYxdw8EZuBoUxTAR3gtGcOZgAAEPCiWkJZmCYJON6zEEJO1CLAAd3kb/yWqUphrNcz1MXdjwJxXVru21/yZrKDxmPkB0kxfrAGQjq2i/0O7FxFyvECV01px5ncrK4A8sqZKe0E/imO6RP82MTQrXnBWpaMfKOKX/aNHMtbpzcS1H+gGHHBeshcPJrnqQxUnMGLmTT0MZbwPqeCrHM5xRsDhMczEbwk98+Xu7/RzFb9gCPOhzEsU2Iljq+R/7N4jaVoUQNE6gDfbgekKhJQ2fEZcyUpPfGsuIIPdjkzjtQxjROH50Mcx49nNC0cVqQBmZc2R6WWKT03BbdFmevpTdvspEI1YBKPgceEagk6iFJnYOvGjcZtuf2CWHuEmiQu64/8TNYhail4fLnbtJ7FZTrKGNPFR5W2MzgjQDP6e8SS5zhxJ6dqO2U7TWzeAwy83G7GUXcYmhDreNAdfq9AVPBBWz31cNCc73walRtcxwd67rG73pj5cPzJkuOpQu+9ata8YZPDciSoa8Iz1XMrwXL8uSrUoTis6jtV6CKaNgVpiFxsr1i4xi0U5NzOo56rGoLSH2gClYBaE9WI7iu1zQFH3XdtllMUhQWOTnWsLDF/y0/BIYxzXaU3bbxGXvUtFJ4/7r15PR35AQ==&amp;p="/>
+    <header name="sdk-version" value="EVT-Windows-C++-No-3.5.131.1"/>
+    <header name="content-type" value="application/bond-compact-binary"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 9&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: -5754&#xd;
+access-control-allow-headers: Connection,time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Sat, 06 Jun 2026 11:43:24 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

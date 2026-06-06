@@ -1,0 +1,45 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/NLEditor/TileCheck/V1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c9c4a9fa-0ef8-45e9-bbe0-9f255e967aa0.zip"
+    slaProfileEnabled="false" thinkTime="1082"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c9c4a9fa-0ef8-45e9-bbe0-9f255e967aa0">
+    <embedded-action>4aabc388-6025-451d-afc4-95e7b0e0dc1a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c9c4a9fa-0ef8-45e9-bbe0-9f255e967aa0.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/NLEditor/TileCheck/V1"
+    path="/NLEditor/TileCheck/V1" postCharset="ISO-8859-1" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c9c4a9fa-0ef8-45e9-bbe0-9f255e967aa0.zip"
+    recordedResponseCode="200" responseSize="771"
+    serverUid="editor.svc.cloud.microsoft" slaProfileEnabled="false"
+    uid="4aabc388-6025-451d-afc4-95e7b0e0dc1a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4aabc388-6025-451d-afc4-95e7b0e0dc1a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4aabc388-6025-451d-afc4-95e7b0e0dc1a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/json"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Sat, 06 Jun 2026 11:42:50 GMT&#xd;
+server: Kestrel&#xd;
+cache-control: no-cache&#xd;
+expires: -1&#xd;
+pragma: no-cache&#xd;
+x-content-type-options: nosniff&#xd;
+content-security-policy: default-src 'none'; base-uri 'none'; sandbox; report-uri https://csp.microsoft.com/report/OfficeNaturalLanguageEditor-PROD&#xd;
+x-correlationid: d0a566a2-f0a6-79b9-671f-173005bfa9a4</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"SessionId": "81625F3CFA024295AFFD5E25CB4FFF22","AppId": "Edge_Win32","LanguageUxId": "en-US","Content": [{"TileId": "en-US","RevisionId": "0","TileElements": [{"LanguageId": "en-US","Text": "ganesh ","TextUnit": 8}]}],"Descriptors":[{"Name": "FlightIds","Value": "wac-wordeditorservicemultiplegrammarcritiquespersentence-treatment"},{"Name": "LicenseType","Value": "NoLicense"}]}]]></textPostContent>
+</http-action>

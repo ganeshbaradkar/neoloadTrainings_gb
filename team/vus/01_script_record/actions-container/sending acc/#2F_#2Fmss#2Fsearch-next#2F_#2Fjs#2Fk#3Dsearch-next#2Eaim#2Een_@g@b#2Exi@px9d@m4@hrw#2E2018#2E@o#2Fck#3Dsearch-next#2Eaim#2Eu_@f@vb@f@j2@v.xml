@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2V"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/811ca592-0301-4c25-8ae5-bf29455a3bed.zip"
+    slaProfileEnabled="false" thinkTime="333"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="811ca592-0301-4c25-8ae5-bf29455a3bed">
+    <embedded-action>ea8d4e86-1a2d-45fe-8ffd-24318350144c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_811ca592-0301-4c25-8ae5-bf29455a3bed.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2VwE.L.B1.O/am=gBAAAAAABAAAAQAQAAACCAAAQAAABgAAAAAAAAEAAAACAAAAAAACAAAQCEAABAIAAAUAAAAAABAAIgAAAACAEgIAAAEABQgACyAEIAYAACIAAAIAAAAACAACAAAAhEAAAAAAAAAEAABAAABAAAAAAABAAEARAAAISAKAAAEACAAiIABwAEiUCAAAAAApgAAADAEAAAAAAAAAAAAFIAAAAAAAAAAAeAAAAAAC/d=1/dg=2/ujg=1/rs=AE5fCmT0pbN6MWST4Go6E0VrFlvWBjkhYA/cb=loaded_0/ee=BjwMce:cXX2Wb;CG6uBf:hCPuKc;CIZTGb:QUpXJb;EmZ2Bf:zr1jrb;JXS8fb:Qj0suc;K5nYTd:ZDZcre;KDb6nb:fE9n2;LEikZe:byfTOb,lsjVmc;MNkAde:KMCd1d;NJ1rfe:yGfSdd;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;OjQStc:hApHFd;Pjplud:PoEs9b;QGR0gd:Mlhmy;RZKicf:PQXVv;RZtOEd:DvKcFe;ScI3Yc:e7Hzgb;SwCqAd:fXbCZc;TroZ1d:vVVzjb;UYRIEb:HzTAQc;WDGyFe:jcVOxd;YIZmRd:A1yn5d;YV5bee:W0fpg;ZSH6tc:QAvyLe;a56pNe:JEfCwb;aci7y:Z5Tr6c;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;dtl0hd:lLQWFe;eBAeSb:zbML3c;eBZ5Nd:audvde;eHDfl:ofjVkb;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qaS3gd:yiLg6e;qafBPd:ovKuLd;qavrXe:I0C9u;qddgKe:xQtZb;ropkZ:hjoqoe;sTsDMc:kHVSUb;sXN2Pd:Dhyfob;t4Ja1:LwyM3;teSRSb:BMLai;twgzJd:Ix7YEd;w9w86d:VvLVQd,XwhUEb,gKD90c,lWVZVe;wBUPed:va9PTd;wR5FRb:siKnQd;wV5Pjc:L8KGxe;yxTchf:KUM7Z/m=b"
+    path="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2VwE.L.B1.O/am=gBAAAAAABAAAAQAQAAACCAAAQAAABgAAAAAAAAEAAAACAAAAAAACAAAQCEAABAIAAAUAAAAAABAAIgAAAACAEgIAAAEABQgACyAEIAYAACIAAAIAAAAACAACAAAAhEAAAAAAAAAEAABAAABAAAAAAABAAEARAAAISAKAAAEACAAiIABwAEiUCAAAAAApgAAADAEAAAAAAAAAAAAFIAAAAAAAAAAAeAAAAAAC/d=1/dg=2/ujg=1/rs=AE5fCmT0pbN6MWST4Go6E0VrFlvWBjkhYA/cb=loaded_0/ee=BjwMce:cXX2Wb;CG6uBf:hCPuKc;CIZTGb:QUpXJb;EmZ2Bf:zr1jrb;JXS8fb:Qj0suc;K5nYTd:ZDZcre;KDb6nb:fE9n2;LEikZe:byfTOb,lsjVmc;MNkAde:KMCd1d;NJ1rfe:yGfSdd;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;OjQStc:hApHFd;Pjplud:PoEs9b;QGR0gd:Mlhmy;RZKicf:PQXVv;RZtOEd:DvKcFe;ScI3Yc:e7Hzgb;SwCqAd:fXbCZc;TroZ1d:vVVzjb;UYRIEb:HzTAQc;WDGyFe:jcVOxd;YIZmRd:A1yn5d;YV5bee:W0fpg;ZSH6tc:QAvyLe;a56pNe:JEfCwb;aci7y:Z5Tr6c;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;dtl0hd:lLQWFe;eBAeSb:zbML3c;eBZ5Nd:audvde;eHDfl:ofjVkb;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qaS3gd:yiLg6e;qafBPd:ovKuLd;qavrXe:I0C9u;qddgKe:xQtZb;ropkZ:hjoqoe;sTsDMc:kHVSUb;sXN2Pd:Dhyfob;t4Ja1:LwyM3;teSRSb:BMLai;twgzJd:Ix7YEd;w9w86d:VvLVQd,XwhUEb,gKD90c,lWVZVe;wBUPed:va9PTd;wR5FRb:siKnQd;wV5Pjc:L8KGxe;yxTchf:KUM7Z/m=b"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/811ca592-0301-4c25-8ae5-bf29455a3bed.zip"
+    recordedResponseCode="200" responseSize="157968"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="ea8d4e86-1a2d-45fe-8ffd-24318350144c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ea8d4e86-1a2d-45fe-8ffd-24318350144c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ea8d4e86-1a2d-45fe-8ffd-24318350144c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-encoding: gzip&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+content-security-policy: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/search-next-ui-team&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="search-next-ui-team"&#xd;
+report-to: {"group":"search-next-ui-team","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/search-next-ui-team"}]}&#xd;
+content-length: 69670&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+date: Fri, 05 Jun 2026 15:07:49 GMT&#xd;
+expires: Sat, 05 Jun 2027 15:07:49 GMT&#xd;
+cache-control: public, immutable, max-age=31536000&#xd;
+last-modified: Thu, 04 Jun 2026 23:26:54 GMT&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+vary: Accept-Encoding, Origin&#xd;
+age: 74114&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

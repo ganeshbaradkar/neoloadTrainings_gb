@@ -1,0 +1,92 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3_7"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/8898771e-d253-4ba2-aa1d-a2a5ad7cb690.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8898771e-d253-4ba2-aa1d-a2a5ad7cb690">
+    <embedded-action>af2c2c79-78ae-43f2-a52a-1354ea49b025</embedded-action>
+    <embedded-action>dc5dc168-85b9-4b42-a0f9-49c816f4d896</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_8898771e-d253-4ba2-aa1d-a2a5ad7cb690.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/8898771e-d253-4ba2-aa1d-a2a5ad7cb690.zip"
+    recordedResponseCode="200" responseSize="1100"
+    serverUid="nav-edge.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="af2c2c79-78ae-43f2-a52a-1354ea49b025" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_af2c2c79-78ae-43f2-a52a-1354ea49b025</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_af2c2c79-78ae-43f2-a52a-1354ea49b025.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoiVHVtbDNmajVrWUpzZVB3bjFpN014dz09IiwgImhhc2giOiJvT1AwQ3llYm1VMD0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:55 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 1100&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:fa70c45d-e611-4301-aa85-379b4eb84ac3</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0","redirectChain":[],"enhancedRedirectChain":{"redirectSource":null,"referrerChain":[]},"identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":"76815139-1551-406e-83fb-52ea949a21c1","onlineIdTicket":"t=GwD2Ad9tBAAUACvdRm27aTQoBWtI3fAPXDuVCyUOZgAAEKq3LN1fYdEhJdsL2r2W7brAAQzVUnStpB72W7hUT8wqdyAiblhobc1qd1axk/WBacXeRQpkMj6UzDOJZDtbipKsG0+PSaHel6eXFauGkMEA7NhhSynIeiXAcxOlCGU41/mAK1muN4yMZlMlUsdWCdiQMBrIs49st8XKK3dS1Rmf7KwJsLPNFc7wYxYaZGtWAMdt23bIZZ0SHPlD9HVP1Ea1xCSPTfeG4VIVirvE807kmGLD7zU+Cie/3SRDzEJbSXqfSg/JPoysBa8/feMNtuuqcVLp+X3Z4O5ICxmmWq/zSqR7j0vyzFf0lESVdvfzO2eRwWA4YwzhX3Q9lU/1M7Y2ZWC6kUijOrrSXjaw6M+byjzdCDIRbZKp+seBeECIcUjbR8Nas8jRqvr+STzdctdf1RelVDxc9uUAaGsAg3YH7Ue821cIgKK5mXcicTdOH+eJWzea+yvk1U9vvPbHOz1Wp73wilR534YBSAe8gGuwXtNu+fdeVFT/j+H94TQmEcBfbdj6HuctWBj3guIvwUpi/Tk7dNE7mi+CWsm1SyOdmP8MiDBiBTrRxI+mJmlGmHFOybR+1/gRn/ZZlClogs4Z8et8Gjl03cswec/AcI2SubH5AQ==&p=","family":3,"locale":"en-US","osVersion":"10.0.19045.6466.vb_release","browser":{"internetExplorer":"9.11.19041.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"","version":"149.0.4022.52 (Official build) "},"client":{"version":"281483737300995","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-a82cb2897a8bf9445d68dcc2be05af89ad4b2fda1fddb2952693be7cd5353ad3","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"https://go.convera.com/l/1011991/2023-06-14/7k9kdn?Site_ID=en-US&country=United%20States%20of%20America&page_url=%2Fresources%2Fiban-codes%2F","ip":null},"referrer":{"uri":"https://convera.com/","ip":null},"type":"frame","forceServiceDetermination":false,"correlationId":"3a113779-4336-4adb-a03f-d32d1f0998f8","synchronous":false}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/images/source/rev-dbdd14a/convera.com/wp-content/themes/convera/assets/logos/Convera_2Color-Dark_NoTagline_TM.svg"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/images/source/rev-dbdd14a/convera.com/wp-content/themes/convera/assets/logos/Convera_2Color-Dark_NoTagline_TM.svg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/8898771e-d253-4ba2-aa1d-a2a5ad7cb690.zip"
+    recordedResponseCode="200" responseSize="4031"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="dc5dc168-85b9-4b42-a0f9-49c816f4d896" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dc5dc168-85b9-4b42-a0f9-49c816f4d896.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dc5dc168-85b9-4b42-a0f9-49c816f4d896.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="__cf_bm=bgFesDs3fg0xdxQsDFcjF7B8YdmwUqtmdX4quay0BsM-1780746231.5912871-1.0.1.1-AB5i.8gn5pKBWWmjIqEgHrXhsrl3GhnsDgtCYCmOV7brA3iCNeL0Q4JWmD7FmDtjU1qyb2GV0rOK2nvYARpNBb4UuFIA1sSKmGRp3jyjZ3Qw1MUqDUyqcsRAIlLf1tPp"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:55 GMT&#xd;
+content-type: image/svg+xml&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:24:37 GMT&#xd;
+etag: W/"6a209b95-1058"&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/assets/logos/Convera_2Color-Dark_NoTagline_TM.svg&gt;; rel="canonical"&#xd;
+vary: Accept&#xd;
+vary: accept-encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+age: 224342&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a07729855b0f8001-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,421 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/theme"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    slaProfileEnabled="false" thinkTime="991"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1d2b1b23-adc3-4484-ba06-faa6531c1518">
+    <embedded-action>d11785c7-fe1c-4ca9-bc9c-d3f03378a5b1</embedded-action>
+    <embedded-action>4bd45ff5-c220-4a1a-9e52-de864aa5ad25</embedded-action>
+    <embedded-action>f7df95ae-a33d-4c3c-9b49-cc0465ef56bb</embedded-action>
+    <embedded-action>0665fffb-af3c-4451-84af-64df91c410d5</embedded-action>
+    <embedded-action>dc7dd579-e5ef-4b84-83d9-a1baa316f0f6</embedded-action>
+    <embedded-action>eb73daaf-a990-4722-ad0c-e8f4923931b2</embedded-action>
+    <embedded-action>c9644d88-bafa-4eb7-add3-447fdd7b7947</embedded-action>
+    <embedded-action>9b9f9432-f6b6-4741-ac6e-ad5ea60adf36</embedded-action>
+    <embedded-action>64c432d3-991e-47a0-be4d-e6234d85eedf</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_1d2b1b23-adc3-4484-ba06-faa6531c1518.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-700.woff2"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-700.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="d11785c7-fe1c-4ca9-bc9c-d3f03378a5b1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d11785c7-fe1c-4ca9-bc9c-d3f03378a5b1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: font/woff2&#xd;
+content-length: 12848&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:24:37 GMT&#xd;
+etag: "6a209b95-32cb"&#xd;
+accept-ranges: bytes&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-700.woff2&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=dpKcIo33NO8X51Ct_5WxxD4rWeIFIRURKWhcLZL.9co-1780746231.546589-1.0.1.1-IkLH7C_YmX1Doasxyn._yFCm49oxuvCyGZgNHikzCuoI1YZbJg24_Kb27ydP.Kg264wnjuOSJTjC8Wa7JXb8yqVx0aeC3oGhWoJM7LGuJvRzQMTJHqZioQzokQuDNJYZ; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224329&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b2f8317ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-regular.woff2"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-regular.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="4bd45ff5-c220-4a1a-9e52-de864aa5ad25" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_4bd45ff5-c220-4a1a-9e52-de864aa5ad25.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: font/woff2&#xd;
+content-length: 12708&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:24:37 GMT&#xd;
+etag: "6a209b95-3243"&#xd;
+accept-ranges: bytes&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-regular.woff2&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=WZNSMDBSAAXpxT7eLvo6s3r.Eo4iwHrxMqmcqq1Kvoo-1780746231.5471327-1.0.1.1-90zpNClh5DJK4NgybHg27q4jxhM4jMbQwt60cHpiyXduh5gh3M5ivF0pVUQAV8QpNmWu.uH8zG_hoqAzTVxV5Nx_OFHkmw1kl2LDdC9LyFmvfS1mwnry7BO6_yfIFlc5; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224329&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b2f8517ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/bootstrap-icons/e5718acb65098f58dd428cba8bc9627a.bootstrap-icons.woff2"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/bootstrap-icons/e5718acb65098f58dd428cba8bc9627a.bootstrap-icons.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="f7df95ae-a33d-4c3c-9b49-cc0465ef56bb" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f7df95ae-a33d-4c3c-9b49-cc0465ef56bb.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: font/woff2&#xd;
+content-length: 134044&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:24:37 GMT&#xd;
+etag: "6a209b95-20c54"&#xd;
+accept-ranges: bytes&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/assets/fonts/bootstrap-icons/bootstrap-icons.woff2?e34853135f9e39acf64315236852cd5a&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=DEpYppZab5zDsIfWcAwoph3.F3.bfGO3Y02ndDRcXWg-1780746231.5477395-1.0.1.1-K8lSrjiLWK4s9MmiGyW93FoTA34z830UjVNyFgFKnvLK9Ckev6ygQ2_I.Xgn9ZMCojcJBcVaOxPv1tI3QO1q1kCrqc8Gd9.sdIHgRmKu1STPFUuQawyst0MhNFXs3csz; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224329&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b2f8617ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-500.woff2"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/source/rev-820b470/convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-500.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="0665fffb-af3c-4451-84af-64df91c410d5" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0665fffb-af3c-4451-84af-64df91c410d5.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: font/woff2&#xd;
+content-length: 12820&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:24:37 GMT&#xd;
+etag: "6a209b95-32af"&#xd;
+accept-ranges: bytes&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/assets/fonts/montserrat/montserrat-v25-latin-500.woff2&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=KQuroS_lKKLqTvlG1PVfD2MaTVKKdXteOhMo8wTyQTA-1780746231.5483556-1.0.1.1-Pe1LzmCrfy6Y7Cl9E0DqG3RnE8s48vG4.kHgSY42dT4_IAQidgyqNNzaYcdgiRbyZX91cJQlwwxBXnAVa8axJ6qtTa.Mm_JwoO44z_fxtXwGjb8s5i9HiU8Te7wLN5Xn; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224329&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b2f8817ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/images/optimized/rev-dbdd14a/convera.com/wp-content/themes/convera/flags/us.svg"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/images/optimized/rev-dbdd14a/convera.com/wp-content/themes/convera/flags/us.svg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="723"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="dc7dd579-e5ef-4b84-83d9-a1baa316f0f6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dc7dd579-e5ef-4b84-83d9-a1baa316f0f6.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dc7dd579-e5ef-4b84-83d9-a1baa316f0f6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: image/svg+xml&#xd;
+server: cloudflare&#xd;
+etag: W/"6a209aca-3d3"&#xd;
+last-modified: Wed, 03 Jun 2026 21:21:14 GMT&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/flags/us.svg&gt;; rel="canonical"&#xd;
+vary: Accept&#xd;
+vary: accept-encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=JKKnrMdlHfAJbmRyIi6Io0g06PsUIpdUUAZ7zWw6Yho-1780746231.5908554-1.0.1.1-9Dy7JlavK3ZBGZWPHF6QCziPjTXkyQ3aUWOwzlvisnLDcHFcckpkAKbL2KhwGmwCKrjmItwMGmeZvRX_iQjK7WvasgHHcR4B324BTlyE7M4aEfz4x7dt6A59aSkwSqF1; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224385&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b6bee8001-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/images/source/rev-dbdd14a/convera.com/wp-content/themes/convera/assets/logos/Convera_2Color-Light1_NoTagline.svg"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/images/source/rev-dbdd14a/convera.com/wp-content/themes/convera/assets/logos/Convera_2Color-Light1_NoTagline.svg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="2629"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="eb73daaf-a990-4722-ad0c-e8f4923931b2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eb73daaf-a990-4722-ad0c-e8f4923931b2.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_eb73daaf-a990-4722-ad0c-e8f4923931b2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: image/svg+xml&#xd;
+server: cloudflare&#xd;
+etag: W/"6a209b6d-add"&#xd;
+last-modified: Wed, 03 Jun 2026 21:23:57 GMT&#xd;
+link: &lt;https://convera.com/wp-content/themes/convera/assets/logos/Convera_2Color-Light1_NoTagline.svg&gt;; rel="canonical"&#xd;
+vary: Accept&#xd;
+vary: accept-encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=bgFesDs3fg0xdxQsDFcjF7B8YdmwUqtmdX4quay0BsM-1780746231.5912871-1.0.1.1-AB5i.8gn5pKBWWmjIqEgHrXhsrl3GhnsDgtCYCmOV7brA3iCNeL0Q4JWmD7FmDtjU1qyb2GV0rOK2nvYARpNBb4UuFIA1sSKmGRp3jyjZ3Qw1MUqDUyqcsRAIlLf1tPp; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224385&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b6bf08001-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/combinedCss/nitro-min-noimport-ba4c7ecbf9348985a638be6f5080b10a-stylesheet.css"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/combinedCss/nitro-min-noimport-ba4c7ecbf9348985a638be6f5080b10a-stylesheet.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="493012"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="c9644d88-bafa-4eb7-add3-447fdd7b7947" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c9644d88-bafa-4eb7-add3-447fdd7b7947.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c9644d88-bafa-4eb7-add3-447fdd7b7947.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: text/css&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:23:11 GMT&#xd;
+etag: W/"6a209b3f-785ee"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=dR12XDe.FscWjy2XqGw7fzIKbbUu9L6jXJkPeNMWPbI-1780746231.5490165-1.0.1.1-dYkE7_jLNmE9L8KdXtTf4QUBbjb1eAsuVEl.MChMcR0iEykUI6uGBopegzTzDIO0Mi34QUcf0NvhEXEuMcnrtM.OUoacROQ8XJgmwljSZwNUYo3O4pH7x_yDWInVDJSD; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224383&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b2f8917ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/combinedCss/nitro-min-noimport-f627862462aaa59def2f893f1dc195af-stylesheet.css"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/combinedCss/nitro-min-noimport-f627862462aaa59def2f893f1dc195af-stylesheet.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="218499"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="9b9f9432-f6b6-4741-ac6e-ad5ea60adf36" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9b9f9432-f6b6-4741-ac6e-ad5ea60adf36.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9b9f9432-f6b6-4741-ac6e-ad5ea60adf36.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:51 GMT&#xd;
+content-type: text/css&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:23:57 GMT&#xd;
+etag: W/"6a209b6d-3559d"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=mtGZgDSdxB5E0fbMT6IUa8IgipuQzrFfzoUU3w1IHGA-1780746231.5493946-1.0.1.1-hSqboT.OkaNY9QcbDbas2DbA4uVKNJzmscDVOBUygwp2lrpL_Bi.DvPFyR7PvkCJcIqjV9UjjoMG_39IVHtZJl2Hk1dpm.vXxEXDmLBMEOukK4rZhP0bkzklMDePSkRz; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:51 GMT&#xd;
+age: 224383&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a077296b2f8b17ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/autofillservice/core/page/5592272378500164705/8212723808716348124%7C9052834208972003568"
+    path="/autofillservice/core/page/5592272378500164705/8212723808716348124%7C9052834208972003568"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1d2b1b23-adc3-4484-ba06-faa6531c1518.zip"
+    recordedResponseCode="200" responseSize="194"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="64c432d3-991e-47a0-be4d-e6234d85eedf" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_64c432d3-991e-47a0-be4d-e6234d85eedf</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_64c432d3-991e-47a0-be4d-e6234d85eedf.txt</requestContentFileDescription>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="edge.microsoft.com"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="X-Client-Data" value="COeOywE="/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=691200&#xd;
+Content-Length: 194&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+X-Cache: TCP_MISS&#xd;
+X-FALCON-REF: Ref A: 36BC1BA8E6C542B3991D832F56FAD66D Ref B: SC-KORS-4ONYK_AKS-GEN10-18679786-VMSS000009_FABRICROUTER-AZUREGLOBALPRIVATE-7B6F57BCF4-NK4SW Ref C: 2026-06-06T11:43:51Z&#xd;
+X-Falcon-RouterStatusCode: SuccessfullyForwarded (200)&#xd;
+X-MSEdge-Ref: Ref A: 36BC1BA8E6C542B3991D832F56FAD66D Ref B: BOM02EDGE0609 Ref C: 2026-06-06T11:43:51Z&#xd;
+Date: Sat, 06 Jun 2026 11:43:51 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

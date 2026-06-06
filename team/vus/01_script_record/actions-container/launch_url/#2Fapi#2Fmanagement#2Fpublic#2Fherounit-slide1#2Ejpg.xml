@@ -1,0 +1,210 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/management/public/herounit-slide1.jpg"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85a51ec2-f24c-4903-ac49-75123c0deadf.zip"
+    slaProfileEnabled="false" thinkTime="1978"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="85a51ec2-f24c-4903-ac49-75123c0deadf">
+    <embedded-action>f095abc4-9766-4dc5-8884-b0d610d875cc</embedded-action>
+    <embedded-action>cfd5b864-dfd9-4298-8a33-b7d73f66ffd1</embedded-action>
+    <embedded-action>d4c5de00-d077-4499-925e-c2577c12b61e</embedded-action>
+    <embedded-action>0061212c-b28b-40a5-bef8-8e3b5e215ca4</embedded-action>
+    <embedded-action>7daface5-b28a-4d2d-83a9-24df212481d5</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_85a51ec2-f24c-4903-ac49-75123c0deadf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/management/public/herounit-slide1.jpg"
+    path="/api/management/public/herounit-slide1.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85a51ec2-f24c-4903-ac49-75123c0deadf.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="f095abc4-9766-4dc5-8884-b0d610d875cc" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f095abc4-9766-4dc5-8884-b0d610d875cc.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="if-none-match" value="W/&quot;4fc7f-1880465abc0&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746133$j60$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="if-modified-since" value="Wed, 10 May 2023 06:42:32 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:08 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+x-powered-by: Express&#xd;
+accept-ranges: bytes&#xd;
+cache-control: public, max-age=0&#xd;
+last-modified: Wed, 10 May 2023 06:42:32 GMT&#xd;
+etag: W/"4fc7f-1880465abc0"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/management/public/house_credit.jpg"
+    path="/api/management/public/house_credit.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85a51ec2-f24c-4903-ac49-75123c0deadf.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="cfd5b864-dfd9-4298-8a33-b7d73f66ffd1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_cfd5b864-dfd9-4298-8a33-b7d73f66ffd1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="if-none-match" value="W/&quot;b23da-1880465abc0&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746133$j60$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="if-modified-since" value="Wed, 10 May 2023 06:42:32 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:08 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+x-powered-by: Express&#xd;
+accept-ranges: bytes&#xd;
+cache-control: public, max-age=0&#xd;
+last-modified: Wed, 10 May 2023 06:42:32 GMT&#xd;
+etag: W/"b23da-1880465abc0"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/management/public/news3.jpg"
+    path="/api/management/public/news3.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85a51ec2-f24c-4903-ac49-75123c0deadf.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="d4c5de00-d077-4499-925e-c2577c12b61e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d4c5de00-d077-4499-925e-c2577c12b61e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="if-none-match" value="W/&quot;88d9-1880465abc0&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746133$j60$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="if-modified-since" value="Wed, 10 May 2023 06:42:32 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:08 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+x-powered-by: Express&#xd;
+accept-ranges: bytes&#xd;
+cache-control: public, max-age=0&#xd;
+last-modified: Wed, 10 May 2023 06:42:32 GMT&#xd;
+etag: W/"88d9-1880465abc0"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/management/public/news1.jpg"
+    path="/api/management/public/news1.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85a51ec2-f24c-4903-ac49-75123c0deadf.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="0061212c-b28b-40a5-bef8-8e3b5e215ca4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0061212c-b28b-40a5-bef8-8e3b5e215ca4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="if-none-match" value="W/&quot;208b3-1880465abc0&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746133$j60$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="if-modified-since" value="Wed, 10 May 2023 06:42:32 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:08 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+x-powered-by: Express&#xd;
+accept-ranges: bytes&#xd;
+cache-control: public, max-age=0&#xd;
+last-modified: Wed, 10 May 2023 06:42:32 GMT&#xd;
+etag: W/"208b3-1880465abc0"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/management/public/news2.jpg"
+    path="/api/management/public/news2.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85a51ec2-f24c-4903-ac49-75123c0deadf.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="7daface5-b28a-4d2d-83a9-24df212481d5" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_7daface5-b28a-4d2d-83a9-24df212481d5.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="if-none-match" value="W/&quot;8d29-1880465abc0&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746133$j60$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="if-modified-since" value="Wed, 10 May 2023 06:42:32 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:08 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+x-powered-by: Express&#xd;
+accept-ranges: bytes&#xd;
+cache-control: public, max-age=0&#xd;
+last-modified: Wed, 10 May 2023 06:42:32 GMT&#xd;
+etag: W/"8d29-1880465abc0"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

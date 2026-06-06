@@ -1,0 +1,529 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/css/bootstrap.css"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    slaProfileEnabled="false" thinkTime="591"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c3c4f7e2-a2a4-47d2-8367-042a53a8fddc">
+    <embedded-action>3323bcea-a1d4-4806-8499-1daf35ec60db</embedded-action>
+    <embedded-action>6115158f-ddae-4e58-9489-ab11f4dd8449</embedded-action>
+    <embedded-action>5a8759bd-f700-4f15-9f8a-d2c53acf48d3</embedded-action>
+    <embedded-action>b976d036-ef25-4df7-bc21-6f23dfc520f1</embedded-action>
+    <embedded-action>e548b434-47df-4047-b6f3-885057dc9d12</embedded-action>
+    <embedded-action>85d2fa28-192e-4ba3-92b0-4071e0bde895</embedded-action>
+    <embedded-action>40d85a0a-f3af-48b1-8e25-002e22e63e72</embedded-action>
+    <embedded-action>e6a1ab90-c7a9-409b-8522-430ab087bb05</embedded-action>
+    <embedded-action>f04ae6c5-cc87-42d0-9433-d53ed5dd9415</embedded-action>
+    <embedded-action>8816793f-fabe-48e1-917f-dbe153fd765c</embedded-action>
+    <embedded-action>261da9b0-9f25-444c-857e-6ad9db306eda</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css/bootstrap.css" path="/css/bootstrap.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="119892"
+    serverUid="openiban.com" slaProfileEnabled="false"
+    uid="3323bcea-a1d4-4806-8499-1daf35ec60db" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3323bcea-a1d4-4806-8499-1daf35ec60db.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3323bcea-a1d4-4806-8499-1daf35ec60db.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: text/css&#xd;
+content-length: 17324&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+etag: "1d454-592e3f4de63c0-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=97pmEwXT9oKOS459tklfh1ORKCcBXE8AtL3TBdm6FNBehCJwvxlJ3bCNLF3o%2BoKLTBeNeXiRUNEisphCBlCDNCySs8UTxPZ%2BHibYjTeKLzX62bOVmn7OAMi%2FLEX68pE%3D"}]}&#xd;
+cache-control: max-age=14400&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a0772b244c7ff8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css/jumbotron-narrow.css"
+    path="/css/jumbotron-narrow.css" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="1390"
+    serverUid="openiban.com" slaProfileEnabled="false"
+    uid="6115158f-ddae-4e58-9489-ab11f4dd8449" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6115158f-ddae-4e58-9489-ab11f4dd8449.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6115158f-ddae-4e58-9489-ab11f4dd8449.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: text/css&#xd;
+content-length: 602&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+etag: "56e-592e3f4de63c0-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=E8Bb3Tg24awTmi0hzBJlXThm8bWTha1hSJA8BsYhQ7fEZ8IP8b6AvnFCIbsTULnTibKEG%2FwK%2BWalxJL7Xz0jxlxTO0xC5PCcmpBaRwJbAigk1CcX%2FkirAiZEhykQmJs%3D"}]}&#xd;
+age: 4889&#xd;
+cache-control: max-age=14400&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a0772b24ad7bf8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css/custom.css" path="/css/custom.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="169"
+    serverUid="openiban.com" slaProfileEnabled="false"
+    uid="5a8759bd-f700-4f15-9f8a-d2c53acf48d3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5a8759bd-f700-4f15-9f8a-d2c53acf48d3.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5a8759bd-f700-4f15-9f8a-d2c53acf48d3.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: text/css&#xd;
+content-length: 136&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+etag: "a9-592e3f4de63c0-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aTFuLOXaCWE7xigkB2hBDCcPB6Mx2z4dhOOCP4oERYQxPjBPIGlldbLRNSGhoZdE2saGuNrbQMgxdgwrr3wf%2F2Jg8VXDwOsqVCCV7jCg%2B75EGHsJ4x4MNlv6m66VqnQ%3D"}]}&#xd;
+cache-control: max-age=14400&#xd;
+cf-cache-status: EXPIRED&#xd;
+cf-ray: a0772b24ad7cf8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/bootstrap.min.js" path="/js/bootstrap.min.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="27726"
+    serverUid="openiban.com" slaProfileEnabled="false"
+    uid="b976d036-ef25-4df7-bc21-6f23dfc520f1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b976d036-ef25-4df7-bc21-6f23dfc520f1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b976d036-ef25-4df7-bc21-6f23dfc520f1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: application/javascript&#xd;
+content-length: 7252&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+etag: "6c4e-592e3f4de63c0-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4mkrPSsoz44GmDxqg6YUPTOJQhW9dSBKJdNq729Hg4vpYfpGIyvrwmPrZiBTqPs89uJ9mmFAxkDS0tLfLD%2Bw1BBwOGNHS2WxGigmm4FLsBaunLO17SSe0MG6CnRS9lk%3D"}]}&#xd;
+cache-control: max-age=14400&#xd;
+cf-cache-status: EXPIRED&#xd;
+cf-ray: a0772b24ad7ff8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/goiban.js" path="/js/goiban.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="5899"
+    serverUid="openiban.com" slaProfileEnabled="false"
+    uid="e548b434-47df-4047-b6f3-885057dc9d12" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e548b434-47df-4047-b6f3-885057dc9d12</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e548b434-47df-4047-b6f3-885057dc9d12.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: application/javascript&#xd;
+content-length: 2209&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+etag: "170b-592e3f4de63c0-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TV1ULqVKxeYNJHBey7Xp6H59mQ7fS3F53rSbFNj5TDdPovlfo3Vg8u0OkC%2FGFQhAAMddSTcs8NdLrx8nu61s26%2FHw8pzre5sNBuAQqnusFDW9SqeOiNXfd6XXIA8ew0%3D"}]}&#xd;
+cache-control: max-age=14400&#xd;
+cf-cache-status: EXPIRED&#xd;
+cf-ray: a0772b24ad81f8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ajax/libs/Chart.js/1.0.2/Chart.min.js"
+    path="/ajax/libs/Chart.js/1.0.2/Chart.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="52091"
+    serverUid="cdnjs.cloudflare.com" slaProfileEnabled="false"
+    uid="85d2fa28-192e-4ba3-92b0-4071e0bde895" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_85d2fa28-192e-4ba3-92b0-4071e0bde895</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_85d2fa28-192e-4ba3-92b0-4071e0bde895.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-fetch-storage-access" value="none"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+server: cloudflare&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: public, max-age=30672000&#xd;
+content-encoding: br&#xd;
+last-modified: Mon, 04 May 2020 16:03:58 GMT&#xd;
+vary: Accept-Encoding&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+timing-allow-origin: *&#xd;
+x-content-type-options: nosniff&#xd;
+cf-cdnjs-via: cfworker/r2&#xd;
+x-cdnjs-cache: HIT&#xd;
+cf-cache-status: HIT&#xd;
+age: 63115&#xd;
+expires: Thu, 27 May 2027 11:45:02 GMT&#xd;
+strict-transport-security: max-age=15780000&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2B3Rx76RvIl5CTi%2FT6tlGMZCpVcR%2BHR9rGstNDQ256kBnZgjMg9KCsOT%2BMhQm0Ipcs%2BVWl07IdiZoVu0e6DlyVYWnt358eiGjzpQy4pS6S6Ta3yQaV2QdRqb0Cf6CEDZDwdG09Op%2B"}]}&#xd;
+cf-ray: a0772b26ff81b540-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ajax/libs/underscore.js/1.8.3/underscore-min.js"
+    path="/ajax/libs/underscore.js/1.8.3/underscore-min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="16449"
+    serverUid="cdnjs.cloudflare.com" slaProfileEnabled="false"
+    uid="40d85a0a-f3af-48b1-8e25-002e22e63e72" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_40d85a0a-f3af-48b1-8e25-002e22e63e72</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_40d85a0a-f3af-48b1-8e25-002e22e63e72.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-fetch-storage-access" value="none"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+server: cloudflare&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: public, max-age=30672000&#xd;
+content-encoding: br&#xd;
+last-modified: Mon, 04 May 2020 16:17:25 GMT&#xd;
+vary: Accept-Encoding&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+timing-allow-origin: *&#xd;
+x-content-type-options: nosniff&#xd;
+cf-cdnjs-via: cfworker/r2&#xd;
+x-cdnjs-cache: HIT&#xd;
+cf-cache-status: HIT&#xd;
+age: 1678&#xd;
+expires: Thu, 27 May 2027 11:45:02 GMT&#xd;
+strict-transport-security: max-age=15780000&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VHri%2FsxExI4PCZ5U6m8rN5FG2WEq4VrRF7j%2Fezy%2BUex29F9Hfn85c5nMukFWQ9NAOy2%2F6A%2BxMhUDsgNB42HGMjj3V%2F6C6c3PdFOLoopp%2BS53xtLhVz2fMBJSEhFoHy6W50Fq%2FBQU"}]}&#xd;
+cf-ray: a0772b26ff84b540-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ajax/libs/moment.js/2.10.2/moment.min.js"
+    path="/ajax/libs/moment.js/2.10.2/moment.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="34171"
+    serverUid="cdnjs.cloudflare.com" slaProfileEnabled="false"
+    uid="e6a1ab90-c7a9-409b-8522-430ab087bb05" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e6a1ab90-c7a9-409b-8522-430ab087bb05</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e6a1ab90-c7a9-409b-8522-430ab087bb05.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-fetch-storage-access" value="none"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:02 GMT&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+content-length: 11287&#xd;
+server: cloudflare&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: public, max-age=30672000&#xd;
+content-encoding: br&#xd;
+etag: "5eb03f26-857b"&#xd;
+last-modified: Mon, 04 May 2020 16:13:26 GMT&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+timing-allow-origin: *&#xd;
+x-content-type-options: nosniff&#xd;
+cf-cdnjs-via: cfworker/kv&#xd;
+vary: Accept-Encoding&#xd;
+cf-cache-status: HIT&#xd;
+age: 2282940&#xd;
+expires: Thu, 27 May 2027 11:45:02 GMT&#xd;
+accept-ranges: bytes&#xd;
+strict-transport-security: max-age=15780000&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S2TpHDMCUuxyO9QHT2t2bNHwFGRurg%2FxGSZ5d3l03WXYtZb5EcMi1izPZg%2FG7bIl1mhg2ARkRS8%2BqYK5NIQZlt0ft9qxRGyZhMPDGAGsUibkukHXrDhipZugU9MQlfIg56qRcdge"}]}&#xd;
+cf-ray: a0772b26ff87b540-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/font-woff"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/fonts/glyphicons-halflings-regular.woff"
+    path="/fonts/glyphicons-halflings-regular.woff" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="openiban.com"
+    slaProfileEnabled="false" uid="f04ae6c5-cc87-42d0-9433-d53ed5dd9415" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f04ae6c5-cc87-42d0-9433-d53ed5dd9415.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://openiban.com/css/bootstrap.css"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://openiban.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:03 GMT&#xd;
+content-type: application/font-woff&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EnDlvKrIIQWTUz8j5lXnfzzfqrPzbPdcsJO%2FCmVkDBOTEWSbB2%2F0WTR3HoY65Ej09heiAM8HrunE2XbLh2WvDlY3l6LrkTlf19gEBn27SI8Xi23xfS3fas2Ln6GaWLs%3D"}]}&#xd;
+cache-control: max-age=14400&#xd;
+cf-cache-status: HIT&#xd;
+etag: W/"4040-592e3f4de63c0"&#xd;
+content-encoding: zstd&#xd;
+cf-ray: a0772b29ec0ef8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447"
+    path="/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="33228"
+    serverUid="static.cloudflareinsights.com" slaProfileEnabled="false"
+    uid="8816793f-fabe-48e1-917f-dbe153fd765c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8816793f-fabe-48e1-917f-dbe153fd765c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8816793f-fabe-48e1-917f-dbe153fd765c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://openiban.com"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:03 GMT&#xd;
+content-type: text/javascript;charset=UTF-8&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: public, max-age=86400&#xd;
+etag: W/"2026.5.0"&#xd;
+last-modified: Thu, 07 May 2026 16:44:36 GMT&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-encoding: gzip&#xd;
+server: cloudflare&#xd;
+cf-ray: a0772b2c5b667f3f-MAA</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jquery-1.10.1.min.js"
+    path="/jquery-1.10.1.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/c3c4f7e2-a2a4-47d2-8367-042a53a8fddc.zip"
+    recordedResponseCode="200" responseSize="93064"
+    serverUid="code.jquery.com" slaProfileEnabled="false"
+    uid="261da9b0-9f25-444c-857e-6ad9db306eda" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_261da9b0-9f25-444c-857e-6ad9db306eda</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_261da9b0-9f25-444c-857e-6ad9db306eda.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://openiban.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+last-modified: Fri, 18 Oct 1991 12:00:00 GMT&#xd;
+etag: W/"28feccc0-16b88"&#xd;
+cache-control: public, max-age=31536000, stale-while-revalidate=604800&#xd;
+access-control-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-encoding: gzip&#xd;
+via: 1.1 varnish, 1.1 varnish&#xd;
+accept-ranges: bytes&#xd;
+date: Sat, 06 Jun 2026 11:45:03 GMT&#xd;
+age: 1629651&#xd;
+x-served-by: cache-lga21943-LGA, cache-maa10234-MAA&#xd;
+x-cache: HIT, HIT&#xd;
+x-cache-hits: 333, 1467&#xd;
+x-timer: S1780746304.863053,VS0,VE0&#xd;
+vary: Accept-Encoding&#xd;
+content-length: 32828</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

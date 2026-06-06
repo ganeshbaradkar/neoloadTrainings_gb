@@ -1,0 +1,56 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/event_logging/v2/batch" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/3f62eb87-c49c-4c87-bb02-130c68f96fbf.zip"
+    slaProfileEnabled="false" thinkTime="359"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3f62eb87-c49c-4c87-bb02-130c68f96fbf">
+    <embedded-action>56ae9826-3c22-4c9f-9051-9acd5f2a7e0c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3f62eb87-c49c-4c87-bb02-130c68f96fbf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/event_logging/v2/batch"
+    path="/api/event_logging/v2/batch" postCharset="ISO-8859-1"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/3f62eb87-c49c-4c87-bb02-130c68f96fbf.zip"
+    recordedResponseCode="200" responseSize="43" serverUid="claude.ai"
+    slaProfileEnabled="false" uid="56ae9826-3c22-4c9f-9051-9acd5f2a7e0c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_56ae9826-3c22-4c9f-9051-9acd5f2a7e0c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_56ae9826-3c22-4c9f-9051-9acd5f2a7e0c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="anthropic-client-platform" value="desktop_app"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="baggage" value="sentry-environment=production,sentry-release=Claude%401.9659.2,sentry-public_key=2f98127cbffe4740b1f767a2de77d23b,sentry-trace_id=00000000000000000000000000000000,sentry-org_id=1158394"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="sentry-trace" value="00000000000000000000000000000000-0000000000000000"/>
+    <header name="x-service-name" value="claude_desktop"/>
+    <header name="anthropic-desktop-topbar" value="1"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="anthropic-client-os-version" value="10.0.19045"/>
+    <header name="anthropic-client-app" value="com.anthropic.claudefordesktop"/>
+    <header name="content-type" value="application/json"/>
+    <header name="anthropic-client-version" value="1.9659.2"/>
+    <header name="anthropic-client-os-platform" value="win32"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.9659.2 Chrome/146.0.7680.216 Electron/41.6.1 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:44:54 GMT&#xd;
+content-type: application/json&#xd;
+request-id: req_011CbmwzhJCGKFnPYjVpsXu3&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+server: cloudflare&#xd;
+x-robots-tag: none&#xd;
+vary: Accept-Encoding&#xd;
+cf-cache-status: DYNAMIC&#xd;
+set-cookie: __cf_bm=mcksK8sommHBZP77HhlXIN8k7yzxNfx1gQoagNtmTCI-1780746294.271845-1.0.1.1-Ibn2sHesUl.dTChMNaBPOUxmsaH2jEDlNIRbBcYbRi_EewmnRYo6FhAQkCRlqt3oDG0wFzuLw05FWBotPE2xuXwOtyEGON5q9YTt34zmOsowbL8d_lvY.Jwg2mZgzpKC; HttpOnly; SameSite=None; Secure; Path=/; Domain=claude.ai; Expires=Sat, 06 Jun 2026 12:14:54 GMT&#xd;
+content-encoding: zstd&#xd;
+cf-ray: a0772af33f887ab9-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"events":[{"event_type":"TelemetryEvent","event_data":{"event_name":"desktop_main_event_loop_stall","timestamp":"2026-06-06T11:43:59.246Z","user_properties":{"user_id":"530f45a9-49c8-4362-95a3-25f68813f4eb"},"metadata":"{\"product_surface\":\"claude-desktop\",\"desktop_variant\":\"production\",\"deployment_mode\":\"1p\",\"config_source\":\"none\",\"config_source_remote\":false,\"inference_provider\":null,\"app_version\":\"1.9659.2\",\"commit_hash\":\"390d6ca38de808ca81aeccd2945d9c8be800f47d\",\"platform\":\"win32\",\"arch\":\"x64\",\"installer_variant\":\"squirrel\",\"running_under_translation\":false,\"os_version\":\"10.0.19045\",\"os_release\":\"10.0.19045\",\"os_build\":\"19041.1.amd64fre.vb_release.191206-1406\",\"cpu_model\":\"Intel(R) Core(TM) i5-4300M CPU @ 2.60GHz\",\"total_memory\":12776542208,\"free_memory\":4990046208,\"process_main_rss_bytes\":155930624,\"process_main_heap_used_bytes\":42382276,\"process_renderer_rss_sum_bytes\":421048320,\"process_gpu_rss_bytes\":102875136,\"process_utility_rss_sum_bytes\":229859328,\"process_main_cpu_pct\":1.54,\"process_renderer_cpu_sum_pct\":0.01,\"app_session_id\":\"1017f036-3e16-470d-85fb-427170b12df7\",\"app_uptime_seconds\":164087,\"window_count\":2,\"organization_id\":\"8b7ce2b9-f2a5-402d-a4d9-813dac581d38\",\"stall_duration_ms\":569,\"likely_sleep\":false,\"total_stalls\":19,\"cumulative_stall_ms\":21090,\"main_rss_bytes\":155856896,\"main_heap_used_bytes\":42373728}"}}]}]]></textPostContent>
+</http-action>

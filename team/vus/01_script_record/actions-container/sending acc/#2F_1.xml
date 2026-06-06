@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/9c0aa75e-a305-49eb-9d38-0090c78b81cd.zip"
+    slaProfileEnabled="false" thinkTime="52"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9c0aa75e-a305-49eb-9d38-0090c78b81cd">
+    <embedded-action>0e871d0c-ff84-49e5-bf36-1b7d237a711c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_9c0aa75e-a305-49eb-9d38-0090c78b81cd.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/9c0aa75e-a305-49eb-9d38-0090c78b81cd.zip"
+    recordedResponseCode="200" responseSize="5018"
+    serverUid="openiban.com" slaProfileEnabled="false"
+    uid="0e871d0c-ff84-49e5-bf36-1b7d237a711c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0e871d0c-ff84-49e5-bf36-1b7d237a711c.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0e871d0c-ff84-49e5-bf36-1b7d237a711c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:01 GMT&#xd;
+content-type: text/html&#xd;
+server: cloudflare&#xd;
+access-control-allow-methods: GET, POST, OPTIONS&#xd;
+access-control-max-age: 1728000&#xd;
+last-modified: Thu, 19 Sep 2019 08:44:07 GMT&#xd;
+vary: Accept-Encoding&#xd;
+server-timing: cfCacheStatus;desc="DYNAMIC"&#xd;
+server-timing: cfEdge;dur=257,cfOrigin;dur=19&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Fj8E%2BrGREQhJLJT%2FxNBt0VEZyDxvpDykH9x3%2FMBFhRMZ2gtrcLJsLtjpBgSnyBguWMl6zpkEzAL6K6whT7A5fMuxYyFa3t460nOs1WvKdcIGk45KYC8rmHVE1yYnIns%3D"}]}&#xd;
+cf-cache-status: DYNAMIC&#xd;
+content-encoding: zstd&#xd;
+cf-ray: a0772b201a7ff8e4-SIN&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

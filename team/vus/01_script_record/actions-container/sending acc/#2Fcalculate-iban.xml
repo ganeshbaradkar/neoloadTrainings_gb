@@ -1,0 +1,52 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/calculate-iban"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d84352f8-68d6-4832-9a50-1d09b3fb424c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d84352f8-68d6-4832-9a50-1d09b3fb424c">
+    <embedded-action>4fd7d622-63b8-45be-b638-c9892c112c35</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d84352f8-68d6-4832-9a50-1d09b3fb424c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/calculate-iban" path="/calculate-iban"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d84352f8-68d6-4832-9a50-1d09b3fb424c.zip"
+    recordedResponseCode="200" responseSize="81402"
+    serverUid="www.iban.com" slaProfileEnabled="false"
+    uid="4fd7d622-63b8-45be-b638-c9892c112c35" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4fd7d622-63b8-45be-b638-c9892c112c35.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4fd7d622-63b8-45be-b638-c9892c112c35.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="_pk_ref.5.da6d=%5B%22%22%2C%22%22%2C1780746203%2C%22https%3A%2F%2Fwww.google.com%2F%22%5D; _pk_id.5.da6d=9ed1393c3a2e7346.1780746203.; _pk_ses.5.da6d=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Sat, 06 Jun 2026 11:43:26 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+set-cookie: __Secure-PHPSESSID=q9bt4hopqkkio970t3l6l8a5g2; path=/; domain=iban.com; secure; HttpOnly; SameSite=Strict&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+permissions-policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()&#xd;
+referrer-policy: strict-origin-when-cross-origin&#xd;
+strict-transport-security: max-age=31536000; includeSubdomains; preload&#xd;
+content-encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

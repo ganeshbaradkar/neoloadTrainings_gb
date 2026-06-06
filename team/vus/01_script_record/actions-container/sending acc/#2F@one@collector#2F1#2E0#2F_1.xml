@@ -1,0 +1,40 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/OneCollector/1.0/_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d8c2b9df-9fcc-4f01-ab9b-a8f1577cd7ca.zip"
+    slaProfileEnabled="false" thinkTime="786"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d8c2b9df-9fcc-4f01-ab9b-a8f1577cd7ca">
+    <embedded-action>215c8478-8798-4319-86cb-0762795636a8</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d8c2b9df-9fcc-4f01-ab9b-a8f1577cd7ca.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="2"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/d8c2b9df-9fcc-4f01-ab9b-a8f1577cd7ca.zip"
+    recordedResponseCode="100" responseSize="0"
+    serverUid="functional.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="215c8478-8798-4319-86cb-0762795636a8" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[KQM0LjBJJ01pY3Jvc29mdC5XZWJCcm93c2VyLlNFUlAuVFBfU0VSUFNjcm9sbHG485X/nfDh3hGpIm86MDc5ZTNlNzY1MjgwNDhkZTlmZWNiYmMzNzBmZGM2YjDRBoKEwALLFQoBaQZMRU5PVk+JCjIwQVNTMUE3MDAAyxYKAQDLFwoBSSZyOjU2MTAxNTAwLTQ4NzYtNDZEMC1BQjQzLUZBOEU2MzQwQzY5NqkPV2luZG93cy5EZXNrdG9wAMsYCgGJD1dpbmRvd3MgRGVza3RvcKksMTAuMC4xOTA0MS4xLmFtZDY0ZnJlLnZiX3JlbGVhc2UuMTkxMjA2LTE0MDYAyxkKAalmVzowMDA2NjkzNzI2MWFkMjZhMmFjYjIzMjI0Y2JkZGVmZjE3ZWQwMDAwMDkwNCEwMDAwZGEzOWEzZWU1ZTZiNGIwZDMyNTViZmVmOTU2MDE4OTBhZmQ4MDcwOSFtc2VkZ2UuZXhlyQYlMjAyNi8wNi8wMzoyMDo1ODo0NyE1MDk3NWMhbXNlZGdlLmV4ZQDLHwoBSQlVbm1ldGVyZWRpB1Vua25vd24AyyAKASkcRVZULVdpbmRvd3MtQysrLU5vLTMuNS4xMzEuMQDLIQoBaQYrMDU6MzAAyyUKAQDJPAZjdXN0b23LRgoBLQkKDQxBcHBJbmZvLkVUYWcAB0NoYW5uZWwwAJEIAA5Db25uZWN0aW9uVHlwZWkHVW5rbm93bgANQ29ycmVsYXRpb25JZGkkZjY0Y2U3YTktYTM2NC00MGJhLWFhNzUtZjQ4ZWY0NzMzNWI0AA9FdmVudEluZm8uTGV2ZWwwAJEGAAdPZmZzZXRYMAgAB09mZnNldFkwCKgAAAAAAGigQAAHT3JpZ2luWDAIAAdPcmlnaW5ZMAioAAAAAAAgjEAACVNlc3Npb25JZGkkYzM4ZWNkN2EtY2Y5Ni00MjRhLWFkMmItZTllNDg5ODYxNmU2AAlUaW1lc3RhbXBpGDIwMjYtMDYtMDZUMTE6NDQ6MTIuOTI3WgAKcG9wX3NhbXBsZTAIqAAAAAAAAFlAAAl1dGNfZmxhZ3MwAJGGgICAgIBAAAAA]]></binaryPostContentBase64>
+    <requestContentFileDescription>recorded-requests/req_215c8478-8798-4319-86cb-0762795636a8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="upload-time" value="1780746258012"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="apikey" value="079e3e76528048de9fecbbc370fdc6b0-4f27dd06-fdd2-4611-b5ea-698fd823bae6-7734"/>
+    <header name="content-encoding" value="deflate"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="expect" value="100-continue"/>
+    <header name="authmsadeviceticket" value="t=GwD2AbuEBAAUuXgePZcYxdw8EZuBoUxTAR3gtGcOZgAAEPCiWkJZmCYJON6zEEJO1CLAAd3kb/yWqUphrNcz1MXdjwJxXVru21/yZrKDxmPkB0kxfrAGQjq2i/0O7FxFyvECV01px5ncrK4A8sqZKe0E/imO6RP82MTQrXnBWpaMfKOKX/aNHMtbpzcS1H+gGHHBeshcPJrnqQxUnMGLmTT0MZbwPqeCrHM5xRsDhMczEbwk98+Xu7/RzFb9gCPOhzEsU2Iljq+R/7N4jaVoUQNE6gDfbgekKhJQ2fEZcyUpPfGsuIIPdjkzjtQxjROH50Mcx49nNC0cVqQBmZc2R6WWKT03BbdFmevpTdvspEI1YBKPgceEagk6iFJnYOvGjcZtuf2CWHuEmiQu64/8TNYhail4fLnbtJ7FZTrKGNPFR5W2MzgjQDP6e8SS5zhxJ6dqO2U7TWzeAwy83G7GUXcYmhDreNAdfq9AVPBBWz31cNCc73walRtcxwd67rG73pj5cPzJkuOpQu+9ata8YZPDciSoa8Iz1XMrwXL8uSrUoTis6jtV6CKaNgVpiFxsr1i4xi0U5NzOo56rGoLSH2gClYBaE9WI7iu1zQFH3XdtllMUhQWOTnWsLDF/y0/BIYxzXaU3bbxGXvUtFJ4/7r15PR35AQ==&amp;p="/>
+    <header name="sdk-version" value="EVT-Windows-C++-No-3.5.131.1"/>
+    <header name="content-type" value="application/bond-compact-binary"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 100&#xd;
+</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

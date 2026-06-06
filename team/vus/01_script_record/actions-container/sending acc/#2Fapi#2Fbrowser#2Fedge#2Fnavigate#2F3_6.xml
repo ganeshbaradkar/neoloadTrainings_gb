@@ -1,0 +1,172 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3_6"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/308c3677-a936-41e1-8423-8359e03477ed.zip"
+    slaProfileEnabled="false" thinkTime="92"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="308c3677-a936-41e1-8423-8359e03477ed">
+    <embedded-action>7882b37f-4533-4985-8e3a-93a9eac69313</embedded-action>
+    <embedded-action>17281520-02b8-4b62-8bda-82aaf4f738f1</embedded-action>
+    <embedded-action>90682b62-ddcb-4d3c-8dff-bde72a0c6c7c</embedded-action>
+    <embedded-action>ad540162-baaf-4930-b7a6-1118a40329df</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_308c3677-a936-41e1-8423-8359e03477ed.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/308c3677-a936-41e1-8423-8359e03477ed.zip"
+    recordedResponseCode="200" responseSize="914"
+    serverUid="nav-edge.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="7882b37f-4533-4985-8e3a-93a9eac69313" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7882b37f-4533-4985-8e3a-93a9eac69313</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7882b37f-4533-4985-8e3a-93a9eac69313.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoiaDUzMkFYQ2tINXRkb0Q0TithdFV2dz09IiwgImhhc2giOiJibzJWSGg4SHFJND0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:52 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 914&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:fa70c45d-e611-4301-aa85-379b4eb84ac3</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0","redirectChain":[],"enhancedRedirectChain":{"redirectSource":null,"referrerChain":[]},"identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":"39accab9-fdb7-4726-a8f0-a39cb0e51aa6","onlineIdTicket":"t=GwD2Ad9tBAAUACvdRm27aTQoBWtI3fAPXDuVCyUOZgAAEKq3LN1fYdEhJdsL2r2W7brAAQzVUnStpB72W7hUT8wqdyAiblhobc1qd1axk/WBacXeRQpkMj6UzDOJZDtbipKsG0+PSaHel6eXFauGkMEA7NhhSynIeiXAcxOlCGU41/mAK1muN4yMZlMlUsdWCdiQMBrIs49st8XKK3dS1Rmf7KwJsLPNFc7wYxYaZGtWAMdt23bIZZ0SHPlD9HVP1Ea1xCSPTfeG4VIVirvE807kmGLD7zU+Cie/3SRDzEJbSXqfSg/JPoysBa8/feMNtuuqcVLp+X3Z4O5ICxmmWq/zSqR7j0vyzFf0lESVdvfzO2eRwWA4YwzhX3Q9lU/1M7Y2ZWC6kUijOrrSXjaw6M+byjzdCDIRbZKp+seBeECIcUjbR8Nas8jRqvr+STzdctdf1RelVDxc9uUAaGsAg3YH7Ue821cIgKK5mXcicTdOH+eJWzea+yvk1U9vvPbHOz1Wp73wilR534YBSAe8gGuwXtNu+fdeVFT/j+H94TQmEcBfbdj6HuctWBj3guIvwUpi/Tk7dNE7mi+CWsm1SyOdmP8MiDBiBTrRxI+mJmlGmHFOybR+1/gRn/ZZlClogs4Z8et8Gjl03cswec/AcI2SubH5AQ==&p=","family":3,"locale":"en-US","osVersion":"10.0.19045.6466.vb_release","browser":{"internetExplorer":"9.11.19041.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"","version":"149.0.4022.52 (Official build) "},"client":{"version":"281483737300995","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-a82cb2897a8bf9445d68dcc2be05af89ad4b2fda1fddb2952693be7cd5353ad3","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"https://convera.com/resources/swift-bic-codes/","ip":null},"referrer":{"uri":"https://convera.com/resources/iban-codes/","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"0e3de90b-005f-4048-8000-274bd16c0248","synchronous":false}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/wp-includes/js/jquery/nitro-min-f43b551b749a36845288913120943cc6.jquery.min.js"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/wp-includes/js/jquery/nitro-min-f43b551b749a36845288913120943cc6.jquery.min.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/308c3677-a936-41e1-8423-8359e03477ed.zip"
+    recordedResponseCode="200" responseSize="87553"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="17281520-02b8-4b62-8bda-82aaf4f738f1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_17281520-02b8-4b62-8bda-82aaf4f738f1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_17281520-02b8-4b62-8bda-82aaf4f738f1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:52 GMT&#xd;
+content-type: application/javascript&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:23:57 GMT&#xd;
+etag: W/"6a209b6d-15685"&#xd;
+link: &lt;https://convera.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=rLOM9W0EPeC37bdHkTgAEdMNioRK42.YLS8RC1gM5k0-1780746232.349913-1.0.1.1-Uk.PqGwgM7n0LzRjGOeGCx3Zqp.KVRz.bmGF1_1O1U4.HHz6WgvGGwYS6FW6ognwIydLZw.tWnhjeo6_np4sdbTg5NZAcpCTKn25ci5FKbuN7L7jmcx.WmYRl2l9y49k; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:52 GMT&#xd;
+age: 224384&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a07729702bf817ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/wp-includes/js/jquery/nitro-min-558973c0fd98109493258c8470e94016.jquery-migrate.min.js"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/wp-includes/js/jquery/nitro-min-558973c0fd98109493258c8470e94016.jquery-migrate.min.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/308c3677-a936-41e1-8423-8359e03477ed.zip"
+    recordedResponseCode="200" responseSize="13577"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="90682b62-ddcb-4d3c-8dff-bde72a0c6c7c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_90682b62-ddcb-4d3c-8dff-bde72a0c6c7c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_90682b62-ddcb-4d3c-8dff-bde72a0c6c7c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:52 GMT&#xd;
+content-type: application/javascript&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:23:57 GMT&#xd;
+etag: W/"6a209b6d-3595"&#xd;
+link: &lt;https://convera.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=0jBPewQpu9itPSt2vZE23YeSwm3iqGpWLH9z.1uF3rw-1780746232.3544366-1.0.1.1-iALFPl4iL4RzTJzd1iu55TKx_NHjkoZkcwam453pzPYM5s800BGb6ZZE2ELl5T7_ECadVqjDmbXILaFK64rBC5TaaoUHc4NMIQA0l7aWctkBiPbSULY3g089scTFR2XW; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:52 GMT&#xd;
+age: 224384&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a07729703c0117ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/nitro-min-68b3cde97caa4bdbde203af1041adcfb.script.min.js"
+    path="/oKdpdktFknihPspwCdynjsiANfaEypWa/assets/static/optimized/rev-820b470/convera.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/nitro-min-68b3cde97caa4bdbde203af1041adcfb.script.min.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/308c3677-a936-41e1-8423-8359e03477ed.zip"
+    recordedResponseCode="200" responseSize="1176"
+    serverUid="cdn-ildhbkb.nitrocdn.com" slaProfileEnabled="false"
+    uid="ad540162-baaf-4930-b7a6-1118a40329df" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ad540162-baaf-4930-b7a6-1118a40329df</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ad540162-baaf-4930-b7a6-1118a40329df.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:52 GMT&#xd;
+content-type: application/javascript&#xd;
+server: cloudflare&#xd;
+last-modified: Wed, 03 Jun 2026 21:23:57 GMT&#xd;
+etag: W/"6a209b6d-55d"&#xd;
+link: &lt;https://convera.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.min.js?ver=1&gt;; rel="canonical"&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: max-age=31536000, public&#xd;
+access-control-allow-origin: *&#xd;
+content-encoding: br&#xd;
+via: 1.1 google&#xd;
+set-cookie: __cf_bm=.l10HkZ9vJ1Xo2pscOiC9qx6jfENnJYZJk37UfjjGC8-1780746232.3548238-1.0.1.1-5PpS1mIinMKlisVCzCw27g1CQ1Bx7l2bzWd3cE4DVxZIbV9GkgA9wx7Pf23HORZNRHprpdnBaXFKv4wXFcQdyfADtlS4HS7MWrVJDkoer8yD0aZAK7b7GV7QYNV6bblK; HttpOnly; SameSite=None; Secure; Path=/; Domain=nitrocdn.com; Expires=Sat, 06 Jun 2026 12:13:52 GMT&#xd;
+age: 224384&#xd;
+cf-cache-status: HIT&#xd;
+cf-ray: a07729703c0417ac-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

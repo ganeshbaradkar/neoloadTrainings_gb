@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/prod/common/client/inject-v2.min.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/5263c569-d305-4892-8b69-3d72806a0936.zip"
+    slaProfileEnabled="false" thinkTime="520"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5263c569-d305-4892-8b69-3d72806a0936">
+    <embedded-action>b1fd565c-1d66-4f0f-b456-041fd834a916</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5263c569-d305-4892-8b69-3d72806a0936.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/prod/common/client/inject-v2.min.js"
+    path="/prod/common/client/inject-v2.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/5263c569-d305-4892-8b69-3d72806a0936.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="cdn-v1.intelliticks.com" slaProfileEnabled="false"
+    uid="b1fd565c-1d66-4f0f-b456-041fd834a916" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b1fd565c-1d66-4f0f-b456-041fd834a916.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="if-none-match" value="&quot;281d930b0d66d22f91ae3fe81238ed36&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Tue, 19 May 2026 10:32:16 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:10 GMT&#xd;
+server: cloudflare&#xd;
+x-guploader-uploadid: AAVLpEi7sBuIKyiIVSkDsU9__4vwLuZ2nm4uN9fAxWwqOOZYSftSPeFcuMXNm-QN_4ZRPXB7A5IT3_M&#xd;
+cache-control: max-age=691200, no-transform&#xd;
+expires: Wed, 19 May 2027 10:32:17 GMT&#xd;
+last-modified: Tue, 19 May 2026 10:32:16 GMT&#xd;
+etag: "281d930b0d66d22f91ae3fe81238ed36"&#xd;
+x-goog-generation: 1779186736642146&#xd;
+x-goog-metageneration: 1&#xd;
+x-goog-stored-content-encoding: gzip&#xd;
+x-goog-stored-content-length: 5823&#xd;
+age: 1559393&#xd;
+content-language: en&#xd;
+x-goog-hash: crc32c=ADQuMQ==&#xd;
+x-goog-hash: md5=KB2TCw1m0i+Rrj/oEjjtNg==&#xd;
+x-goog-storage-class: STANDARD&#xd;
+cf-cache-status: HIT&#xd;
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=br1nFQGz5T44qbep9oatdHn%2BOAPvSr45IQKtuMe%2BwrNFzpbwajhUFbjT5Y4WeJxpmR14HiRPbNy3iHVRQPTStRqMEvU3%2FkcC87h1hp%2FCpMmKpgX4iOodo0t8J98kh41Bg4MYbr7%2BxIKr"}]}&#xd;
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}&#xd;
+cf-ray: a07726f68f887f0c-MAA</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

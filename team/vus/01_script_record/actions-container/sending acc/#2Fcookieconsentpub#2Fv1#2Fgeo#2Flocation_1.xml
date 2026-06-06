@@ -1,0 +1,160 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/cookieconsentpub/v1/geo/location_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dac20fbe-584b-49b6-be3e-35603b5ff94f.zip"
+    slaProfileEnabled="false" thinkTime="11"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="dac20fbe-584b-49b6-be3e-35603b5ff94f">
+    <embedded-action>a1479309-105c-497c-9a52-b0070f3b5bda</embedded-action>
+    <embedded-action>30bf6418-1d86-4783-a050-8a146f015eb4</embedded-action>
+    <embedded-action>83716204-bad8-454f-af6d-43f5cdfc108a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_dac20fbe-584b-49b6-be3e-35603b5ff94f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cookieconsentpub/v1/geo/location"
+    path="/cookieconsentpub/v1/geo/location" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dac20fbe-584b-49b6-be3e-35603b5ff94f.zip"
+    recordedResponseCode="200" responseSize="72"
+    serverUid="geolocation.onetrust.com" slaProfileEnabled="false"
+    uid="a1479309-105c-497c-9a52-b0070f3b5bda" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a1479309-105c-497c-9a52-b0070f3b5bda</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a1479309-105c-497c-9a52-b0070f3b5bda.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="sec-purpose" value="prefetch;prerender"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:56 GMT&#xd;
+content-type: application/json&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-headers: Content-Type&#xd;
+access-control-allow-methods: GET, OPTIONS&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+content-encoding: gzip&#xd;
+server: cloudflare&#xd;
+cf-ray: a0772989dca17f77-MAA</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scripttemplates/202601.2.0/otBannerSdk.js"
+    path="/scripttemplates/202601.2.0/otBannerSdk.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dac20fbe-584b-49b6-be3e-35603b5ff94f.zip"
+    recordedResponseCode="200" responseSize="541512"
+    serverUid="cdn.cookielaw.org" slaProfileEnabled="false"
+    uid="30bf6418-1d86-4783-a050-8a146f015eb4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_30bf6418-1d86-4783-a050-8a146f015eb4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_30bf6418-1d86-4783-a050-8a146f015eb4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-fetch-storage-access" value="none"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:56 GMT&#xd;
+content-type: application/javascript&#xd;
+content-length: 131123&#xd;
+content-encoding: gzip&#xd;
+content-md5: uKADREEOlzv2LBrDlFIfGA==&#xd;
+last-modified: Thu, 26 Feb 2026 09:23:50 GMT&#xd;
+etag: 0x8DE7518C073F45D&#xd;
+server: cloudflare&#xd;
+x-ms-request-id: 8adb2c2d-201e-001b-77c1-a7bd18000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+access-control-expose-headers: x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,ETag,Last-Modified,Content-MD5,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding&#xd;
+access-control-allow-origin: *&#xd;
+accept-ranges: bytes&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+vary: accept-encoding&#xd;
+age: 60674&#xd;
+cache-control: max-age=86400&#xd;
+cf-cache-status: HIT&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+x-content-type-options: nosniff&#xd;
+cf-ray: a077298adeae184f-MAA</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/consent/9810e38c-7df8-45dc-b1da-26c4316b113f/cd26a8af-c299-433e-9101-ca1b4dcdb552/en.json"
+    path="/consent/9810e38c-7df8-45dc-b1da-26c4316b113f/cd26a8af-c299-433e-9101-ca1b4dcdb552/en.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dac20fbe-584b-49b6-be3e-35603b5ff94f.zip"
+    recordedResponseCode="200" responseSize="125295"
+    serverUid="cdn.cookielaw.org" slaProfileEnabled="false"
+    uid="83716204-bad8-454f-af6d-43f5cdfc108a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_83716204-bad8-454f-af6d-43f5cdfc108a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_83716204-bad8-454f-af6d-43f5cdfc108a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://convera.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://convera.com"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:43:56 GMT&#xd;
+content-type: application/json&#xd;
+cf-ray: a077298beaf90803-MAA&#xd;
+cf-cache-status: HIT&#xd;
+accept-ranges: bytes&#xd;
+access-control-allow-origin: *&#xd;
+age: 56389&#xd;
+cache-control: public, max-age=86400&#xd;
+content-encoding: gzip&#xd;
+etag: 0x8DE6F3270A4F208&#xd;
+expires: Sun, 07 Jun 2026 11:43:56 GMT&#xd;
+last-modified: Wed, 18 Feb 2026 21:12:36 GMT&#xd;
+server: cloudflare&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+vary: accept-encoding&#xd;
+access-control-expose-headers: x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,ETag,Last-Modified,Content-MD5,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding&#xd;
+access-control-expose-headers: X-OneTrust-IsBot&#xd;
+content-md5: /sgHV22LJVgMb55WwxMNhg==&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+x-onetrust-isbot: false&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: a6eef9b3-901e-0081-668d-d231dd000000&#xd;
+x-ms-version: 2009-09-19</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

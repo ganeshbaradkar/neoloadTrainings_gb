@@ -1,0 +1,124 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/ajax/bz_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/e86dfc65-a700-4065-ba2e-2b980bc2fcc1.zip"
+    slaProfileEnabled="false" thinkTime="425"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e86dfc65-a700-4065-ba2e-2b980bc2fcc1">
+    <embedded-action>4967bea3-cb8c-47dd-8047-db2e63b00608</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_e86dfc65-a700-4065-ba2e-2b980bc2fcc1.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/x-javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/ajax/bz" path="/ajax/bz"
+    postCharset="iso-8859-1" postType="3"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/e86dfc65-a700-4065-ba2e-2b980bc2fcc1.zip"
+    recordedResponseCode="200" responseSize="106"
+    serverUid="web.whatsapp.com" slaProfileEnabled="false"
+    uid="4967bea3-cb8c-47dd-8047-db2e63b00608" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[LS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5a09yTTdCbTkwdUkyRkRFQw0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJ0cyINCg0KMTc4MDc0NjI1ODExNw0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5a09yTTdCbTkwdUkyRkRFQw0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJwb3N0XzAiOyBmaWxlbmFtZT0iYmxvYiINCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtDQoNCnic7Vhrb6M6Gv4rkbVHOkciBAzGwLc0aZvOpPd2Ou2kQgbMJQGbMc6tVf/7CkjaTDfd2V3NVKerJF+M7fdiP6/9vn6+fQMRyQLujsmMlIFIC+nNqe9RIbgAyiOgwAWPI0CK4igcAXcEdAtr0LYcDRnIgHAElBEgQUDL0pN8QtkIuGyaZVUvC2gpufASUia17EKOH8K0FvGnLMyoNyMiJUy+CAVZSpm8SnPaWMO2hk1Ld1AtFfBsmrP1CNZWnXnBGWXyUpJgciBITssRcL/dKyNAF1KQ9UckOJOUhR5lsxeL8ZSIcJiWcj0tS1lj3G70ZzyOUxbXiudcTOqxOan2qR7PaVmSmB5wkRNZDw6P+q1Ke6vd+qNsnZ2USitPyzJlsdv6o1RaAckyKqp2688sDY9YJEg3CPiUyfaczKnfJmHW9qfZpB1T2Q7pLA1oW9CAi/CvTZtnRJC8XuwIIK1xt9mpn6kZgWqpjKz2+WBvyOOYilq2JHmRUW9O0zhpFqQ3/XV81B2JlEXpdjqlJDIN1HlCZEmKQmVUdkQpArVIis7M7Cy7HdHJsmJw9rB3p9/dqOOyUfUjVI9vQJuGlMk0SivH3BGQ6j8aT15D9Ks8e1JeeWLblr7dk3xayihdvKs70ETmNm/iH72Amm38j36k5blvdpbHnaxDmXd92R53oLfoTT91e/HkduqcD9Cnwfd+30jap7nWF224J24yb9Az7/pn0fR4dm7ZWpYMr2aDWRwcnoV8fEICLFhSLCbZXXSoawMPXyJhXR13B3wxkXggTib9q97gRLDbW2TOyHB+7t+mzNtLWH7z5XpyeneKBB53bY3y26/w8+KiOza+5o64pd7lTehnuP395KG9Jx+GxYN/uP8pPu6dJzE6PVyKo94SnhP/uhDafnZ0ermw9vdPJrn/GSV5+Ck6tAe37c/H1kP7gZc3Wf9LtBQXmbNM9AAuJslBezsMOtwaFNEOhveEwXCgsw2GHQq/FYUqb8hl0exuXSfU21uQmHpynbchNKBmWM2I4GMayNdpU/As41O5rg5W2bikYkaFJ+gsLVO+UU2URbr5NWPVnOaS1kzNwSZeXb4kDFOZckYyrykmnpU9VwWSkOy0CHjYZB+o1P9qZEbFyuwINGGzONjrU38av8jGq4Rbp8mUxU0qzTgJUxZfi+zZzDxlIZ8PeUAqf64vhj8E35z6L5EX8LyzWWxc8qkInlPz6eHh/kWzuFVNtXIhZktT0npko1lALuGkbmqhT/Xwde/25va5201sn7vRu557/1zT3bwuJ+qIKXhZo9X0IwePwBNQgACuroAQuEBHth9FyLQ1YtmG5Ru2roWGrYcBCY2ImkABJXCBq8F4GWJ38h3bywIoQAL3uXjUNGSomu3YCiCVSs3UVAebKrY1VWv9+RJAfwEF+MD9pis6tO8VkIbAfayK38uAFzQ8qi8auQQuwLpjWtjGJrI1y4RAAUFG0hy4IMlJ4EmZqY15w0G22r3Q2Wd/fHIzw2b3q72I+GLR69/hmTC7zkHheJPpqexFwh9+Ka+GKABPCghK4GLLflJeamDHMlWIkaIp0DHte2VdvPOwrKt2n8gg2aja6+8RcB9HABqW0bTWMdccxLqH+mpBRaQSJtRykhYFDVXJuVcmXMhmTgWQrisjEK4O4ZPyhiDj0qvOm5/RDdFNyadKFut45VC9pykt1SjyxvVC1G2vEfXVy0OtYeytlcwok2p1emj4hlllPStlEVd9wh5IWkmo06I6vF4hePWMqU/0v1fQCPzcUEAKORVvzqt+vzzWHagbqqGjjxzqUEO6bqqWpWiK5eD3D3T0m2GCGkbYVPUPfSFB3TAxUhGqLiQDm+8OE/7dKOmmAx3Vdj72YaoqYF3F/4LS35vygaa+o3z+Q8oH7iifHeWze+XuKJ//dxh2lM/fmfLBGCO0o3x2lM9/R/nYv57ygQbCGKqW5jgfunQ3dQubqgYd+104n59TN2+RPlteZ8aO8nkXygeajo5M9YMzPghpCKlIRzXlg+7v/wl9ZGCHDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlrT3JNN0JtOTB1STJGREVDDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InEiDQoNClt7ImFwcF9pZCI6IjE2NzAyODY5MDUzNTMyMiIsInBvc3RzIjoiMCIsInVzZXIiOiI3MTk0Njc4NzQ1ODA2NDIiLCJ3ZWJTZXNzaW9uSWQiOiI6MDJneWQ3OmtxNzh5cCIsInRyaWdnZXIiOiJmYWxjbzpqYXZhc2NyaXB0X3dlYl9lcnJvciIsInNlbmRfbWV0aG9kIjoiYWpheCIsImNvbXByZXNzaW9uIjoiZGVmbGF0ZSIsInNuYXBweV9tcyI6NjQ0fV0NCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWtPck03Qm05MHVJMkZERUMtLQ0K]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_4967bea3-cb8c-47dd-8047-db2e63b00608</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4967bea3-cb8c-47dd-8047-db2e63b00608.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__a"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__ccg"
+        recordRawValue="UNKNOWN" separator="=" value="UNKNOWN" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="__comet_req" recordRawValue="17" separator="=" value="17" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__hs"
+        recordRawValue="20610.HYP%3Awhatsapp_comet_pkg.2.1...0"
+        separator="=" value="20610.HYP:whatsapp_comet_pkg.2.1...0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__hsi"
+        recordRawValue="7648237063665248366" separator="="
+        value="7648237063665248366" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__req"
+        recordRawValue="1w" separator="=" value="1w" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__rev"
+        recordRawValue="1040974780" separator="=" value="1040974780" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__s"
+        recordRawValue="%3A02gyd7%3Akq78yp" separator="="
+        value=":02gyd7:kq78yp" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="__spin_b" recordRawValue="trunk" separator="="
+        value="trunk" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="__spin_r" recordRawValue="1040974780" separator="="
+        value="1040974780" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="__spin_t" recordRawValue="1780743958" separator="="
+        value="1780743958" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="__user"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="dpr"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="jazoest" recordRawValue="21831" separator="="
+        value="21831" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="lsd"
+        recordRawValue="eE74q0vDOA8Xslt_EDpEaF" separator="="
+        value="eE74q0vDOA8Xslt_EDpEaF" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="ph"
+        recordRawValue="C3" separator="=" value="C3" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://web.whatsapp.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="wa_ul=6ead7d72-c0de-4197-82fe-54e9cd01ac61; wa_web_lang_pref=en_US; wa_web_access_token=WAAVcIxECyt7SqNWpjvjav1v2o0LEPMKHr4dkr2G8oBO7ooypJJZB5QMZAME3guYtXll6eMmnZBzjhuNZCKGSU4o4lDEB4FoESVOH5xuzlZBnQbHn5KlNLPcfjyp1lHrSyMjsLvagZDZD"/>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="origin" value="https://web.whatsapp.com"/>
+    <header name="x-asbd-id" value="359341"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-fb-lsd" value="eE74q0vDOA8Xslt_EDpEaF"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;148&quot;, &quot;Google Chrome&quot;;v=&quot;148&quot;, &quot;Not/A)Brand&quot;;v=&quot;99&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Chromium&quot;;v=&quot;148.0.7778.218&quot;, &quot;Google Chrome&quot;;v=&quot;148.0.7778.218&quot;, &quot;Not/A)Brand&quot;;v=&quot;99.0.0.0&quot;"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="multipart/form-data; boundary=----WebKitFormBoundarykOrM7Bm90uI2FDEC"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-encoding: zstd&#xd;
+content-type: application/x-javascript; charset=utf-8&#xd;
+x-frame-options: DENY&#xd;
+reporting-endpoints: coop_report="https://www.facebook.com/browser_reporting/coop/?minimize=0", default="https://web.whatsapp.com/ajax/whatsapp_error_reports/?device_level=unknown&amp;brsid=7648246916883340939&amp;comet_app_key=17&amp;cpp=C3&amp;cv=1040976739&amp;st=1780746252751", permissions_policy="https://www.whatsapp.com/whatsapp_browser_error_reports/"&#xd;
+document-policy: force-load-at-top&#xd;
+document-policy: include-js-call-stacks-in-crash-reports&#xd;
+permissions-policy: accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(), compute-pressure=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), private-state-token-issuance=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), shared-storage=(), shared-storage-select-url=(), private-state-token-redemption=(), usb=(), unload=(self), window-management=(), xr-spatial-tracking=();report-to="permissions_policy"&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+origin-trial: ApxEQ+svJ/BvQ8JtSJdDsnwv/gOXedkcox0XU8+snS3w6b4nSgDoyEms+0jGopE4SIRVvlqJmzPHqZYbkP0sxwgAAAB1eyJvcmlnaW4iOiJodHRwczovL3d3dy5mYWNlYm9vay5jb206NDQzIiwiZmVhdHVyZSI6IkNyYXNoUmVwb3J0aW5nU3RvcmFnZUFQSSIsImV4cGlyeSI6MTc3NjcyOTYwMCwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+cross-origin-opener-policy: same-origin-allow-popups&#xd;
+pragma: no-cache&#xd;
+cache-control: private, no-cache, no-store, must-revalidate&#xd;
+expires: Sat, 01 Jan 2000 00:00:00 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+report-to: {"max_age":2592000,"endpoints":[{"url":"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0"}],"group":"coop_report","include_subdomains":true}, {"max_age":259200,"endpoints":[{"url":"https:\/\/web.whatsapp.com\/ajax\/whatsapp_error_reports\/?device_level=unknown&amp;brsid=7648246916883340939&amp;comet_app_key=17&amp;cpp=C3&amp;cv=1040976739&amp;st=1780746252751"}]}, {"max_age":21600,"endpoints":[{"url":"https:\/\/www.whatsapp.com\/whatsapp_browser_error_reports\/"}],"group":"permissions_policy"}&#xd;
+origin-agent-cluster: ?1&#xd;
+access-control-expose-headers: X-FB-Debug, X-Loader-Length, Error-MID, X-FB-Trace-ID, X-Stack&#xd;
+access-control-allow-methods: OPTIONS&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://web.whatsapp.com&#xd;
+vary: Origin&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=31536000; preload; includeSubDomains&#xd;
+x-fb-debug: o6hVJx/e9/50Dz/3rRsfVJOD/nL0+0xD7CvK/H8efUxbmQGaW8BOrr5hsQ6AY4C88wnhhTToijG7Z46LLxiZ7A==&#xd;
+date: Sat, 06 Jun 2026 11:44:12 GMT&#xd;
+x-fb-connection-quality: EXCELLENT; q=0.9, rtt=9, rtx=0, c=14, mss=1392, tbw=509, tp=-1, tpl=-1, uplat=206, ullat=3&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-string name="ts" recordRawValue=""
+            value="1780746258117" valueMode="USE_VALUE"/>
+        <multipart-file attachedFilename="recorded-resources/blob.1"
+            contentType="application/octet-stream" filename="blob" name="post_0"/>
+        <multipart-string name="q" recordRawValue=""
+            value="[{&quot;app_id&quot;:&quot;167028690535322&quot;,&quot;posts&quot;:&quot;0&quot;,&quot;user&quot;:&quot;719467874580642&quot;,&quot;webSessionId&quot;:&quot;:02gyd7:kq78yp&quot;,&quot;trigger&quot;:&quot;falco:javascript_web_error&quot;,&quot;send_method&quot;:&quot;ajax&quot;,&quot;compression&quot;:&quot;deflate&quot;,&quot;snappy_ms&quot;:644}]" valueMode="USE_VALUE"/>
+    </multiparts>
+</http-action>

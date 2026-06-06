@@ -1,0 +1,171 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/log_13"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/82de8844-618c-49b0-8593-c118b9684856.zip"
+    slaProfileEnabled="false" thinkTime="81"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="82de8844-618c-49b0-8593-c118b9684856">
+    <embedded-action>681d7367-16e5-40d6-9e7e-b55ff9b4b1b9</embedded-action>
+    <embedded-action>4167396f-2e89-432a-a05f-d52eaec2baa2</embedded-action>
+    <embedded-action>fd9c6f15-92e8-4953-bc3b-a86d2d661c9d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_82de8844-618c-49b0-8593-c118b9684856.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/log" path="/log" postContentUnzipped="true"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/82de8844-618c-49b0-8593-c118b9684856.zip"
+    recordedResponseCode="200" responseSize="131"
+    serverUid="play.google.com" slaProfileEnabled="false"
+    uid="681d7367-16e5-40d6-9e7e-b55ff9b4b1b9" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[W1sxLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFtudWxsLG51bGwsbnVsbCxudWxsLCJlbi1JTiIsbnVsbCxudWxsLG51bGwsW1tbIkdvb2dsZSBDaHJvbWUiLCIxNDkiXSxbIkNocm9taXVtIiwiMTQ5Il0sWyJOb3QpQTtCcmFuZCIsIjI0Il1dLDAsIldpbmRvd3MiLCIxMC4wLjAiLCJ4ODYiLCIiLCIxNDkuMC43ODI3LjU0Il0sWzEsMF1dXSwzNzMsW1sxNzgwNzQ2MjI0NjU0LG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLCJbMSw0MDQwMCwxLG51bGwsXCI5MjQzOTk3OTIuMFwiLFwiNlFja2F1ZmpPSm55NC1FUGtJM1F5UU1cIixudWxsLG51bGwsbnVsbCxcImVuXCIsXCJJTkRcIiwwLDE5LDEzMDUsbnVsbCwwLDAsbnVsbCxcIm9nLTYzNGM2N2U0LWU2MjItNGVjMS1iN2E0LWE1YmQ3MWZmMWM4N1wiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLDEsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsMCwxLG51bGwsbnVsbCwwLG51bGwsWzIsNSxcInNsXCIsMzhdLG51bGwsbnVsbCxudWxsLG51bGwsMV0iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLC0xOTgwMCxbbnVsbCxudWxsLG51bGwsIltudWxsLG51bGwsWzM3MDEzODQsMTAyNzcyNTQ2LDExNjExOTgyNSwxMTYyNDkwNDAsMTE2MjQ5MDQzXV0iXSxudWxsLG51bGwsbnVsbCxudWxsLDFdLFsxNzgwNzQ2MjI1MTIzLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLCJbMTMwLDQwNDAwLDEsbnVsbCxcIjkyNDM5OTc5Mi4wXCIsXCI2UWNrYXVmak9Kbnk0LUVQa0kzUXlRTVwiLG51bGwsbnVsbCxudWxsLFwiZW5cIixcIklORFwiLDAsMTksMTc3NSxudWxsLDAsMCxudWxsLFwib2ctNjM0YzY3ZTQtZTYyMi00ZWMxLWI3YTQtYTViZDcxZmYxYzg3XCIsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsMixudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLDEsbnVsbCxudWxsLDAsbnVsbCxbMiw1LFwic2xcIiwzOF0sbnVsbCxudWxsLG51bGwsbnVsbCwxXSIsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsLTE5ODAwLFtudWxsLG51bGwsbnVsbCwiW251bGwsbnVsbCxbMzcwMTM4NCwxMDI3NzI1NDYsMTE2MTE5ODI1LDExNjI0OTA0MCwxMTYyNDkwNDNdXSJdLG51bGwsbnVsbCxudWxsLG51bGwsMl1dLDE3ODA3NDYyMjU4MDEsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxbW251bGwsW251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLDEyMjUwNTY5NV1dLDldXQ==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_681d7367-16e5-40d6-9e7e-b55ff9b4b1b9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_681d7367-16e5-40d6-9e7e-b55ff9b4b1b9.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="format"
+        recordRawValue="json" separator="=" value="json" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="hasfast" recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; NID=532=ZiDX3mXoauM4DWRsETTGmAlSCX1Vzp3FCpa1qUUUUsjEoYGkUn2VNugX16SB-qO05jfc1vVWal6YYQbgEF8pieS2O3_wJN-0qDNBZyoHJw3EZiyWPuJaMKWIPD-WhKfDoNwGpeOdDAFysMfB4QmZK4e7Jd4vO1FNeD7QH2SbrUvmtw_P30dplqzx6dg8bv0MhqSUAYYvksDuPbIIXXPI9vdmi7ufjvf1poQAV8S9EvW9ITVO62IV0IQNZWdWMcRZUYiZlMp6stE"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="content-encoding" value="gzip"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/binary"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: X-Playlog-Web&#xd;
+content-type: text/plain; charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+date: Sat, 06 Jun 2026 11:43:40 GMT&#xd;
+server: Playlog&#xd;
+content-length: 131&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2VwE.L.B1.O/am=gBAAAAAABAAAAQAQAAACCAAAQAAABgAAAAAAAAEAAAACAAAAAAACAAAQCEAABAIAAAUAAAAAABAAIgAAAACAEgIAAAEABQgACyAEIAYAACIAAAIAAAAACAACAAAAhEAAAAAAAAAEAABAAABAAAAAAABAAEARAAAISAKAAAEACAAiIABwAEiUCAAAAAApgAAADAEAAAAAAAAAAAAFIAAAAAAAAAAAeAAAAAAC/d=1/exm=Aoijq,CAwPlc,CEabdc,KHhJQ,Oh6VO,XqmSxe,b,bcx3gf,bzxG6c,i6HcHb,m0LFHd,nfCumd/excm=Aiz46d,Ao6dnf,B25inf,D1nDFc,DVhgpe,DYv9hf,E1OJWe,FckSrf,N8PT0,QG8Nu,QtjBjf,Rx97Ze,U1lWlb,W8NV9d,WYobbb,WjeJMc,XmAqMd,ZMzZQd,ayDvec,bFSsRb,bTGTre,fWuSJe,g0BaKe,kpIzx,nx4H1c,oseeJb,rJ2Olb,rgWv3d,rjxeEe,tXNq8b,yxVckb/ed=1/dg=2/ujg=1/rs=AE5fCmT0pbN6MWST4Go6E0VrFlvWBjkhYA/cb=loaded_1_2/ee=BjwMce:cXX2Wb;CG6uBf:hCPuKc;CIZTGb:QUpXJb;EmZ2Bf:zr1jrb;JXS8fb:Qj0suc;K5nYTd:ZDZcre;KDb6nb:fE9n2;LEikZe:byfTOb,lsjVmc;MNkAde:KMCd1d;NJ1rfe:yGfSdd;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;OjQStc:hApHFd;Pjplud:PoEs9b;QGR0gd:Mlhmy;RZKicf:PQXVv;RZtOEd:DvKcFe;ScI3Yc:e7Hzgb;SwCqAd:fXbCZc;TroZ1d:vVVzjb;UYRIEb:HzTAQc;WDGyFe:jcVOxd;YIZmRd:A1yn5d;YV5bee:W0fpg;ZSH6tc:QAvyLe;a56pNe:JEfCwb;aci7y:Z5Tr6c;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;dtl0hd:lLQWFe;eBAeSb:zbML3c;eBZ5Nd:audvde;eHDfl:ofjVkb;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qaS3gd:yiLg6e;qafBPd:ovKuLd;qavrXe:I0C9u;qddgKe:xQtZb;ropkZ:hjoqoe;sTsDMc:kHVSUb;sXN2Pd:Dhyfob;t4Ja1:LwyM3;teSRSb:BMLai;twgzJd:Ix7YEd;w9w86d:VvLVQd,XwhUEb,gKD90c,lWVZVe;wBUPed:va9PTd;wR5FRb:siKnQd;wV5Pjc:L8KGxe;yxTchf:KUM7Z/m=uUCgYd,v48bt,zp3Dsd,TDBkbc,V5rKoc,jXk9bd,a7qCn,sRLmTc,mPWODf,oSLmPe,fly6D,zYmgkd,hNviFe,KMhGd,llbKvd,r3gopb"
+    path="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2VwE.L.B1.O/am=gBAAAAAABAAAAQAQAAACCAAAQAAABgAAAAAAAAEAAAACAAAAAAACAAAQCEAABAIAAAUAAAAAABAAIgAAAACAEgIAAAEABQgACyAEIAYAACIAAAIAAAAACAACAAAAhEAAAAAAAAAEAABAAABAAAAAAABAAEARAAAISAKAAAEACAAiIABwAEiUCAAAAAApgAAADAEAAAAAAAAAAAAFIAAAAAAAAAAAeAAAAAAC/d=1/exm=Aoijq,CAwPlc,CEabdc,KHhJQ,Oh6VO,XqmSxe,b,bcx3gf,bzxG6c,i6HcHb,m0LFHd,nfCumd/excm=Aiz46d,Ao6dnf,B25inf,D1nDFc,DVhgpe,DYv9hf,E1OJWe,FckSrf,N8PT0,QG8Nu,QtjBjf,Rx97Ze,U1lWlb,W8NV9d,WYobbb,WjeJMc,XmAqMd,ZMzZQd,ayDvec,bFSsRb,bTGTre,fWuSJe,g0BaKe,kpIzx,nx4H1c,oseeJb,rJ2Olb,rgWv3d,rjxeEe,tXNq8b,yxVckb/ed=1/dg=2/ujg=1/rs=AE5fCmT0pbN6MWST4Go6E0VrFlvWBjkhYA/cb=loaded_1_2/ee=BjwMce:cXX2Wb;CG6uBf:hCPuKc;CIZTGb:QUpXJb;EmZ2Bf:zr1jrb;JXS8fb:Qj0suc;K5nYTd:ZDZcre;KDb6nb:fE9n2;LEikZe:byfTOb,lsjVmc;MNkAde:KMCd1d;NJ1rfe:yGfSdd;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;OjQStc:hApHFd;Pjplud:PoEs9b;QGR0gd:Mlhmy;RZKicf:PQXVv;RZtOEd:DvKcFe;ScI3Yc:e7Hzgb;SwCqAd:fXbCZc;TroZ1d:vVVzjb;UYRIEb:HzTAQc;WDGyFe:jcVOxd;YIZmRd:A1yn5d;YV5bee:W0fpg;ZSH6tc:QAvyLe;a56pNe:JEfCwb;aci7y:Z5Tr6c;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;dtl0hd:lLQWFe;eBAeSb:zbML3c;eBZ5Nd:audvde;eHDfl:ofjVkb;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qaS3gd:yiLg6e;qafBPd:ovKuLd;qavrXe:I0C9u;qddgKe:xQtZb;ropkZ:hjoqoe;sTsDMc:kHVSUb;sXN2Pd:Dhyfob;t4Ja1:LwyM3;teSRSb:BMLai;twgzJd:Ix7YEd;w9w86d:VvLVQd,XwhUEb,gKD90c,lWVZVe;wBUPed:va9PTd;wR5FRb:siKnQd;wV5Pjc:L8KGxe;yxTchf:KUM7Z/m=uUCgYd,v48bt,zp3Dsd,TDBkbc,V5rKoc,jXk9bd,a7qCn,sRLmTc,mPWODf,oSLmPe,fly6D,zYmgkd,hNviFe,KMhGd,llbKvd,r3gopb"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/82de8844-618c-49b0-8593-c118b9684856.zip"
+    recordedResponseCode="200" responseSize="221050"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="4167396f-2e89-432a-a05f-d52eaec2baa2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4167396f-2e89-432a-a05f-d52eaec2baa2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4167396f-2e89-432a-a05f-d52eaec2baa2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding, Origin&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+content-security-policy: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/search-next-ui-team&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="search-next-ui-team"&#xd;
+report-to: {"group":"search-next-ui-team","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/search-next-ui-team"}]}&#xd;
+content-length: 72744&#xd;
+date: Sat, 06 Jun 2026 11:43:40 GMT&#xd;
+expires: Sun, 06 Jun 2027 11:43:40 GMT&#xd;
+cache-control: public, immutable, max-age=31536000&#xd;
+last-modified: Thu, 04 Jun 2026 23:26:54 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2VwE.L.B1.O/am=gBAAAAAABAAAAQAQAAACCAAAQAAABgAAAAAAAAEAAAACAAAAAAACAAAQCEAABAIAAAUAAAAAABAAIgAAAACAEgIAAAEABQgACyAEIAYAACIAAAIAAAAACAACAAAAhEAAAAAAAAAEAABAAABAAAAAAABAAEARAAAISAKAAAEACAAiIABwAEiUCAAAAAApgAAADAEAAAAAAAAAAAAFIAAAAAAAAAAAeAAAAAAC/d=1/exm=Aoijq,CAwPlc,CEabdc,KHhJQ,KMhGd,Oh6VO,TDBkbc,V5rKoc,XqmSxe,a7qCn,b,bcx3gf,bzxG6c,fly6D,hNviFe,i6HcHb,jXk9bd,llbKvd,m0LFHd,mPWODf,nfCumd,oSLmPe,r3gopb,sRLmTc,uUCgYd,v48bt,zYmgkd,zp3Dsd/excm=Aiz46d,Ao6dnf,B25inf,CSqFM,D1nDFc,DVhgpe,DYv9hf,E1OJWe,FckSrf,KvQEmd,N8PT0,QG8Nu,QtjBjf,Rx97Ze,SJL2bc,U1lWlb,W8NV9d,WYobbb,WjeJMc,XmAqMd,ZMzZQd,ayDvec,bFSsRb,bTGTre,bXPCBc,cxU6rb,fWuSJe,g0BaKe,h5g25d,hHUugd,hcoscf,jCUWrb,jRQphd,kGVn2c,kpIzx,nx4H1c,oseeJb,rJ2Olb,rXUgd,rgWv3d,rjxeEe,tXNq8b,txW4Ec,uAuYHe,yxVckb/ed=1/dg=2/ujg=1/rs=AE5fCmT0pbN6MWST4Go6E0VrFlvWBjkhYA/cb=loaded_1_3/ee=BjwMce:cXX2Wb;CG6uBf:hCPuKc;CIZTGb:QUpXJb;EmZ2Bf:zr1jrb;JXS8fb:Qj0suc;K5nYTd:ZDZcre;KDb6nb:fE9n2;LEikZe:byfTOb,lsjVmc;MNkAde:KMCd1d;NJ1rfe:yGfSdd;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;OjQStc:hApHFd;Pjplud:PoEs9b;QGR0gd:Mlhmy;RZKicf:PQXVv;RZtOEd:DvKcFe;ScI3Yc:e7Hzgb;SwCqAd:fXbCZc;TroZ1d:vVVzjb;UYRIEb:HzTAQc;WDGyFe:jcVOxd;YIZmRd:A1yn5d;YV5bee:W0fpg;ZSH6tc:QAvyLe;a56pNe:JEfCwb;aci7y:Z5Tr6c;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;dtl0hd:lLQWFe;eBAeSb:zbML3c;eBZ5Nd:audvde;eHDfl:ofjVkb;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qaS3gd:yiLg6e;qafBPd:ovKuLd;qavrXe:I0C9u;qddgKe:xQtZb;ropkZ:hjoqoe;sTsDMc:kHVSUb;sXN2Pd:Dhyfob;t4Ja1:LwyM3;teSRSb:BMLai;twgzJd:Ix7YEd;w9w86d:VvLVQd,XwhUEb,gKD90c,lWVZVe;wBUPed:va9PTd;wR5FRb:siKnQd;wV5Pjc:L8KGxe;yxTchf:KUM7Z/m=XktUkb,HHvzd,POB4Jc,NTGAy,w74sh"
+    path="/_/mss/search-next/_/js/k=search-next.aim.en_GB.xiPx9dM4Hrw.2018.O/ck=search-next.aim.u_FVbFJ2VwE.L.B1.O/am=gBAAAAAABAAAAQAQAAACCAAAQAAABgAAAAAAAAEAAAACAAAAAAACAAAQCEAABAIAAAUAAAAAABAAIgAAAACAEgIAAAEABQgACyAEIAYAACIAAAIAAAAACAACAAAAhEAAAAAAAAAEAABAAABAAAAAAABAAEARAAAISAKAAAEACAAiIABwAEiUCAAAAAApgAAADAEAAAAAAAAAAAAFIAAAAAAAAAAAeAAAAAAC/d=1/exm=Aoijq,CAwPlc,CEabdc,KHhJQ,KMhGd,Oh6VO,TDBkbc,V5rKoc,XqmSxe,a7qCn,b,bcx3gf,bzxG6c,fly6D,hNviFe,i6HcHb,jXk9bd,llbKvd,m0LFHd,mPWODf,nfCumd,oSLmPe,r3gopb,sRLmTc,uUCgYd,v48bt,zYmgkd,zp3Dsd/excm=Aiz46d,Ao6dnf,B25inf,CSqFM,D1nDFc,DVhgpe,DYv9hf,E1OJWe,FckSrf,KvQEmd,N8PT0,QG8Nu,QtjBjf,Rx97Ze,SJL2bc,U1lWlb,W8NV9d,WYobbb,WjeJMc,XmAqMd,ZMzZQd,ayDvec,bFSsRb,bTGTre,bXPCBc,cxU6rb,fWuSJe,g0BaKe,h5g25d,hHUugd,hcoscf,jCUWrb,jRQphd,kGVn2c,kpIzx,nx4H1c,oseeJb,rJ2Olb,rXUgd,rgWv3d,rjxeEe,tXNq8b,txW4Ec,uAuYHe,yxVckb/ed=1/dg=2/ujg=1/rs=AE5fCmT0pbN6MWST4Go6E0VrFlvWBjkhYA/cb=loaded_1_3/ee=BjwMce:cXX2Wb;CG6uBf:hCPuKc;CIZTGb:QUpXJb;EmZ2Bf:zr1jrb;JXS8fb:Qj0suc;K5nYTd:ZDZcre;KDb6nb:fE9n2;LEikZe:byfTOb,lsjVmc;MNkAde:KMCd1d;NJ1rfe:yGfSdd;NSEoX:lazG7b;NjIwef:YVgi7d;Np8Qkd:Dpx6qc;OjQStc:hApHFd;Pjplud:PoEs9b;QGR0gd:Mlhmy;RZKicf:PQXVv;RZtOEd:DvKcFe;ScI3Yc:e7Hzgb;SwCqAd:fXbCZc;TroZ1d:vVVzjb;UYRIEb:HzTAQc;WDGyFe:jcVOxd;YIZmRd:A1yn5d;YV5bee:W0fpg;ZSH6tc:QAvyLe;a56pNe:JEfCwb;aci7y:Z5Tr6c;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;dtl0hd:lLQWFe;eBAeSb:zbML3c;eBZ5Nd:audvde;eHDfl:ofjVkb;iFQyKf:vfuNJf;lOO0Vd:OTA3Ae;oGtAuc:sOXFj;qQEoOc:KUM7Z;qaS3gd:yiLg6e;qafBPd:ovKuLd;qavrXe:I0C9u;qddgKe:xQtZb;ropkZ:hjoqoe;sTsDMc:kHVSUb;sXN2Pd:Dhyfob;t4Ja1:LwyM3;teSRSb:BMLai;twgzJd:Ix7YEd;w9w86d:VvLVQd,XwhUEb,gKD90c,lWVZVe;wBUPed:va9PTd;wR5FRb:siKnQd;wV5Pjc:L8KGxe;yxTchf:KUM7Z/m=XktUkb,HHvzd,POB4Jc,NTGAy,w74sh"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/82de8844-618c-49b0-8593-c118b9684856.zip"
+    recordedResponseCode="200" responseSize="22631"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="fd9c6f15-92e8-4953-bc3b-a86d2d661c9d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fd9c6f15-92e8-4953-bc3b-a86d2d661c9d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fd9c6f15-92e8-4953-bc3b-a86d2d661c9d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding, Origin&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+content-security-policy: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/search-next-ui-team&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="search-next-ui-team"&#xd;
+report-to: {"group":"search-next-ui-team","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/search-next-ui-team"}]}&#xd;
+content-length: 8679&#xd;
+date: Sat, 06 Jun 2026 11:43:40 GMT&#xd;
+expires: Sun, 06 Jun 2027 11:43:40 GMT&#xd;
+cache-control: public, immutable, max-age=31536000&#xd;
+last-modified: Thu, 04 Jun 2026 23:26:54 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

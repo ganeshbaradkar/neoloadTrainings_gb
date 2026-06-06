@@ -1,0 +1,71 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/domainreliability/upload_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1fc598ab-c495-463e-9789-19de50e40ddd.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1fc598ab-c495-463e-9789-19de50e40ddd">
+    <embedded-action>2891a83d-5af5-4e89-887b-9a629d41c2d8</embedded-action>
+    <embedded-action>6e7c2837-59ed-4bd9-ad19-fe736fb0a75b</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_1fc598ab-c495-463e-9789-19de50e40ddd.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/domainreliability/upload"
+    path="/domainreliability/upload" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1fc598ab-c495-463e-9789-19de50e40ddd.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="google.com"
+    slaProfileEnabled="false" uid="2891a83d-5af5-4e89-887b-9a629d41c2d8" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_2891a83d-5af5-4e89-887b-9a629d41c2d8.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+report-to: {"group":"ntbdioescrec:47:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ntbdioescrec:47:0"}],}&#xd;
+nel: {"failure_fraction":1,"include_subdomains":false,"max_age":300,"report_to":"nel","success_fraction":0.25}&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ntbdioescrec:47:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=ntbdioescrec:47:0&#xd;
+date: Sat, 06 Jun 2026 11:46:40 GMT&#xd;
+server: Domain Reliability Server&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"SPDY","request_age_ms":241323,"request_elapsed_ms":331,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://google.com/domainreliability/upload","was_proxied":true},{"http_response_code":200,"network_changed":false,"protocol":"SPDY","quic_broken":true,"request_age_ms":61666,"request_elapsed_ms":97,"sample_rate":0.05,"server_ip":"[::1]:8090","status":"ok","url":"https://play.google.com/","was_proxied":true},{"http_response_code":200,"network_changed":false,"protocol":"SPDY","quic_broken":true,"request_age_ms":44651,"request_elapsed_ms":424,"sample_rate":0.05,"server_ip":"[::1]:8090","status":"ok","url":"https://play.google.com/","was_proxied":true}],"reporter":"chrome"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1fc598ab-c495-463e-9789-19de50e40ddd.zip"
+    recordedResponseCode="103" responseSize="0"
+    serverUid="generateiban.com" slaProfileEnabled="false"
+    uid="6e7c2837-59ed-4bd9-ad19-fe736fb0a75b" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_6e7c2837-59ed-4bd9-ad19-fe736fb0a75b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 103&#xd;
+server: Vercel&#xd;
+x-vercel-id: TmDqfOj6K9ME2gtP98iXS6KkDdoOReIa</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

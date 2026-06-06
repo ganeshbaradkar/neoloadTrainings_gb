@@ -1,0 +1,43 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/domainreliability/upload" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/b7420c23-9963-412e-b636-1f49c5bb77ae.zip"
+    slaProfileEnabled="false" thinkTime="108"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b7420c23-9963-412e-b636-1f49c5bb77ae">
+    <embedded-action>92ae74e4-2ecc-4a92-bfb3-71c76002e9f4</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b7420c23-9963-412e-b636-1f49c5bb77ae.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/domainreliability/upload"
+    path="/domainreliability/upload" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/b7420c23-9963-412e-b636-1f49c5bb77ae.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="accounts.google.com" slaProfileEnabled="false"
+    uid="92ae74e4-2ecc-4a92-bfb3-71c76002e9f4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_92ae74e4-2ecc-4a92-bfb3-71c76002e9f4.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+report-to: {"group":"ntbdioescrec:47:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ntbdioescrec:47:0"}],}&#xd;
+nel: {"failure_fraction":1,"include_subdomains":false,"max_age":300,"report_to":"nel","success_fraction":0.25}&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ntbdioescrec:47:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=ntbdioescrec:47:0&#xd;
+date: Sat, 06 Jun 2026 11:44:55 GMT&#xd;
+server: Domain Reliability Server&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"QUIC","request_age_ms":468004,"request_elapsed_ms":102,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://accounts.google.com/domainreliability/upload","was_proxied":false},{"http_response_code":401,"network_changed":false,"protocol":"SPDY","request_age_ms":63469,"request_elapsed_ms":1899,"sample_rate":1.0,"server_ip":"[::1]:8090","status":"http.error","url":"https://accounts.google.com/RotateBoundCookies","was_proxied":true}],"reporter":"chrome"}]]></textPostContent>
+</http-action>

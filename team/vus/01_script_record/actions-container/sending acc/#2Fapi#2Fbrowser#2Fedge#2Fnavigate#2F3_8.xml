@@ -1,0 +1,43 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3_8"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/169fac5a-1fe4-427b-89c0-321bcced54f4.zip"
+    slaProfileEnabled="false" thinkTime="391"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="169fac5a-1fe4-427b-89c0-321bcced54f4">
+    <embedded-action>a8f8982f-c347-4293-8a39-7dfed76d2141</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_169fac5a-1fe4-427b-89c0-321bcced54f4.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/169fac5a-1fe4-427b-89c0-321bcced54f4.zip"
+    recordedResponseCode="200" responseSize="825"
+    serverUid="nav-edge.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="a8f8982f-c347-4293-8a39-7dfed76d2141" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a8f8982f-c347-4293-8a39-7dfed76d2141</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a8f8982f-c347-4293-8a39-7dfed76d2141.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoiYzVsRWFOYkhMdnJYNENMUU1KSDRCdz09IiwgImhhc2giOiJFa1ZnSzh3N0Rwaz0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:00 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 825&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:fa70c45d-e611-4301-aa85-379b4eb84ac3</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0","redirectChain":[],"enhancedRedirectChain":{"redirectSource":null,"referrerChain":[]},"identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":"01aade6e-8061-415f-919b-4b6df35d40d3","onlineIdTicket":"t=GwD2Ad9tBAAUACvdRm27aTQoBWtI3fAPXDuVCyUOZgAAEKq3LN1fYdEhJdsL2r2W7brAAQzVUnStpB72W7hUT8wqdyAiblhobc1qd1axk/WBacXeRQpkMj6UzDOJZDtbipKsG0+PSaHel6eXFauGkMEA7NhhSynIeiXAcxOlCGU41/mAK1muN4yMZlMlUsdWCdiQMBrIs49st8XKK3dS1Rmf7KwJsLPNFc7wYxYaZGtWAMdt23bIZZ0SHPlD9HVP1Ea1xCSPTfeG4VIVirvE807kmGLD7zU+Cie/3SRDzEJbSXqfSg/JPoysBa8/feMNtuuqcVLp+X3Z4O5ICxmmWq/zSqR7j0vyzFf0lESVdvfzO2eRwWA4YwzhX3Q9lU/1M7Y2ZWC6kUijOrrSXjaw6M+byjzdCDIRbZKp+seBeECIcUjbR8Nas8jRqvr+STzdctdf1RelVDxc9uUAaGsAg3YH7Ue821cIgKK5mXcicTdOH+eJWzea+yvk1U9vvPbHOz1Wp73wilR534YBSAe8gGuwXtNu+fdeVFT/j+H94TQmEcBfbdj6HuctWBj3guIvwUpi/Tk7dNE7mi+CWsm1SyOdmP8MiDBiBTrRxI+mJmlGmHFOybR+1/gRn/ZZlClogs4Z8et8Gjl03cswec/AcI2SubH5AQ==&p=","family":3,"locale":"en-US","osVersion":"10.0.19045.6466.vb_release","browser":{"internetExplorer":"9.11.19041.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"","version":"149.0.4022.52 (Official build) "},"client":{"version":"281483737300995","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-a82cb2897a8bf9445d68dcc2be05af89ad4b2fda1fddb2952693be7cd5353ad3","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"https://openiban.com/","ip":null},"referrer":{"uri":"https://www.google.com/","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"d62dc20f-7ab5-4324-afe1-ec004258ec11","synchronous":false}]]></textPostContent>
+</http-action>

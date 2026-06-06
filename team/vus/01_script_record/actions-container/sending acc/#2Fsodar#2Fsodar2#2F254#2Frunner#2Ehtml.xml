@@ -1,0 +1,115 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/sodar/sodar2/254/runner.html"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/61a9f217-a5d4-4e96-86e3-67e3106cbf76.zip"
+    slaProfileEnabled="false" thinkTime="660"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="61a9f217-a5d4-4e96-86e3-67e3106cbf76">
+    <embedded-action>9fe40dc5-78f3-45cc-a6e2-98d1613bac6e</embedded-action>
+    <embedded-action>e7406639-6084-4d65-af7d-e5723d8bc8c8</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_61a9f217-a5d4-4e96-86e3-67e3106cbf76.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sodar/sodar2/254/runner.html"
+    path="/sodar/sodar2/254/runner.html" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/61a9f217-a5d4-4e96-86e3-67e3106cbf76.zip"
+    recordedResponseCode="200" responseSize="14627"
+    serverUid="ep2.adtrafficquality.google" slaProfileEnabled="false"
+    uid="9fe40dc5-78f3-45cc-a6e2-98d1613bac6e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9fe40dc5-78f3-45cc-a6e2-98d1613bac6e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9fe40dc5-78f3-45cc-a6e2-98d1613bac6e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="iframe"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-encoding: gzip&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="adspam-signals-scs"&#xd;
+report-to: {"group":"adspam-signals-scs","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/adspam-signals-scs"}]}&#xd;
+content-length: 5457&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+date: Sat, 06 Jun 2026 11:04:02 GMT&#xd;
+expires: Sat, 06 Jun 2026 11:54:02 GMT&#xd;
+cache-control: public, max-age=3000&#xd;
+age: 2358&#xd;
+last-modified: Wed, 01 Apr 2026 16:06:33 GMT&#xd;
+content-type: text/html&#xd;
+vary: Accept-Encoding&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-media-action actionType="1" contentType="video/mp4"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/video" path="/video" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/61a9f217-a5d4-4e96-86e3-67e3106cbf76.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="encrypted-vtbn0.gstatic.com" slaProfileEnabled="false"
+    uid="e7406639-6084-4d65-af7d-e5723d8bc8c8" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e7406639-6084-4d65-af7d-e5723d8bc8c8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="q"
+        recordRawValue="tbn:ANd9GcQ2gXWUtD4TlsUA28mR4j6EOTb-ngcEzju_oA"
+        separator="="
+        value="tbn:ANd9GcQ2gXWUtD4TlsUA28mR4j6EOTb-ngcEzju_oA" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="range" value="bytes=0-"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="identity;q=1, *;q=0"/>
+    <header name="sec-fetch-dest" value="video"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+accept-ranges: bytes&#xd;
+content-range: bytes 0-66806/66807&#xd;
+content-type: video/mp4&#xd;
+access-control-allow-origin: *&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/images-tbn&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="images-tbn"&#xd;
+report-to: {"group":"images-tbn","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/images-tbn"}]}&#xd;
+content-length: 66807&#xd;
+date: Sat, 06 Jun 2026 11:43:20 GMT&#xd;
+expires: Sun, 06 Jun 2027 11:43:20 GMT&#xd;
+cache-control: public, max-age=31536000&#xd;
+last-modified: Fri, 01 May 2026 09:25:20 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <media-handler bitrate="92.15" bitrate-strategy="AUTOMATIC"
+        bitrate-unit="KILO" buffer-length="5" duration="0"
+        duration-strategy="PLAY_ALL" mediaType="DEFAULT" simulation="STREAM"/>
+</http-media-action>

@@ -1,0 +1,90 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gen_68"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/23e8b359-0ca6-4fca-b664-44fa306dafd6.zip"
+    slaProfileEnabled="false" thinkTime="673"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="23e8b359-0ca6-4fca-b664-44fa306dafd6">
+    <embedded-action>40fb64c2-bfbb-4531-8f97-8f9d121f210d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_23e8b359-0ca6-4fca-b664-44fa306dafd6.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/gen_204" path="/gen_204" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/23e8b359-0ca6-4fca-b664-44fa306dafd6.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="40fb64c2-bfbb-4531-8f97-8f9d121f210d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_40fb64c2-bfbb-4531-8f97-8f9d121f210d.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="6QckapjMN_u-4-EPnvuh8QU" separator="="
+        value="6QckapjMN_u-4-EPnvuh8QU" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ct"
+        recordRawValue="slh" separator="=" value="slh" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="t1" separator="=" value="t1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="im"
+        recordRawValue="M" separator="=" value="M" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aqid"
+        recordRawValue="6Qckau_xPNWwmsMPiZTA2Aw" separator="="
+        value="6Qckau_xPNWwmsMPiZTA2Aw" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pv"
+        recordRawValue="0.2124287486428278" separator="="
+        value="0.2124287486428278" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="me"
+        recordRawValue="410:1780746233895,V,0,0,0,0:17811,V,0,900,1358,620:674,h,1,CD4QAA,i:0,h,1,CAkQCA,i:15,h,1,CD4QAA,o:18,h,1,CEQQAA,i:27,h,1,CEQQAA,o:7,h,1,CD8QAA,i:52,h,1,CD8QAA,o:15,h,1,CD0QAA,i:930,S,500:0,R,1,CE4QAQ,122,1768,652,52:0,R,1,CEcQAQ,122,1821,652,52:0,R,1,CEMQAA,122,1917,652,118:277,h,1,CD0QAA,o:0,h,1,CEcQAQ,i:0,h,1,CFAQAA,i:570,S,700:0,R,1,CEAQAA,122,2065,652,118:0,R,1,CEUQAA,122,2213,652,374:0,R,1,CEoQAA,122,2213,652,274:0,R,1,CE8QAA,122,2247,318,60:0,R,1,CFUQAA,122,2307,318,60:0,R,1,CFcQAA,122,2367,318,60:0,R,1,CFgQAA,122,2427,318,60:0,R,1,CFkQAA,456,2247,318,60:0,R,1,CFQQAA,456,2307,318,60:0,R,1,CFYQAA,456,2367,318,60:0,R,1,CFMQAA,456,2427,318,60:0,R,1,CAYQAA,0,2617,1343,105:92,h,1,CEcQAQ,o:0,h,1,CFAQAA,o:0,h,1,CAkQCA,o:0,h,1,CEUQAA,i:41437,h,1,CFgQAA,i:0,h,1,CEoQAA,i:284,h,1,CFgQAA,o:0,h,1,CFcQAA,i:17,h,1,CFcQAA,o:0,h,1,CFUQAA,i:15,h,1,CFUQAA,o:0,h,1,CE8QAA,i:18,h,1,CE8QAA,o:1,h,1,CEoQAA,o:0,h,1,CEUQAA,o:924,e,B"
+        separator="="
+        value="410:1780746233895,V,0,0,0,0:17811,V,0,900,1358,620:674,h,1,CD4QAA,i:0,h,1,CAkQCA,i:15,h,1,CD4QAA,o:18,h,1,CEQQAA,i:27,h,1,CEQQAA,o:7,h,1,CD8QAA,i:52,h,1,CD8QAA,o:15,h,1,CD0QAA,i:930,S,500:0,R,1,CE4QAQ,122,1768,652,52:0,R,1,CEcQAQ,122,1821,652,52:0,R,1,CEMQAA,122,1917,652,118:277,h,1,CD0QAA,o:0,h,1,CEcQAQ,i:0,h,1,CFAQAA,i:570,S,700:0,R,1,CEAQAA,122,2065,652,118:0,R,1,CEUQAA,122,2213,652,374:0,R,1,CEoQAA,122,2213,652,274:0,R,1,CE8QAA,122,2247,318,60:0,R,1,CFUQAA,122,2307,318,60:0,R,1,CFcQAA,122,2367,318,60:0,R,1,CFgQAA,122,2427,318,60:0,R,1,CFkQAA,456,2247,318,60:0,R,1,CFQQAA,456,2307,318,60:0,R,1,CFYQAA,456,2367,318,60:0,R,1,CFMQAA,456,2427,318,60:0,R,1,CAYQAA,0,2617,1343,105:92,h,1,CEcQAQ,o:0,h,1,CFAQAA,o:0,h,1,CAkQCA,o:0,h,1,CEUQAA,i:41437,h,1,CFgQAA,i:0,h,1,CEoQAA,i:284,h,1,CFgQAA,o:0,h,1,CFcQAA,i:17,h,1,CFcQAA,o:0,h,1,CFUQAA,i:15,h,1,CFUQAA,o:0,h,1,CE8QAA,i:18,h,1,CE8QAA,o:1,h,1,CEoQAA,o:0,h,1,CEUQAA,o:924,e,B" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1780746297080" separator="="
+        value="1780746297080" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="opi"
+        recordRawValue="89978449" separator="=" value="89978449" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.54&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.54&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; NID=532=ZiDX3mXoauM4DWRsETTGmAlSCX1Vzp3FCpa1qUUUUsjEoYGkUn2VNugX16SB-qO05jfc1vVWal6YYQbgEF8pieS2O3_wJN-0qDNBZyoHJw3EZiyWPuJaMKWIPD-WhKfDoNwGpeOdDAFysMfB4QmZK4e7Jd4vO1FNeD7QH2SbrUvmtw_P30dplqzx6dg8bv0MhqSUAYYvksDuPbIIXXPI9vdmi7ufjvf1poQAV8S9EvW9ITVO62IV0IQNZWdWMcRZUYiZlMp6stE; DV=o5ZrUnU9N9EzsHQ0yOb_f20Jte7L6dlh6_XJcm-gWxEAAODr4fFEMpLUGxoJAAA"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="100"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+content-security-policy: object-src 'none';base-uri 'self';script-src 'nonce-59AkiBl2fqJ_k0QNe_yuqw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}&#xd;
+permissions-policy: unload=()&#xd;
+date: Sat, 06 Jun 2026 11:44:51 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

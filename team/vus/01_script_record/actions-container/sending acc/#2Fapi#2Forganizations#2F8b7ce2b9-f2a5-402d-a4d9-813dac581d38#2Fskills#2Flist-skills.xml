@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/organizations/8b7ce2b9-f2a5-402d-a4d9-813dac581d38/skills/list-skills"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/28a73316-9177-408a-b90e-8afdbdb20c27.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="28a73316-9177-408a-b90e-8afdbdb20c27">
+    <embedded-action>aabb7791-ee24-4666-a4bf-f206ef6f8f95</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_28a73316-9177-408a-b90e-8afdbdb20c27.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/api/organizations/8b7ce2b9-f2a5-402d-a4d9-813dac581d38/skills/list-skills"
+    path="/api/organizations/8b7ce2b9-f2a5-402d-a4d9-813dac581d38/skills/list-skills"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/28a73316-9177-408a-b90e-8afdbdb20c27.zip"
+    recordedResponseCode="200" responseSize="3541" serverUid="claude.ai"
+    slaProfileEnabled="false" uid="aabb7791-ee24-4666-a4bf-f206ef6f8f95" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aabb7791-ee24-4666-a4bf-f206ef6f8f95</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aabb7791-ee24-4666-a4bf-f206ef6f8f95.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="include_wiggle_skills" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="anthropic-client-platform" value="desktop_app"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="cookie" value="anthropic-device-id=cdf6c00a-81a2-4438-abe0-0adc87e454e0; CH-prefers-color-scheme=light; cookie_seed_done=1; __ssid=d7a14fac-bf37-41e1-a6c6-64b273406641; app-shell-mode=gate-disabled; anthropic-consent-preferences=%7B%22analytics%22%3Atrue%2C%22marketing%22%3Atrue%7D; _fbp=fb.1.1772596994543.27177141649268390; ajs_anonymous_id=claudeai.v1.660d66ec-afab-42fb-a8e9-47e2cbb3da12; lastActiveOrg=8b7ce2b9-f2a5-402d-a4d9-813dac581d38; intercom-device-id-lupk8zyo=bda5d6ce-8296-493e-b72e-2941a97fc773; ajs_user_id=530f45a9-49c8-4362-95a3-25f68813f4eb; _gcl_au=1.1.571307535.1777049905; sessionKey=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; sessionKeyLC=1777050526726; user-sidebar-visible-on-load=true; __stripe_mid=9d3cbd12-7737-4d7b-99ab-86e26f763edaaeab60; intercom-session-lupk8zyo=bW1lZkJEelBOczlOWWZZbnE4RnRWczRUMFJlK1RwVE4xdHRBZlBLZCtHVG0ybCtvQ2pmRmZURGxYM2VkTXFsNVczYlplSTZTZ0lJL0NLOWFnN01lSGxCK2x6L1FaVU1PQTVmQytsdGMzdU9Db0tZOHp4dDVLSHg5ZzkwZUZaN29ZbzZOYzVLTDdHVmtydmVPZVAydURObDZoVGpTU3FmZnlJcE4yZWNpOGVDV2lpNmFNaXVlcDZwZVErbWhTOFZibmdqcEFjMEp4Q0JuTENxSWxNM0MvbDlnMTQvK2NjQWlZSzVJakwzZEFvNFphMzhoZkxUUU4wZmQydGFYcHF1Y2YyNUR5SFZzMGZIamtFYlVvOS9BdmRGM0RXTHo1SGIrdzgvOUhudlBINm89LS1jMlFTTDRrbFFIOVlQa2dUZVFpTWxBPT0=--170f5bf49aa5d2c6fa3c03db7f6423c8c5a58c24; ion-vk=7cdb137e-567d-43ad-869e-51086b0b3616; _cfuvid=pHj77A9Nw_d.S6GcxKjZtL2ouRLV5YUZ5DfE2sDjXRk-1780743904.5840678-1.0.1.1-xH49zJ1n1.T2NFn1yXHEOcpEdxfmK9jalZ8lcfW827Q; __cf_bm=NzKN_nfPYd71Vnyw73OYXFYJPO0Pzt66xr8q13aDV0E-1780745073.6293077-1.0.1.1-mk4G0K5ZUwcqj47eJi57N9EeoDsEDTv6NF5lt9VTbNVDldExYkigR5htXsDE8Qj6BTDjN3AOtBXRDPQQtPYPbWDge2whgEmL5THVrpFW177c.erImHoOGAFZeiTRgnCw; _dd_s=aid=c52f94d2-dcc2-4346-b952-3cc0207206bc&amp;rum=2&amp;id=768a9520-8979-4cfe-a937-7990143dbf03&amp;created=1780745082381&amp;expire=1780747250597"/>
+    <header name="baggage" value="sentry-environment=production,sentry-release=Claude%401.9659.2,sentry-public_key=2f98127cbffe4740b1f767a2de77d23b,sentry-trace_id=00000000000000000000000000000000,sentry-org_id=1158394"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="sentry-trace" value="00000000000000000000000000000000-0000000000000000"/>
+    <header name="anthropic-desktop-topbar" value="1"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="anthropic-client-os-version" value="10.0.19045"/>
+    <header name="anthropic-client-app" value="com.anthropic.claudefordesktop"/>
+    <header name="anthropic-client-version" value="1.9659.2"/>
+    <header name="anthropic-client-os-platform" value="win32"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.9659.2 Chrome/146.0.7680.216 Electron/41.6.1 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:45:45 GMT&#xd;
+content-type: application/json&#xd;
+request-id: req_011Cbmx4Rvqi4UBB3pZhPmsb&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+server: cloudflare&#xd;
+x-robots-tag: none&#xd;
+vary: Accept-Encoding&#xd;
+cf-cache-status: DYNAMIC&#xd;
+set-cookie: __cf_bm=q7W_6QyvyH2cOmZfZiNAjvlVOpUfFrspHdTlHItcZT4-1780746344.9354362-1.0.1.1-Z4GRHA7E6jJGH8HBEH4_fZIeEJUrvKq7Eirt8N08pTW.ibEvb_RdPxzrKvMV9t0728u0Wu.ioT3QqO6EYTUbfLgX_nsPfNZy2ZV3f77UMLkcwE4dJQlaaGJOr.u4UWvE; HttpOnly; SameSite=None; Secure; Path=/; Domain=claude.ai; Expires=Sat, 06 Jun 2026 12:15:45 GMT&#xd;
+content-encoding: zstd&#xd;
+cf-ray: a0772c2fdab97ab9-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

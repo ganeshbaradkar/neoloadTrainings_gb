@@ -1,0 +1,52 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/v1/b_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1abf403b-a8db-4511-826e-dbc28c503c66.zip"
+    slaProfileEnabled="false" thinkTime="15"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1abf403b-a8db-4511-826e-dbc28c503c66">
+    <embedded-action>16a56b3e-a949-4080-8f7d-28c7ccdce19a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_1abf403b-a8db-4511-826e-dbc28c503c66.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v1/b" path="/v1/b" postCharset="ISO-8859-1"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/1abf403b-a8db-4511-826e-dbc28c503c66.zip"
+    recordedResponseCode="200" responseSize="21"
+    serverUid="a-api.anthropic.com" slaProfileEnabled="false"
+    uid="16a56b3e-a949-4080-8f7d-28c7ccdce19a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_16a56b3e-a949-4080-8f7d-28c7ccdce19a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_16a56b3e-a949-4080-8f7d-28c7ccdce19a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://claude.ai/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="origin" value="https://claude.ai"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not-A.Brand&quot;;v=&quot;24&quot;, &quot;Chromium&quot;;v=&quot;146&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.9659.2 Chrome/146.0.7680.216 Electron/41.6.1 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 11:46:12 GMT&#xd;
+content-type: application/json&#xd;
+content-length: 21&#xd;
+access-control-allow-origin: https://claude.ai&#xd;
+strict-transport-security: max-age=31536000&#xd;
+vary: Origin&#xd;
+cf-cache-status: DYNAMIC&#xd;
+set-cookie: __cf_bm=a5XqNG7mTXUc2Oqm0XMmnTYnLJZaCZDkI._JtWMOGbs-1780746372.2133558-1.0.1.1-5GEY0jAufjJJoOxHAAmYEVbKufNMb1gkNqPAXewFjYCdG3PPVEYcz7AAXiLIQu9rXSOEhdypzM1U1.jI7iMH4YoeBdZ5A.9W0aIS1tdbPk6PS8W6JSdPuRhn7oxMlxxW; HttpOnly; SameSite=None; Secure; Path=/; Domain=anthropic.com; Expires=Sat, 06 Jun 2026 12:16:12 GMT&#xd;
+server: cloudflare&#xd;
+cf-ray: a0772cda5f0b7f47-MAA&#xd;
+alt-svc: h3=":443"; ma=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"writeKey":"LKJN8LsLERHEOXkw487o7qCTFOrGPimI","batch":[{"timestamp":"2026-06-06T11:46:12.424Z","integrations":{"All":false,"Segment.io":true,"Actions Amplitude":{"session_id":1780745080241},"Amplitude (Actions)":true,"Webhook":true,"Webhooks (Actions)":true,"Iterable":true,"Iterable (Actions)":true},"event":"claudeai.message.sent","type":"track","properties":{"account_uuid":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_uuid":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","billing_type":null,"surface":"claude-ai","deployment_mode":"1p","app_version":"1.9659.2","version":1,"conversation_uuid":"9f3e7856-e099-481b-b306-cd32cb05ad53","model":"claude-sonnet-4-6","has_attachments":false,"has_files":false,"has_sync_sources":false,"message_length":55,"is_new_conversation":false,"has_personalized_style":true,"include_profile_preferences":true,"is_incognito":false,"is_yukon_gold":false,"text_formatting":"","multiple_newline_count":0,"single_newline_count":0},"context":{"traits":{"deployment_mode":"1p","app_version":"1.9659.2","country":"IN","email":"ganeshbaradkar@gmail.com","is_personal_email":"personal","account_created_at":1772556953643,"account_uuid":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_uuid":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","billing_type":null,"org_type":"claude_free","subscription_level":"free","subscription_plan":"claude_free"},"page":{"path":"/chat/9f3e7856-e099-481b-b306-cd32cb05ad53","referrer":"","search":"","url":"https://claude.ai/chat/9f3e7856-e099-481b-b306-cd32cb05ad53"},"userAgentData":{"brands":[{"brand":"Not-A.Brand","version":"24"},{"brand":"Chromium","version":"146"}],"mobile":false,"platform":"Windows"},"locale":"en-US","library":{"name":"analytics.js","version":"npm:next-1.69.0"},"timezone":"Asia/Calcutta","ip":"REDACTED","consent":{"categoryPreferences":{"marketing":true,"analytics":true,"necessary":true}},"session_id":1780745080241},"messageId":"ajs-next-1780746372424-564eb406-37e6-42b7-b002-815ae3de6a38","userId":"530f45a9-49c8-4362-95a3-25f68813f4eb","anonymousId":"claudeai.v1.660d66ec-afab-42fb-a8e9-47e2cbb3da12","writeKey":"LKJN8LsLERHEOXkw487o7qCTFOrGPimI","_metadata":{"bundled":["Facebook Pixel","Segment.io"],"unbundled":[],"bundledIds":["67ef1ec7010ebdd567e0b91f"]}},{"timestamp":"2026-06-06T11:46:12.429Z","integrations":{"All":false,"Segment.io":true,"Actions Amplitude":{"session_id":1780745080241},"Amplitude (Actions)":true,"Webhook":true,"Webhooks (Actions)":true,"Iterable":true,"Iterable (Actions)":true},"event":"claudeai.mcp.tools_ready_wait","type":"track","properties":{"account_uuid":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_uuid":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","billing_type":null,"surface":"claude-ai","deployment_mode":"1p","app_version":"1.9659.2","version":2,"wait_ms":0,"wait_bucket":"none","resolved_via":"already_complete","caller":"chat","stream_kind":"append"},"context":{"traits":{"deployment_mode":"1p","app_version":"1.9659.2","country":"IN","email":"ganeshbaradkar@gmail.com","is_personal_email":"personal","account_created_at":1772556953643,"account_uuid":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_uuid":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","billing_type":null,"org_type":"claude_free","subscription_level":"free","subscription_plan":"claude_free"},"page":{"path":"/chat/9f3e7856-e099-481b-b306-cd32cb05ad53","referrer":"","search":"","url":"https://claude.ai/chat/9f3e7856-e099-481b-b306-cd32cb05ad53"},"userAgentData":{"brands":[{"brand":"Not-A.Brand","version":"24"},{"brand":"Chromium","version":"146"}],"mobile":false,"platform":"Windows"},"locale":"en-US","library":{"name":"analytics.js","version":"npm:next-1.69.0"},"timezone":"Asia/Calcutta","ip":"REDACTED","consent":{"categoryPreferences":{"marketing":true,"analytics":true,"necessary":true}},"session_id":1780745080241},"messageId":"ajs-next-1780746372429-b40637e6-92b7-4002-815a-e3de6a3822f4","userId":"530f45a9-49c8-4362-95a3-25f68813f4eb","anonymousId":"claudeai.v1.660d66ec-afab-42fb-a8e9-47e2cbb3da12","writeKey":"LKJN8LsLERHEOXkw487o7qCTFOrGPimI","_metadata":{"bundled":["Facebook Pixel","Segment.io"],"unbundled":[],"bundledIds":["67ef1ec7010ebdd567e0b91f"]}},{"timestamp":"2026-06-06T11:46:14.343Z","integrations":{"All":false,"Segment.io":true,"Actions Amplitude":{"session_id":1780745080241},"Amplitude (Actions)":true,"Webhook":true,"Webhooks (Actions)":true,"Iterable":true,"Iterable (Actions)":true},"event":"claudeai.message.perceived_ttft","type":"track","properties":{"account_uuid":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_uuid":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","billing_type":null,"surface":"claude-ai","deployment_mode":"1p","app_version":"1.9659.2","version":1,"perceived_ttft_ms":1951,"pre_fetch_time_ms":42,"response_open_ms":1775,"first_content_ms":49,"post_fetch_ttft_ms":85,"client_ttft_ms":127,"network_attempt_count":1,"time_in_background_ms":0,"conversation_uuid":"9f3e7856-e099-481b-b306-cd32cb05ad53","message_length":55,"message_index":3,"is_new_conversation":false,"is_retry":false,"is_incognito":false,"is_yukon_gold":false,"document_attachment_count":0,"image_attachment_count":0,"thinking_mode":"disabled","research_mode":"disabled","tool_count":0,"enabled_web_search":true,"used_inline_conversation_create":false,"first_content_type":"text","model":"claude-sonnet-4-6","human_message_uuid":"019e9cc1-4549-7d76-8c75-5a48a8d915d2","assistant_message_uuid":"019e9cc1-4549-78de-b607-5dafb8b62d1a"},"context":{"traits":{"deployment_mode":"1p","app_version":"1.9659.2","country":"IN","email":"ganeshbaradkar@gmail.com","is_personal_email":"personal","account_created_at":1772556953643,"account_uuid":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_uuid":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","billing_type":null,"org_type":"claude_free","subscription_level":"free","subscription_plan":"claude_free"},"page":{"path":"/chat/9f3e7856-e099-481b-b306-cd32cb05ad53","referrer":"","search":"","url":"https://claude.ai/chat/9f3e7856-e099-481b-b306-cd32cb05ad53"},"userAgentData":{"brands":[{"brand":"Not-A.Brand","version":"24"},{"brand":"Chromium","version":"146"}],"mobile":false,"platform":"Windows"},"locale":"en-US","library":{"name":"analytics.js","version":"npm:next-1.69.0"},"timezone":"Asia/Calcutta","ip":"REDACTED","consent":{"categoryPreferences":{"marketing":true,"analytics":true,"necessary":true}},"session_id":1780745080241},"messageId":"ajs-next-1780746374343-37e692b7-7002-415a-a3de-6a3822f44b33","userId":"530f45a9-49c8-4362-95a3-25f68813f4eb","anonymousId":"claudeai.v1.660d66ec-afab-42fb-a8e9-47e2cbb3da12","writeKey":"LKJN8LsLERHEOXkw487o7qCTFOrGPimI","_metadata":{"bundled":["Facebook Pixel","Segment.io"],"unbundled":[],"bundledIds":["67ef1ec7010ebdd567e0b91f"]}}],"sentAt":"2026-06-06T11:46:18.089Z"}]]></textPostContent>
+</http-action>

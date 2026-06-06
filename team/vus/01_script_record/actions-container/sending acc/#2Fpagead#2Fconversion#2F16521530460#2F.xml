@@ -1,0 +1,133 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/pagead/conversion/16521530460/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/bcb41e40-8960-45bd-84eb-a68cb63a5d61.zip"
+    slaProfileEnabled="false" thinkTime="307"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bcb41e40-8960-45bd-84eb-a68cb63a5d61">
+    <embedded-action>c1cf062b-f719-4aa9-a089-55792be92b8e</embedded-action>
+    <embedded-action>1fc461e5-4f61-46f2-81bf-c522f858b00e</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_bcb41e40-8960-45bd-84eb-a68cb63a5d61.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/conversion/16521530460/"
+    path="/pagead/conversion/16521530460/" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/bcb41e40-8960-45bd-84eb-a68cb63a5d61.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googleadservices.com" slaProfileEnabled="false"
+    uid="c1cf062b-f719-4aa9-a089-55792be92b8e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c1cf062b-f719-4aa9-a089-55792be92b8e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="gad_source"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="adview_type"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="adview_query_id"
+        recordRawValue="CM3-qLzE8pQDFTWsZgIdxKkDBg" separator="="
+        value="CM3-qLzE8pQDFTWsZgIdxKkDBg" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="i"/>
+    <header name="attribution-reporting-support" value="web=os"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="attribution-reporting-eligible" value="event-source=navigation-source, trigger"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-type: text/css; charset=UTF-8&#xd;
+date: Sat, 06 Jun 2026 11:43:01 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+x-content-type-options: nosniff&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/xjs/_/ss/k=xjs.s.lQjW7KTrYNA.L.B1.O/am=AAAQAAAABAEAAAAAAAAAAAAQIIAIAAAAAAAAAAAAAAAAAAAAhAAgAAAAAQAAAAAAAAAAAAGAAAAAEAAAAAAAlBAAAAMAAAAAAAAAgAIAAAAAAAyIAAAEAAAAAAAAABTqAwAAYAAAAAAAwAOAAUIEAAAAAAAAAAAAAABAAABIAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAQAAAEkAAAAAAIUAABAAABAAAAAAAAAAAAABBAgAAAAAAAIAAAAAAAA4AAAAAAAAAAAAAAAIAAAAAAAAABAAAAAAAYAaQAAAIAAAACEEQAAAAAAAAAACAAAAgAAAAAAAAAACCQAAgAgYAAAAAAADAAAAAAAAABAAABBKAQAQABQAAICAAAAAAeAAAAAAAAAAAQEAAAAAAAAAAACABAQgBBAAAAAAAAgAAAAAAACAAAAcgAAAAAAAAAggABAAAIAjCADAJAoCIAIAEAAAAQAAIgAAAAAAAVAAAgAAAAAAAAAAAAAjAAAAAAAAAAAAABIAMASCAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/d=1/ed=1/br=1/cb=loaded_h_0/rs=ACT90oFwl9tyFu9iSl_Jtm5Dxx5udmCCgA/m=X3N0Bf,attn,cdos,gwc,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi"
+    path="/xjs/_/ss/k=xjs.s.lQjW7KTrYNA.L.B1.O/am=AAAQAAAABAEAAAAAAAAAAAAQIIAIAAAAAAAAAAAAAAAAAAAAhAAgAAAAAQAAAAAAAAAAAAGAAAAAEAAAAAAAlBAAAAMAAAAAAAAAgAIAAAAAAAyIAAAEAAAAAAAAABTqAwAAYAAAAAAAwAOAAUIEAAAAAAAAAAAAAABAAABIAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAQAAAEkAAAAAAIUAABAAABAAAAAAAAAAAAABBAgAAAAAAAIAAAAAAAA4AAAAAAAAAAAAAAAIAAAAAAAAABAAAAAAAYAaQAAAIAAAACEEQAAAAAAAAAACAAAAgAAAAAAAAAACCQAAgAgYAAAAAAADAAAAAAAAABAAABBKAQAQABQAAICAAAAAAeAAAAAAAAAAAQEAAAAAAAAAAACABAQgBBAAAAAAAAgAAAAAAACAAAAcgAAAAAAAAAggABAAAIAjCADAJAoCIAIAEAAAAQAAIgAAAAAAAVAAAgAAAAAAAAAAAAAjAAAAAAAAAAAAABIAMASCAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/d=1/ed=1/br=1/cb=loaded_h_0/rs=ACT90oFwl9tyFu9iSl_Jtm5Dxx5udmCCgA/m=X3N0Bf,attn,cdos,gwc,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/bcb41e40-8960-45bd-84eb-a68cb63a5d61.zip"
+    recordedResponseCode="200" responseSize="2843"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="1fc461e5-4f61-46f2-81bf-c522f858b00e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1fc461e5-4f61-46f2-81bf-c522f858b00e.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1fc461e5-4f61-46f2-81bf-c522f858b00e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cb"
+        recordRawValue="121509378" separator="=" value="121509378" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.54&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.54&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; NID=532=B59D68AjYYbImONSLoBH0hSVrt-aG-CKP4Yf5NQuSDY4Xfl5QvF_Zn_zLjgHTOQpSHaSUakNvz2kp_m-7cq7QxRJpIP3Xxx8gkK2IGLQqaR8JORenvX66Vx2zMvvBEQIZDdun2WwAtiLL41EMNtr9cfPWxX-iFKBYQ8enuMeJ-m2Cx7n8hI0bEKpQFMrb91414f3XQEF80PdjPKcnFOgzJc71TDi1-_klCU7FMrh_VZfUdjUOcMAiQ"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="u=0"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="50"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-encoding: br&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gws-team&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="gws-team"&#xd;
+report-to: {"group":"gws-team","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws-team"}]}&#xd;
+content-length: 1261&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+date: Sat, 06 Jun 2026 01:15:10 GMT&#xd;
+expires: Sun, 06 Jun 2027 01:15:10 GMT&#xd;
+cache-control: public, immutable, max-age=31536000&#xd;
+last-modified: Sat, 06 Jun 2026 00:12:55 GMT&#xd;
+content-type: text/css; charset=UTF-8&#xd;
+vary: Accept-Encoding, Origin&#xd;
+age: 37671&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

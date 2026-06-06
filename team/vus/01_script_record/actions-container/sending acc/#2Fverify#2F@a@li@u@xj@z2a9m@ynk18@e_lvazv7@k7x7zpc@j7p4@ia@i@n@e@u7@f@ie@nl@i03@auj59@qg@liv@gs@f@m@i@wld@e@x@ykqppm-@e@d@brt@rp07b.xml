@@ -1,0 +1,73 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/verify/ALiUXjZ2a9mYnk18E_lvazv7K7x7zpcJ7p4IaINEU7FIeNlI03Auj59QgLivGsFMIWldEXYkqppm-EDBrtRp07b"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85c8bd70-30a3-4b82-a807-dd3ea711bab5.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="85c8bd70-30a3-4b82-a807-dd3ea711bab5">
+    <embedded-action>48fc0018-8503-4feb-8253-02def686e8aa</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_85c8bd70-30a3-4b82-a807-dd3ea711bab5.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/verify/ALiUXjZ2a9mYnk18E_lvazv7K7x7zpcJ7p4IaINEU7FIeNlI03Auj59QgLivGsFMIWldEXYkqppm-EDBrtRp07bp-Je8yuxaqxO6V4PgVZ9D2KZlPofSoYA64mw8Cu6AeI7KTJ_YoUg6anbp4hgCr4rjMw"
+    path="/verify/ALiUXjZ2a9mYnk18E_lvazv7K7x7zpcJ7p4IaINEU7FIeNlI03Auj59QgLivGsFMIWldEXYkqppm-EDBrtRp07bp-Je8yuxaqxO6V4PgVZ9D2KZlPofSoYA64mw8Cu6AeI7KTJ_YoUg6anbp4hgCr4rjMw"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85c8bd70-30a3-4b82-a807-dd3ea711bab5.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="48fc0018-8503-4feb-8253-02def686e8aa" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_48fc0018-8503-4feb-8253-02def686e8aa.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.54&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.54&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; DV=o5ZrUnU9N9EzsHQ0yOb_f22ZyeXL6Zmvh8cTyUhSr7oAAHDYen2y3Bvoxi8AAAA; NID=532=lQrFyceRLoU-jDNB60cHV1WEYLbC2dsGPqsEWHrMZ7XPkDGEzxyF2FRSNM1mbzvd85zdBZ0adwdMavJ2dbK2XuIwkleMYZ1Iw5_x5dyvteQgVuPqz6Q0XinslknE9x8x2VPOhFrq13a1uhkejVmAZRnJhjnk5UDslcoNoshKdLpH-Z6fpB3_nYXjN4UmkWzLeCRku4TuHCjCWP0QopblPiZsLw1fzArlaYo8Zq5LIODEQOXGgCmCZJe5AUfDhu0J"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="150"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/plain; charset=UTF-8&#xd;
+date: Sat, 06 Jun 2026 11:43:23 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/zkilcrhshc:241:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=zkilcrhshc:241:0&#xd;
+report-to: {"group":"zkilcrhshc:241:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/zkilcrhshc:241:0"}],}&#xd;
+server: scaffolding on HTTPServer2&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: NID=532=CN2-VUTLpuES2aw5ZvxJ-jmb41Whz3esJrEyk_2pY_n36akNp0BvzcHNHQP7vUG6UEv3D2VWHZaMmu8NYT3fgnoxOufkCnHi7UMymUGkrQPhWWTS-yqy4HyZ3EFh4A2sGq-avg16qk3uwpevZ6WO1v4GRev7vD5p8E3495oI9i9OUdyN-uNhrUU2RI_qHPHaQJkEadjhHrkEljI9nQV3U5hDKiapIErAju18BVHWZiNlwILEK3B7HFAficd0wlZHa23Now; expires=Sun, 06-Dec-2026 11:43:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none&#xd;
+set-cookie: SNID=ALQpT-XBttmy_nxDyds2zhnYOEJY11DEYBMStNZbNOQC-zdBkLb-TgWPz7jMM2HWcJuJRzMjf82i87SYDjvdTRCfWR6DDefnt4s; expires=Sun, 06-Dec-2026 11:43:00 GMT; path=/verify; domain=.google.com; Secure; HttpOnly; SameSite=lax&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

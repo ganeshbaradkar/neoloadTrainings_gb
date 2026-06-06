@@ -1,0 +1,121 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/api/v2/rum_7"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/299fd8e8-e3d9-4f93-858c-cb2d3c3c01de.zip"
+    slaProfileEnabled="false" thinkTime="141"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="299fd8e8-e3d9-4f93-858c-cb2d3c3c01de">
+    <embedded-action>c3b0721b-1711-400d-91a9-f820358a5095</embedded-action>
+    <embedded-action>6a212e07-7a6f-46ff-93cb-91f4d7893cfe</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_299fd8e8-e3d9-4f93-858c-cb2d3c3c01de.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/v2/rum" path="/api/v2/rum"
+    postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/299fd8e8-e3d9-4f93-858c-cb2d3c3c01de.zip"
+    recordedResponseCode="202" responseSize="53"
+    serverUid="browser-intake-us5-datadoghq.com"
+    slaProfileEnabled="false" uid="c3b0721b-1711-400d-91a9-f820358a5095" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c3b0721b-1711-400d-91a9-f820358a5095</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c3b0721b-1711-400d-91a9-f820358a5095.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="ddsource" recordRawValue="browser" separator="="
+        value="browser" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="dd-api-key"
+        recordRawValue="pub71869dceb5b70dba6123af9ca357d1f9"
+        separator="=" value="pub71869dceb5b70dba6123af9ca357d1f9" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="dd-evp-origin-version" recordRawValue="6.31.0"
+        separator="=" value="6.31.0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="dd-evp-origin" recordRawValue="browser" separator="="
+        value="browser" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="dd-request-id"
+        recordRawValue="cdc0644a-11b3-4dd8-a992-7c16b283d00a"
+        separator="=" value="cdc0644a-11b3-4dd8-a992-7c16b283d00a" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="batch_time" recordRawValue="1780746402428" separator="="
+        value="1780746402428" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="_dd.api" recordRawValue="beacon" separator="="
+        value="beacon" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="referer" value="https://claude.ai/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="origin" value="https://claude.ai"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not-A.Brand&quot;;v=&quot;24&quot;, &quot;Chromium&quot;;v=&quot;146&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.9659.2 Chrome/146.0.7680.216 Electron/41.6.1 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 202&#xd;
+content-type: application/json&#xd;
+content-length: 53&#xd;
+dd-request-id: cdc0644a-11b3-4dd8-a992-7c16b283d00a&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+access-control-allow-origin: *&#xd;
+accept-encoding: identity,gzip,x-gzip,deflate,x-deflate,zstd&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+date: Sat, 06 Jun 2026 11:46:36 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"type":"view","_dd":{"format_version":2,"drift":-22340,"configuration":{"session_sample_rate":100,"session_replay_sample_rate":0,"profiling_sample_rate":0,"trace_sample_rate":100,"beta_encode_cookie_options":false,"start_session_replay_recording_manually":true},"sdk_name":"rum","page_states":[{"state":"active","start":-16879900000},{"state":"passive","start":3970000000},{"state":"hidden","start":4088800000},{"state":"active","start":10759800000},{"state":"passive","start":40350700000},{"state":"hidden","start":40513200000},{"state":"active","start":60728600000},{"state":"passive","start":97269100000},{"state":"hidden","start":97397800000},{"state":"active","start":103602700000},{"state":"passive","start":107518800000},{"state":"hidden","start":107656400000},{"state":"passive","start":110003000000},{"state":"active","start":110024300000},{"state":"passive","start":110028200000},{"state":"active","start":110032300000},{"state":"passive","start":112863300000},{"state":"hidden","start":114813400000},{"state":"active","start":142692000000},{"state":"passive","start":144814700000},{"state":"hidden","start":144922800000},{"state":"active","start":148153000000},{"state":"passive","start":148575000000},{"state":"hidden","start":149146900000},{"state":"active","start":254443000000},{"state":"passive","start":267537500000},{"state":"hidden","start":268450600000},{"state":"passive","start":271921000000},{"state":"active","start":272298000000},{"state":"passive","start":272313700000},{"state":"active","start":272318300000},{"state":"passive","start":274382400000},{"state":"active","start":287952300000},{"state":"passive","start":287966700000},{"state":"active","start":287969400000},{"state":"hidden","start":287980600000},{"state":"active","start":288010900000},{"state":"passive","start":289478500000},{"state":"active","start":301209200000},{"state":"passive","start":301211300000},{"state":"active","start":301215600000},{"state":"passive","start":305841400000},{"state":"hidden","start":306050100000},{"state":"passive","start":309619400000},{"state":"active","start":309775500000},{"state":"passive","start":309783100000},{"state":"active","start":309814700000},{"state":"passive","start":312294300000},{"state":"active","start":318397300000},{"state":"passive","start":318407200000},{"state":"active","start":318408500000},{"state":"passive","start":320008400000},{"state":"hidden","start":320130800000},{"state":"passive","start":347457000000},{"state":"active","start":347657000000},{"state":"passive","start":347661300000},{"state":"active","start":347668500000},{"state":"passive","start":351985400000},{"state":"hidden","start":352140700000},{"state":"passive","start":354864100000},{"state":"active","start":355052300000},{"state":"passive","start":355066900000},{"state":"active","start":355071200000},{"state":"passive","start":356465200000},{"state":"hidden","start":356603500000},{"state":"passive","start":361122700000},{"state":"hidden","start":361343400000},{"state":"passive","start":361438100000},{"state":"hidden","start":362894800000},{"state":"passive","start":401087900000},{"state":"hidden","start":402039700000},{"state":"passive","start":414875700000},{"state":"hidden","start":415291300000},{"state":"passive","start":433922400000},{"state":"active","start":434251800000},{"state":"passive","start":434267700000},{"state":"active","start":434268600000},{"state":"passive","start":458536000000},{"state":"hidden","start":459066700000},{"state":"active","start":461140500000},{"state":"passive","start":467110500000},{"state":"hidden","start":467809700000},{"state":"active","start":483328300000},{"state":"passive","start":498291700000},{"state":"hidden","start":498391500000},{"state":"passive","start":577471600000},{"state":"active","start":577512100000},{"state":"passive","start":580103300000},{"state":"hidden","start":580195100000},{"state":"passive","start":587406900000},{"state":"hidden","start":588045600000},{"state":"passive","start":656922600000},{"state":"hidden","start":657524800000},{"state":"active","start":1254323900000}],"document_version":60,"cls":{"device_pixel_ratio":1}},"application":{"id":"df447632-9210-4ee5-a49a-348e4fa17665"},"date":1780745096263,"source":"browser","view":{"url":"https://claude.ai/new","referrer":"https://claude.ai/new","id":"9ee4d058-d686-4ee6-b719-a00412c65057","name":"/chat/$uuid","action":{"count":37},"frustration":{"count":0},"cumulative_layout_shift":0.0521,"cumulative_layout_shift_time":77167600000,"cumulative_layout_shift_target_selector":"DIV[data-testid=\"chat-stale-nav-inert\"]>DIV.flex>DIV.h-full>DIV.overflow-y-auto>DIV.relative>DIV.mx-auto>DIV.flex>DIV:nth-of-type(6)","error":{"count":0},"interaction_to_next_paint":192000000,"interaction_to_next_paint_time":62638300000,"interaction_to_next_paint_target_selector":"DIV[data-testid=\"chat-input\"]","is_active":true,"loading_time":3675000000,"loading_type":"route_change","long_task":{"count":115},"performance":{"cls":{"score":0.0521,"timestamp":77167600000,"target_selector":"DIV[data-testid=\"chat-stale-nav-inert\"]>DIV.flex>DIV.h-full>DIV.overflow-y-auto>DIV.relative>DIV.mx-auto>DIV.flex>DIV:nth-of-type(6)","previous_rect":{"x":459.5,"y":485.75,"width":736,"height":54},"current_rect":{"x":459.5,"y":512.9375,"width":736,"height":54}},"inp":{"duration":192000000,"timestamp":62638300000,"target_selector":"DIV[data-testid=\"chat-input\"]"}},"resource":{"count":107},"time_spent":1293456000000,"custom_timings":{"chat.time_to_first_token":1941100000,"chat.perceived_time_to_first_token":1951300000,"chat.file_upload":1225400000}},"feature_flags":{"cowork_subagent_inherit":"1"},"session":{"id":"768a9520-8979-4cfe-a937-7990143dbf03","type":"user","sampled_for_replay":false},"connectivity":{"status":"connected","effective_type":"3g"},"context":{"hidden_at_load":true,"platform":"desktop","build_ts":1780572588,"desktop_app_version":"1.9659.2","desktop_app_variant":"prod","deployment_mode":"1p"},"usr":{"id":"530f45a9-49c8-4362-95a3-25f68813f4eb","organization_id":"8b7ce2b9-f2a5-402d-a4d9-813dac581d38","plan":"default_claude_ai","anonymous_id":"c52f94d2-dcc2-4346-b952-3cc0207206bc"},"display":{"viewport":{"width":1366,"height":738},"scroll":{"max_depth":738,"max_depth_scroll_top":0,"max_scroll_height":738,"max_scroll_height_time":111047800000}},"service":"claude-ai","version":"49fa7153e8","privacy":{"replay_level":"mask"},"device":{"locale":"en-US","locales":["en-US"],"time_zone":"Asia/Calcutta"},"ddtags":"sdk_version:6.31.0,env:production,service:claude-ai,version:49fa7153e8"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/github/collect" path="/github/collect"
+    postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/299fd8e8-e3d9-4f93-858c-cb2d3c3c01de.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="collector.github.com" slaProfileEnabled="false"
+    uid="6a212e07-7a6f-46ff-93cb-91f4d7893cfe" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_6a212e07-7a6f-46ff-93cb-91f4d7893cfe.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://github.com/ganeshbaradkar/neoloadTrainings_gb/settings/branches"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="_octo=GH1.1.1403564175.1772955187; cpu_bucket=md; preferred_color_mode=light; tz=Asia%2FCalcutta; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=ganeshbaradkar"/>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="origin" value="https://github.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;148&quot;, &quot;Google Chrome&quot;;v=&quot;148&quot;, &quot;Not/A)Brand&quot;;v=&quot;99&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 11:46:37 GMT&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-headers: Content-Type&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: no-cache&#xd;
+x-runtime: 0.003928&#xd;
+strict-transport-security: max-age=631138519&#xd;
+x-frame-options: DENY&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-download-options: noopen&#xd;
+x-permitted-cross-domain-policies: none&#xd;
+x-github-backend: Kubernetes&#xd;
+x-github-request-id: A1BF:CD0C8:472893:5312DA:6A24089D&#xd;
+server: github.com</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"client_id":"1403564175.1772955187","events":[{"page":"https://github.com/ganeshbaradkar/neoloadTrainings_gb/settings/branches","title":"Settings · Branches · ganeshbaradkar/neoloadTrainings_gb","context":{"actor_id":"44379428","actor_login":"ganeshbaradkar","actor_hash":"a2c248a7fc81e2acdf1f5427f9f25828b48f2ef32390e875c94d20c2c86364ad","user_id":"44379428","user_login":"ganeshbaradkar","repository_id":"1261199615","repository_nwo":"ganeshbaradkar/neoloadTrainings_gb","repository_public":"true","repository_is_fork":"false","repository_network_root_id":"1261199615","repository_network_root_nwo":"ganeshbaradkar/neoloadTrainings_gb","referrer":"https://github.com/ganeshbaradkar/neoloadTrainings_gb/settings","request_id":"B349:266C7B:A758D6:CBB9A0:6A2405DF","visitor_id":"6028262231235175987","region_edge":"centralindia","region_render":"iad","staff":"false","react":"false","reactPartials":"[\"keyboard-shortcuts-dialog\",\"global-nav-bar\",\"growth-banner-partial\"]","featureFlags":"[\"actions_custom_images_storage_billing_ui_visibility\",\"actions_image_version_event\",\"actions_workflow_language_service_allow_case_function\",\"actions_workflow_language_service_allow_concurrency_queue\",\"activity_use_list_to_build_groups\",\"agent_conflict_resolution\",\"alternate_user_config_repo\",\"arianotify_comprehensive_migration\",\"artifact_ui_v2\",\"billing_discount_threshold_notification\",\"billing_ui_budget_pagination_enabled\",\"billing_user_level_budgets\",\"billing_user_level_budgets_manage\",\"ccr_implement_suggestion_refresh\",\"code_scanning_dfa_degraded_experience_notice\",\"code_view_checks_live_updates\",\"codemirror_inp_optimizations\",\"codespaces_prebuild_region_target_update\",\"codeview_sidebar_combined_payload\",\"coding_agent_model_selection\",\"coding_agent_model_selection_all_skus\",\"coding_agent_session_ai_credits\",\"comment_viewer_copy_raw_markdown\",\"contentful_form_phone_v2\",\"contentful_primer_code_blocks\",\"copilot_agent_snippy\",\"copilot_api_agentic_issue_marshal_yaml\",\"copilot_ask_mode_dropdown\",\"copilot_automation_suggest_tools_enabled\",\"copilot_automations_suggested_automations\",\"copilot_capi_error_response_telemetry\",\"copilot_chat_attach_multiple_images\",\"copilot_chat_category_rate_limit_messages\",\"copilot_chat_clear_model_selection_for_default_change\",\"copilot_chat_contextual_suggestions_updated\",\"copilot_chat_disable_model_picker_while_streaming\",\"copilot_chat_docked_panel\",\"copilot_chat_enable_tool_call_logs\",\"copilot_chat_increase_token_padding\",\"copilot_chat_input_commands\",\"copilot_chat_input_performance_optimizations\",\"copilot_chat_max_upsell\",\"copilot_chat_models_via_backend\",\"copilot_chat_opening_thread_switch\",\"copilot_chat_prettify_pasted_code\",\"copilot_chat_reduce_quota_checks\",\"copilot_chat_search_bar_redirect\",\"copilot_chat_structured_list_refs\",\"copilot_chat_vision_in_claude\",\"copilot_chat_vision_preview_gate\",\"copilot_cli_install_cta_max_plan\",\"copilot_cloud_agent_always_categorize_models_in_model_picker\",\"copilot_coding_agent_tbb_quota_banner\",\"copilot_custom_copilots\",\"copilot_custom_copilots_feature_preview\",\"copilot_delete_cli_sessions\",\"copilot_diff_explain_conversation_intent\",\"copilot_diff_reference_context\",\"copilot_dotcom_chat_memoize_messages\",\"copilot_dotcom_chat_proactive_repo_autocomplete\",\"copilot_duplicate_thread\",\"copilot_extensions_hide_in_dotcom_chat\",\"copilot_extensions_removal_on_marketplace\",\"copilot_features_sql_server_logo\",\"copilot_file_block_ref_matching\",\"copilot_fix_failed_workflows\",\"copilot_fix_failed_workflows_all_skus\",\"copilot_ftp_hyperspace_upgrade_prompt\",\"copilot_hide_hovercard\",\"copilot_icebreakers_experiment_dashboard\",\"copilot_icebreakers_experiment_hyperspace\",\"copilot_immersive_code_block_transition_wrap\",\"copilot_immersive_embedded_deferred_payload\",\"copilot_immersive_embedded_draggable\",\"copilot_immersive_embedded_header_button\",\"copilot_immersive_embedded_implicit_references\",\"copilot_immersive_embedded_skip_copilot_api_token_for_dotcom_context\",\"copilot_immersive_file_block_transition_open\",\"copilot_immersive_file_preview_keep_mounted\",\"copilot_immersive_job_result_preview\",\"copilot_immersive_structured_model_picker\",\"copilot_immersive_suggestion_pills\",\"copilot_immersive_task_hyperlinking\",\"copilot_immersive_task_within_chat_thread\",\"copilot_issue_list_show_more\",\"copilot_mc_cli_resume_any_users_task\",\"copilot_mission_control_agent_filtering\",\"copilot_mission_control_agents_task_list\",\"copilot_mission_control_always_send_integration_id\",\"copilot_mission_control_chronicle_commands\",\"copilot_mission_control_chronicle_commands_dropdown\",\"copilot_mission_control_cli_private_icon\",\"copilot_mission_control_cli_session_status\",\"copilot_mission_control_environment_list_icons\",\"copilot_mission_control_initial_data_spinner\",\"copilot_mission_control_logs_incremental\",\"copilot_mission_control_sandbox_remote_bypass\",\"copilot_mission_control_session_filters\",\"copilot_mission_control_task_alive_updates\",\"copilot_mission_control_task_sharing\",\"copilot_mission_control_tasks_repo_filter\",\"copilot_org_policy_page_focus_mode\",\"copilot_pr_chat_enhancements\",\"copilot_premium_request_quotas\",\"copilot_redirect_header_button_to_agents\",\"copilot_resource_panel\",\"copilot_scroll_preview_tabs\",\"copilot_share_active_subthread\",\"copilot_spaces_ga\",\"copilot_spaces_individual_policies_ga\",\"copilot_spaces_pagination\",\"copilot_spark_empty_state\",\"copilot_spark_handle_nil_friendly_name\",\"copilot_swe_agent_authorization_status_ui\",\"copilot_swe_agent_hide_model_picker_if_only_auto\",\"copilot_swe_agent_pr_comment_model_picker\",\"copilot_swe_agent_pull_request_merged_trigger\",\"copilot_swe_agent_pull_request_opened_trigger\",\"copilot_swe_agent_pull_request_synchronize_trigger\",\"copilot_swe_agent_use_subagents\",\"copilot_task_api_github_rest_style\",\"copilot_token_based_billing\",\"copilot_unconfigured_is_inherited\",\"copilot_user_can_upgrade_plan_field\",\"copilot_workbench_slim_line_top_tabs\",\"copilot_workbench_ubb\",\"create_ghas_hard_budgets\",\"custom_instructions_file_references\",\"dashboard_indexeddb_caching\",\"dashboard_lists_max_age_filter\",\"dashboard_universe_2025\",\"dashboard_universe_2025_feedback_dialog\",\"dead_click_detection\",\"fgpat_permissions_selector_redesign\",\"flex_cta_groups_mvp\",\"ga_enterprise_teams_ui\",\"github_models_scheduled_hydro_events\",\"global_nav_react\",\"global_navigation_cached_payloads\",\"hide_groups_list_for_few_groups\",\"hyperspace_2025_logged_out_batch_1\",\"hyperspace_2025_logged_out_batch_2\",\"hyperspace_2025_logged_out_batch_3\",\"ipm_budget_deep_linking\",\"ipm_global_transactional_message_agents\",\"ipm_global_transactional_message_copilot\",\"ipm_global_transactional_message_issues\",\"ipm_global_transactional_message_prs\",\"ipm_global_transactional_message_repos\",\"ipm_global_transactional_message_spaces\",\"issue_cca_modal_open\",\"issue_cca_multi_assign_modal\",\"issue_cca_visualization\",\"issue_fields_global_search\",\"issues_expanded_file_types\",\"issues_lazy_load_comment_box_suggestions\",\"issues_react_chrome_container_query_fix\",\"issues_react_include_bots_in_pickers\",\"issues_react_ui_feedback\",\"issues_search_type_gql\",\"landing_pages_ninetailed\",\"landing_pages_web_vitals_tracking\",\"lifecycle_label_name_updates\",\"low_quality_classifier\",\"marketing_pages_search_explore_provider\",\"memex_default_issue_create_repository\",\"memex_live_update_hovercard\",\"memex_mwl_filter_field_delimiter\",\"memex_remove_deprecated_type_issue\",\"memex_roadmap_drag_style\",\"merge_status_header_feedback\",\"notifications_menu_defer_labels\",\"oauth_authorize_clickjacking_protection\",\"octocaptcha_origin_optimization\",\"pr_sfv_new_diff_fetch\",\"prs_checks_react\",\"prs_conversations_react\",\"prs_css_anchor_positioning\",\"prs_live_updates_issue_comments\",\"prs_load_all_alerts\",\"prx_files\",\"pull_request_commit_checks_dialog\",\"pull_request_files_accurate_size_estimates\",\"pull_request_files_virtualization\",\"pull_request_inbox_customize_sections\",\"pull_request_virtualization_preload_diffs\",\"pulls_list_item_compact_layout_v2\",\"pulls_reduce_es_query_on_deferred_request\",\"react_blob_overlay\",\"repos_contributors_limited_default_range\",\"repository_suggester_elastic_search\",\"rules_insights_filter_bar_created\",\"rules_required_reviewers_block_description\",\"sample_network_conn_type\",\"secret_scanning_pattern_alerts_link\",\"security_center_artifact_filters_popover\",\"session_logs_ungroup_reasoning_text\",\"site_copilot_max_plans\",\"site_features_copilot_universe\",\"site_github_app_ga_page\",\"site_global_nav_spark_models_removed\",\"site_homepage_collaborate_video\",\"spark_prompt_secret_scanning\",\"spark_server_connection_status\",\"suppress_automated_browser_vitals\",\"team_review_requested_by_user_filter\",\"track_notifications_settings_usage\",\"viewscreen_sandbox\",\"warn_inaccessible_attachments\",\"webp_support\",\"workbench_store_readonly\"]","ssr":"false","controller":"\"edit_repositories\"","action":"\"branches\"","routePattern":"\"/:user_id/:repository/settings/branches(.:format)\"","cpu":"\"md\"","automated":"false","navigationId":"\"5379ddab-6944-4b46-8fd9-1c1d049d3691\"","cls":"{\"name\":\"CLS\",\"value\":0}"},"type":"web-vital"}],"request_context":{"referrer":"https://github.com/ganeshbaradkar?tab=repositories","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36","screen_resolution":"1366x768","browser_resolution":"1366x617","browser_languages":"en-US,mr-IN,mr,en","pixel_ratio":1,"timestamp":1780746402443,"tz_seconds":19800}}]]></textPostContent>
+</http-action>

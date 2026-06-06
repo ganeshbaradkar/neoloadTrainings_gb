@@ -1,0 +1,329 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gen_15"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dabcf91c-88e4-4183-b938-cf99a8eb6407.zip"
+    slaProfileEnabled="false" thinkTime="402"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="dabcf91c-88e4-4183-b938-cf99a8eb6407">
+    <embedded-action>04f7f08f-3bf5-4913-8218-69a6568bb589</embedded-action>
+    <embedded-action>eb3a07fb-3d1e-46d1-81aa-a97b82f9aee4</embedded-action>
+    <embedded-action>f5affea2-4660-486e-88b1-f370e598b8d2</embedded-action>
+    <embedded-action>0ab83883-4f69-41a3-a8b1-db6e0777e067</embedded-action>
+    <embedded-action>abe807a2-7442-4479-ae1e-744062903045</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_dabcf91c-88e4-4183-b938-cf99a8eb6407.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gen_204" path="/gen_204" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dabcf91c-88e4-4183-b938-cf99a8eb6407.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="04f7f08f-3bf5-4913-8218-69a6568bb589" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_04f7f08f-3bf5-4913-8218-69a6568bb589.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ct"
+        recordRawValue="psnt" separator="=" value="psnt" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cad"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="nt"
+        recordRawValue="navigate" separator="=" value="navigate" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="xAckap7WJ8mS4-EPz_LtuQE" separator="="
+        value="xAckap7WJ8mS4-EPz_LtuQE" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1780746202466" separator="="
+        value="1780746202466" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="opi"
+        recordRawValue="89978449" separator="=" value="89978449" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="downlink" value="10"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.54&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.54&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-STRP=ANmZwa3FjhuN6LmFyQ1nXgTG_NpqX5nkWUmaQJKjgMRgnB9SNvKRbliyiaAlygxMoLseOYI3gckngtnESJvTqMlDiSub6VT9Hw; AEC=AaJma5tKj9DRqLOAMkGHgyuB7kV5CGdu4lTHDmr_BPdaAEBrtCBTjNQ8fA; DV=o5ZrUnU9N9EzsHQ0yOb_f22ZyeXL6Zmvh8cTyUhSr7oAAHDYen2y3Bvoxi8AAAA; NID=532=lQrFyceRLoU-jDNB60cHV1WEYLbC2dsGPqsEWHrMZ7XPkDGEzxyF2FRSNM1mbzvd85zdBZ0adwdMavJ2dbK2XuIwkleMYZ1Iw5_x5dyvteQgVuPqz6Q0XinslknE9x8x2VPOhFrq13a1uhkejVmAZRnJhjnk5UDslcoNoshKdLpH-Z6fpB3_nYXjN4UmkWzLeCRku4TuHCjCWP0QopblPiZsLw1fzArlaYo8Zq5LIODEQOXGgCmCZJe5AUfDhu0J"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="150"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+content-security-policy: object-src 'none';base-uri 'self';script-src 'nonce-vwIaPEFP5sin2RH4dVuygQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}&#xd;
+permissions-policy: unload=()&#xd;
+date: Sat, 06 Jun 2026 11:43:16 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/branding/searchlogo/ico/favicon.ico"
+    path="/images/branding/searchlogo/ico/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dabcf91c-88e4-4183-b938-cf99a8eb6407.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="eb3a07fb-3d1e-46d1-81aa-a97b82f9aee4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_eb3a07fb-3d1e-46d1-81aa-a97b82f9aee4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="static-on-bigtable"&#xd;
+report-to: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}&#xd;
+content-length: 1345&#xd;
+x-content-type-options: nosniff&#xd;
+content-encoding: gzip&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+date: Mon, 01 Jun 2026 09:44:58 GMT&#xd;
+expires: Tue, 01 Jun 2027 09:44:58 GMT&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 439098&#xd;
+last-modified: Fri, 16 May 2025 22:08:00 GMT&#xd;
+content-type: image/x-icon&#xd;
+vary: Accept-Encoding&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ui/v1/icons/mail/images/cleardot.gif"
+    path="/ui/v1/icons/mail/images/cleardot.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dabcf91c-88e4-4183-b938-cf99a8eb6407.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.gstatic.com" slaProfileEnabled="false"
+    uid="f5affea2-4660-486e-88b1-f370e598b8d2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f5affea2-4660-486e-88b1-f370e598b8d2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="bpq05m8nhppj" separator="=" value="bpq05m8nhppj" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://mail.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Chromium&quot;;v=&quot;148.0.7778.218&quot;, &quot;Google Chrome&quot;;v=&quot;148.0.7778.218&quot;, &quot;Not/A)Brand&quot;;v=&quot;99.0.0.0&quot;"/>
+    <header name="x-client-data" value="CKmdygEIlaHLAQiFoM0BCNLMlDAI38yUMAjizJQwCO3MlDAIts2UMAjSzZQwCPzNlDAIxc+UMBiKzZQwGOfNlDA="/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-ua-full-version" value="&quot;148.0.7778.218&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="x-browser-validation" value="iy/IT6OolEaIa3Ez/HnN2UGAbZU="/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;148&quot;, &quot;Google Chrome&quot;;v=&quot;148&quot;, &quot;Not/A)Brand&quot;;v=&quot;99&quot;"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/gif&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gmail&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="gmail"&#xd;
+report-to: {"group":"gmail","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gmail"}]}&#xd;
+content-length: 43&#xd;
+date: Sat, 06 Jun 2026 11:43:16 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Tue, 03 Mar 2020 20:15:00 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/matomo.php" path="/matomo.php" postType="1"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dabcf91c-88e4-4183-b938-cf99a8eb6407.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.httptracker.com" slaProfileEnabled="false"
+    uid="0ab83883-4f69-41a3-a8b1-db6e0777e067" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0ab83883-4f69-41a3-a8b1-db6e0777e067.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="action_name"
+        recordRawValue="IBAN%20Checker%3A%20International%20Bank%20Account%20Number%20validation"
+        separator="="
+        value="IBAN Checker: International Bank Account Number validation" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="idsite"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="rec"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="545351" separator="=" value="545351" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="h"
+        recordRawValue="17" separator="=" value="17" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="13" separator="=" value="13" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="22" separator="=" value="22" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.iban.com%2F" separator="="
+        value="https://www.iban.com/" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="urlref"
+        recordRawValue="https%3A%2F%2Fwww.google.com%2F" separator="="
+        value="https://www.google.com/" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="_id"
+        recordRawValue="9ed1393c3a2e7346" separator="="
+        value="9ed1393c3a2e7346" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="_idn"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="send_image" recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="_refts"
+        recordRawValue="1780746203" separator="=" value="1780746203" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="_ref"
+        recordRawValue="https%3A%2F%2Fwww.google.com%2F" separator="="
+        value="https://www.google.com/" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="pv_id"
+        recordRawValue="2Vphvl" separator="=" value="2Vphvl" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="pf_net"
+        recordRawValue="2533" separator="=" value="2533" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="pf_srv"
+        recordRawValue="262" separator="=" value="262" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="pf_tfr"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="pf_dm1"
+        recordRawValue="2587" separator="=" value="2587" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="uadata"
+        recordRawValue="%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Microsoft%20Edge%22%2C%22version%22%3A%22149.0.4022.52%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22149.0.7827.54%22%7D%2C%7B%22brand%22%3A%22Not)A%3BBrand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2210.0.0%22%7D"
+        separator="="
+        value="%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Microsoft%20Edge%22%2C%22version%22%3A%22149.0.4022.52%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22149.0.7827.54%22%7D%2C%7B%22brand%22%3A%22Not)A%3BBrand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2210.0.0%22%7D" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="pdf"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="qt"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="realp"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="wma"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="fla"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="java"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="ag"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cookie"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="res"
+        recordRawValue="1366x768" separator="=" value="1366x768" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.iban.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://www.iban.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded; charset=utf-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+server: nginx&#xd;
+date: Sat, 06 Jun 2026 11:43:17 GMT&#xd;
+access-control-allow-origin: https://www.iban.com&#xd;
+access-control-allow-credentials: true&#xd;
+strict-transport-security: max-age=31536000; includeSubdomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/dabcf91c-88e4-4183-b938-cf99a8eb6407.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.iban.com"
+    slaProfileEnabled="false" uid="abe807a2-7442-4479-ae1e-744062903045" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_abe807a2-7442-4479-ae1e-744062903045.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.iban.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="__Secure-PHPSESSID=csk6moh67dscl4aful0oc7rl9h; _pk_ref.5.da6d=%5B%22%22%2C%22%22%2C1780746203%2C%22https%3A%2F%2Fwww.google.com%2F%22%5D; _pk_id.5.da6d=9ed1393c3a2e7346.1780746203.; _pk_ses.5.da6d=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Sat, 06 Jun 2026 11:43:17 GMT&#xd;
+content-type: image/x-icon&#xd;
+content-length: 15086&#xd;
+last-modified: Mon, 12 Feb 2018 17:46:09 GMT&#xd;
+etag: "5a81d2e1-3aee"&#xd;
+expires: Mon, 06 Jul 2026 11:43:17 GMT&#xd;
+cache-control: max-age=2592000&#xd;
+pragma: public&#xd;
+cache-control: public&#xd;
+accept-ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/autofillservice/core/page/-4538257983778081358/-8002604094598856369%7C-3277579891518988818"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/bfbd7c02-bfd3-423a-87a3-0f56a3d40bfe.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bfbd7c02-bfd3-423a-87a3-0f56a3d40bfe">
+    <embedded-action>7f8ff529-79a0-45f7-a20c-99820aca300c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_bfbd7c02-bfd3-423a-87a3-0f56a3d40bfe.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/autofillservice/core/page/-4538257983778081358/-8002604094598856369%7C-3277579891518988818"
+    path="/autofillservice/core/page/-4538257983778081358/-8002604094598856369%7C-3277579891518988818"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/bfbd7c02-bfd3-423a-87a3-0f56a3d40bfe.zip"
+    recordedResponseCode="200" responseSize="20"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="7f8ff529-79a0-45f7-a20c-99820aca300c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7f8ff529-79a0-45f7-a20c-99820aca300c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7f8ff529-79a0-45f7-a20c-99820aca300c.txt</requestContentFileDescription>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="edge.microsoft.com"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="X-Client-Data" value="COeOywE="/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=691200&#xd;
+Content-Length: 20&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+X-Cache: TCP_HIT&#xd;
+X-FALCON-REF: Ref A: 8016E0D30C5C47E3B74ACE5DB576AC67 Ref B: SC-KORS-M82QN_AKS-GEN10-32917737-VMSS000007_FABRICROUTER-AZUREGLOBALPRIVATE-7B6F57BCF4-5L4XC Ref C: 2026-06-05T07:11:00Z&#xd;
+X-Falcon-RouterStatusCode: SuccessfullyForwarded (200)&#xd;
+X-MSEdge-Ref: Ref A: A401EA6E1F174BE1A6C56410AC23EF8C Ref B: BOM02EDGE0713 Ref C: 2026-06-06T11:45:04Z&#xd;
+Date: Sat, 06 Jun 2026 11:45:03 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

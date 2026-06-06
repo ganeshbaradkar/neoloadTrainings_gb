@@ -1,0 +1,101 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gtag/js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/294cb1f4-2552-4f46-b067-f6950905fc40.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="294cb1f4-2552-4f46-b067-f6950905fc40">
+    <embedded-action>b0b4a7c6-ef1b-4674-ad97-77d78da1958c</embedded-action>
+    <embedded-action>311925bc-5c99-402e-9ea5-fd92eaccda43</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_294cb1f4-2552-4f46-b067-f6950905fc40.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtag/js" path="/gtag/js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/294cb1f4-2552-4f46-b067-f6950905fc40.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="b0b4a7c6-ef1b-4674-ad97-77d78da1958c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b0b4a7c6-ef1b-4674-ad97-77d78da1958c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="AW-16521530460" separator="="
+        value="AW-16521530460" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="preconnect"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="type"
+        recordRawValue="7" separator="=" value="7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qid"
+        recordRawValue="CM3-qLzE8pQDFTWsZgIdxKkDBg" separator="="
+        value="CM3-qLzE8pQDFTWsZgIdxKkDBg" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="attribution-reporting-support" value="web"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="attribution-reporting-eligible" value="not-navigation-source, trigger, event-source"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 11:43:03 GMT&#xd;
+content-type: text/html&#xd;
+server: Google Tag Manager&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtm.js" path="/gtm.js" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/294cb1f4-2552-4f46-b067-f6950905fc40.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="311925bc-5c99-402e-9ea5-fd92eaccda43" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_311925bc-5c99-402e-9ea5-fd92eaccda43.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="GTM-16521530460" separator="="
+        value="GTM-16521530460" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="preconnect"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="type"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qid"
+        recordRawValue="CM3-qLzE8pQDFTWsZgIdxKkDBg" separator="="
+        value="CM3-qLzE8pQDFTWsZgIdxKkDBg" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="attribution-reporting-support" value="web=os"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="attribution-reporting-eligible" value="event-source, trigger=navigation-source"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 11:43:03 GMT&#xd;
+content-type: text/html&#xd;
+server: Google Tag Manager&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
