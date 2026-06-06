@@ -1,0 +1,17 @@
+# Project description file
+
+project.name=neoloadTrainings_gb
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2026.1.0
+project.is-open-test-settings-after-upload=false
+project.password.hash=ILZGKtxwKo0xlX2sDIE2h5u8S9YSouppS54YpxqT9WA=$0
+project.id=c6add214-df85-4fb3-9bf6-11e96f206cee
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=ganeshbaradkar/neoloadTrainings_gb
