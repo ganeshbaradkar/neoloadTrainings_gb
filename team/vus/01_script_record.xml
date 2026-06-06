@@ -11,8 +11,9 @@
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
-        <weighted-embedded-action uid="3cac7e57-2684-4342-b1b5-e81e4c37aa12"/>
         <weighted-embedded-action uid="e82a81cc-f5d7-4cca-a38d-e85879eb443b"/>
+        <weighted-embedded-action uid="a32bb986-b065-471c-9ac2-fbfea6c060e7"/>
+        <weighted-embedded-action uid="2fafc9e7-bb75-4928-8720-0bdaf0cb2233"/>
         <weighted-embedded-action uid="6b7d4d5d-856a-4dce-b04b-89345b073892"/>
         <weighted-embedded-action uid="5d5b5d23-fdaf-46a6-9190-dcad1fc66e93"/>
         <weighted-embedded-action uid="42494f0a-e691-4034-a670-315c214c07e4"/>

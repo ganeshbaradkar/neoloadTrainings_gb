@@ -1,0 +1,71 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/b"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/764a8de4-bb5c-4afb-a774-e369236604b7.zip"
+    slaProfileEnabled="false" thinkTime="715"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="764a8de4-bb5c-4afb-a774-e369236604b7">
+    <embedded-action>77f7b2d2-a849-45d1-b353-62cbbe4c7fb9</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_764a8de4-bb5c-4afb-a774-e369236604b7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/b" path="/b" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/764a8de4-bb5c-4afb-a774-e369236604b7.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="sb.scorecardresearch.com" slaProfileEnabled="false"
+    uid="77f7b2d2-a849-45d1-b353-62cbbe4c7fb9" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_77f7b2d2-a849-45d1-b353-62cbbe4c7fb9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="rn"
+        recordRawValue="1780747500607" separator="="
+        value="1780747500607" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="c1"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="c2"
+        recordRawValue="3000001" separator="=" value="3000001" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cs_ucfr"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="c7"
+        recordRawValue="https%3A%2F%2Fntp.msn.com%2Fedge%2Fntp%3Flocale%3Den-US%26title%3DNew%2Btab%26dsp%3D0%26sp%3DGoogle%26feed_dis%3Doff%26en_widget_reg%3Dfalse%26PC%3DU531%26prerender%3D1%26ocid%3Dmsedgntp%26mkt%3Den-in"
+        separator="="
+        value="https://ntp.msn.com/edge/ntp?locale=en-US&amp;title=New+tab&amp;dsp=0&amp;sp=Google&amp;feed_dis=off&amp;en_widget_reg=false&amp;PC=U531&amp;prerender=1&amp;ocid=msedgntp&amp;mkt=en-in" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="c8"
+        recordRawValue="New+tab" separator="=" value="New tab" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="c9"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cs_fpid"
+        recordRawValue="06CE9DF114B36CAF115B894515EF6DB9" separator="="
+        value="06CE9DF114B36CAF115B894515EF6DB9" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cs_fpit"
+        recordRawValue="o" separator="=" value="o" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cs_fpdm"
+        recordRawValue="*null" separator="=" value="*null" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cs_fpdt"
+        recordRawValue="*null" separator="=" value="*null" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://ntp.msn.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="UID=1F4c391c97e26d4b820d5fc1722678857; XID=1F4c391c97e26d4b820d5fc1722678857"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Sat, 06 Jun 2026 12:04:58 GMT&#xd;
+set-cookie: UID=1F4c391c97e26d4b820d5fc1722678857; SameSite=None; Secure; domain=.scorecardresearch.com; path=/; max-age=33696000&#xd;
+set-cookie: XID=1F4c391c97e26d4b820d5fc1722678857; SameSite=None; Secure; Partitioned; domain=.scorecardresearch.com; path=/; max-age=33696000&#xd;
+accept-ch: UA, Platform, Arch, Model, Mobile&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 5b3ba25f8eac620d91408a458d7b2a9e.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: BOM78-P1&#xd;
+x-amz-cf-id: wGxjPINtXGsGn1Oj2Lus05Xcp8SVO5vOpy0VntqngmFRcnf6stkDiA==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

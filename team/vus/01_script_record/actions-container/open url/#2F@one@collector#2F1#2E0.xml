@@ -1,0 +1,88 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/OneCollector/1.0"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/e595dcfe-3eb9-4313-86a5-c6a39590db9c.zip"
+    slaProfileEnabled="false" thinkTime="575"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e595dcfe-3eb9-4313-86a5-c6a39590db9c">
+    <embedded-action>b2193736-8f82-4fd7-a718-dda7b55b9f17</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_e595dcfe-3eb9-4313-86a5-c6a39590db9c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0" path="/OneCollector/1.0"
+    postCharset="UTF-8" postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/e595dcfe-3eb9-4313-86a5-c6a39590db9c.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="browser.events.data.msn.com" slaProfileEnabled="false"
+    uid="b2193736-8f82-4fd7-a718-dda7b55b9f17" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b2193736-8f82-4fd7-a718-dda7b55b9f17.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="client-id" recordRawValue="NO_AUTH" separator="="
+        value="NO_AUTH" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="client-version" recordRawValue="1DS-Web-JS-3.2.8"
+        separator="=" value="1DS-Web-JS-3.2.8" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="apikey"
+        recordRawValue="0ded60c75e44443aa3484c42c1c43fe8-9fc57d3f-fdac-4bcf-b927-75eafe60192e-7279"
+        separator="="
+        value="0ded60c75e44443aa3484c42c1c43fe8-9fc57d3f-fdac-4bcf-b927-75eafe60192e-7279" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="upload-time" recordRawValue="1780747517263" separator="="
+        value="1780747517263" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="ext.intweb.msfpc"
+        recordRawValue="GUID%3D9a88bb13bb8744e6b97ec4c2489c3063%26HASH%3D9a88%26LV%3D202606%26V%3D4%26LU%3D1780747471652"
+        separator="="
+        value="GUID=9a88bb13bb8744e6b97ec4c2489c3063&amp;HASH=9a88&amp;LV=202606&amp;V=4&amp;LU=1780747471652" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="time-delta-to-apply-millis" recordRawValue="-2528"
+        separator="=" value="-2528" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="NoResponseBody" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://ntp.msn.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="USRLOC=BID=MjYwNjA2MTczNDUxXzM0NDYwMTRiYjUxODc5MTllZTE2MTBlZGY3NTc3Y2RmZWQ1ZTg0MTk1YzRkNDExYTJmZGNmMWU0MjIxNDhkYzE=; _EDGE_V=1; MUID=06CE9DF114B36CAF115B894515EF6DB9; MUIDB=06CE9DF114B36CAF115B894515EF6DB9; msnup=%7B%22cnex%22%3A%22no%22%7D; App-User=%7B%22userId%22%3A%22m-06CE9DF114B36CAF115B894515EF6DB9%22%2C%22cohorts%22%3A%5B%7B%22name%22%3A%22Ruby%22%2C%22everSelected%22%3Atrue%2C%22reason%22%3A%22MatchedRubyPreviousInteraction%22%7D%2C%7B%22name%22%3A%22SuperCold%22%2C%22everSelected%22%3Afalse%2C%22reason%22%3A%22MatchedBySignal%22%7D%5D%2C%22accountType%22%3A%22NA%22%2C%22identityType%22%3A%22App%22%2C%22settings%22%3Anull%2C%22responseCreationDateTime%22%3A%222026-06-06T11%3A25%3A37.7797507Z%22%2C%22debugId%22%3A%229b4a7231-1ebb-4485-b386-f6cd0464cb98%7C2026-06-06T11%3A25%3A37.7797561Z%7CAuth%7CKOS-CF%7Caksgen01000005%22%7D; _EDGE_S=SID=3C6CE698CD41645C1126F1E8CC4B65A2; _C_ETH=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://ntp.msn.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="sec-ms-gec-version" value="2-149.0.4022.52"/>
+    <header name="sec-ms-gec" value="CC11541BDFBFCE4C-CCD32FCA98BB9389E440DE7A573F560692D6FDF19B597768358D6243206A952B"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="eyIxIjoiMCIsIjIiOiIwIiwiMyI6IjAiLCI0IjoiNDM1MjE3MTIxMjM2NjgxMDY1MyIsIjYiOiJzdGFibGUiLCI5IjoiZGVza3RvcCJ9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="0"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+Content-Length: 0&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+p3p: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"&#xd;
+set-cookie: MC1=GUID=9a88bb13bb8744e6b97ec4c2489c3063&amp;HASH=9a88&amp;LV=202606&amp;V=4&amp;LU=1780747471652; Domain=.microsoft.com; Expires=Sun, 06 Jun 2027 12:05:11 GMT; Path=/;Secure; SameSite=None&#xd;
+set-cookie: MS0=cd95973528e24dd692e7b0cab0d450ff; Domain=.microsoft.com; Expires=Sat, 06 Jun 2026 12:35:11 GMT; Path=/;Secure; SameSite=None&#xd;
+time-delta-millis: -5759&#xd;
+access-control-allow-headers: P3P,Set-Cookie,Connection,time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://ntp.msn.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Sat, 06 Jun 2026 12:05:11 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"MS.News.Web.LoadTime","time":"2026-06-06T12:05:17.261Z","ver":"4.0","iKey":"o:0ded60c75e44443aa3484c42c1c43fe8","ext":{"sdk":{"ver":"1DS-Web-JS-3.2.8","seq":7,"installId":"6010990d-0294-4e83-b584-0cf42a206c85","epoch":"2022620514"},"app":{"locale":"en-in","sesId":"9iEicixQghs/eM8XKKazy5"},"user":{"locale":"en-US","localId":"t:06CE9DF114B36CAF115B894515EF6DB9"},"web":{"domain":"ntp.msn.com","userConsent":false},"intweb":{"msfpc":"GUID=9a88bb13bb8744e6b97ec4c2489c3063&HASH=9a88&LV=202606&V=4&LU=1780747471652"},"utc":{"popSample":100},"loc":{"tz":"+05:30"},"dt":{"traceId":"046f99cf908e4b05a6af175fcbe3a423","spanId":"e6e5fb6113aa41e3"},"metadata":{"f":{"page":{"f":{"config":{"t":6},"dwellTime":{"t":6}}},"browser":{"f":{"width":{"t":6},"height":{"t":6},"scrollOffset":{"t":6}}},"timestamp":{"t":6},"eventIndex":{"t":6},"user":{"f":{"aadState":{"t":6}}},"extSchema":{"f":{"markers":{"f":{"idx":{"t":6},"FCP":{"t":6},"CLS100":{"t":6},"PreTtvrCLS100":{"t":6},"LCP":{"t":6}}}}}}}},"data":{"baseType":"MS.News.Web.Base","baseData":{},"page":{"appType":"edgeChromium","canvas":"Browser","config":161,"content":{"title":"New tab","subcategory":"antp","domainId":"340","vertical":"homepage"},"isAdEnabled":false,"isAutoRefresh":false,"isJSEnabled":true,"isStatic":false,"name":"default","ocid":"msedgntp","product":"anaheim","type":"ntp","url":"https://ntp.msn.com/edge/ntp?locale=en-US&title=New+tab&dsp=0&sp=Google&feed_dis=off&en_widget_reg=false&PC=U531&prerender=1&ocid=msedgntp","viewType":"size4column","theme":"light","has3PSearch":true,"cohortID":"Ruby,SuperCold","isSearchAB":false,"isMonetized":false,"referral":"","dwellTime":211},"browser":{"isMobile":false,"width":1366,"height":738,"screenSize":"1366x768","clientId":"06CE9DF114B36CAF115B894515EF6DB9","scrollOffset":0,"anoncknm":"app_anon","cookieEnabled":true,"hiddenOnce":true,"muid":"06CE9DF114B36CAF115B894515EF6DB9"},"flight":{"tmpl":"rubyRsmDbg:RSM|c,up,start1s,1s;tabInitialRid:6a240cdcab524e8c82857f785f15b005;rubyc:false;cohort-Ruby;cohort-SuperCold;ismsft:undefined;iscorpnet:undefined;edge-apis:15;prefsreducedmotion:false;ntptheme:light;isswcached:0;rubyp:false;rubyCookieChangeHistory:8|1777117373220|69eca8ba2e984d8090fd2738dc2b087f|1;rubyset:false;nf_usernurturing_init:1_1730262821013;rubyUX:true;currentRubyState:1_7;rubyUXHistory:true;rubyStateHistory:1_7->1_7|1780747476112;rubyTargetedVersionHistory:null|6a240cca5be44cefa171ce5d7dee983f|false|1780747476111;rubySetHistory:false;init-dlayout:3;init-feeds:off;bg-img-type:imageAndVideo;bg-img-provider:CMSImage;feedPolicy:true ENFORCED;feedManagedByPolicy;userPrefCount:9;wgt_src:default;widgetsPref:0;openInNewTab:0;wgEnabled:1;layoutPromotionFailedAdd:11;tscollapsed:0|tscollapsed_to_off|1710510149603;loginState:NA;tracker_selectedPivot:\"myFeed\";isprerender:1;edge.mem:8;edge.concurrency:4;edge.connection:4g;edge.jsHeapSizeLimit:4395630592;edge.totalJSHeapSize:18018941;edge.usedJSHeapSize:15305289;backgroundImageIsSet:0;isNTPLowEndDevice:0;isEdgeLowEndDevice:1;classicToggleEligible:1;unrestrictedToggleEligible:1;pageColumn:c4;widgets:0;tsLayout:off;csrLayout:off;ssrLayout;rubyexp:1;rubyToggleFeedDisplaySetting:1;enableUndersideAutoOpenFromEdge:1;headingsOnlyNoBackground:false;audienceMode:undefined;vp-h:620;signInPolicy:1;fl:0;userOnBatteryPower::false;classicCoachmarkShown:1;bkgdRes:1080;bkgdRotation:1;bkgdProvider:CMSImage;bundleCacheStatus:15;enableCopilotInWaffle:1;lypromoteCMTriggered:1;nf_itrace_id1730262821013:2;nf_rule_default:1780747493898;ntpconv:0;prgroup:0;isbackgroundpreload:1;ntp-lastLayoutUpdate:lpo|feeds|0|0|1726366185559;prv:1;ncm_registered:1;dwellTimeContentLoaded:true;fdHeadWpoCardProv:false;privatew:false;nf_process_s:1780747500809;qpromotion:1646490903172_f_inspirational_informational;inEdgeFeatures:0;revertTimes:0;adminDisabled:0;newProfFreTime:1755441767990;visionIconEligible:true;ImplicitMarketRestoredSync:1;nf_usernurturing_changed_1780747503107:1_1730262821013;1s-usertype:AnonymousMuid;1s-authFeatures:AT:NA;DID:m-06CE9DF114B36CAF115B894515EF6DB9;IT:App;MuidStateOrigin:MuidFromCookie;recEvt:0;nowpontpengage30d;rubyEverSelected;rubyEverSelectedSync;rubyUXSelected:true;rubyUXSelectedSync:true;rubyUXSeenOrSelectedPrevious:true;rubyUXSampleSelected:true;rubyTargetedVersion:null|6a240cdcab524e8c82857f785f15b005|false|1780747503225;rubyState:1_7->1_7|1780747503226;nf_usernurturing_changed_1780747503233:1_1730262821013;nf_usernurturing_changed_1780747503235:1_1730262821013;reTriggerCoachMarkFailedNolyp:1;dwellTimeFocusStart:true"},"integration":{"joinIds":"{\"IDXId\":\"4e6b4645-390f-4118-8ec5-cefeb110cc98\"}"},"request":{"activityId":"6a240cdcab524e8c82857f785f15b005","requestId":"6a240cdcab524e8c82857f785f15b005","afdMuid":"06CE9DF114B36CAF115B894515EF6DB9","pageGenTime":"2026-06-06T12:04:44Z","tier":"p"},"timestamp":1780747517261,"eventIndex":8,"sdk":{"name":"peregrine","ver":"1.0.21","schemaVer":"1.0.21"},"user":{"aadState":0,"isSignedIn":false,"isSso":false,"loginState":"NA"},"locale":{"mkt":"en-in","lang":"en","region":"US","geo_cc":"IN","mktReason":"implicitExisting"},"feed":{"layout":"multicol","id":"myfeed"},"custom":"{\"server-debug-info\":\"{\\\"refs\\\":{\\\"refA\\\":\\\"6a240cdcab524e8c82857f785f15b005\\\",\\\"refC\\\":\\\"2026-06-06T12:04:44Z\\\"},\\\"cookies\\\":{\\\"spt\\\":\\\"en-US%7c%7cin%7cen-in%7cen-in%7cen%7c%7ccf%3d8%7cRefA%3d6064E0FE42EF4508A98BD5AA636CAA07.RefC%3d2024-07-26T23%3a51%3a29Z\\\",\\\"spt_restored\\\":\\\"en-US%7c%7cin%7cen-in%7cen-in%7cen%7c%7ccf%3d8%7cRefA%3d6064E0FE42EF4508A98BD5AA636CAA07.RefC%3d2024-07-26T23%3a51%3a29Z\\\"},\\\"geoConfidence\\\":{\\\"cityConfidence\\\":\\\"0\\\",\\\"countryConfidence\\\":\\\"9\\\"},\\\"langMismatch\\\":{\\\"type\\\":\\\"region\\\",\\\"mismatchItem1\\\":\\\"us\\\",\\\"mismatchItem2\\\":\\\"in\\\"},\\\"cdn\\\":\\\"Akamai\\\",\\\"serverMuid\\\":\\\"06CE9DF114B36CAF115B894515EF6DB9\\\",\\\"clientMuid\\\":\\\"06CE9DF114B36CAF115B894515EF6DB9\\\"}\",\"hasStorageAccess\":\"true\",\"marketmismatch\":\"{\\\"MismatchPromptTitle\\\":\\\"CoachmarkMismatch\\\",\\\"MismatchPromptDetails\\\":[{\\\"CoachmarkID\\\":\\\"marketLanguage_region_us_in\\\",\\\"CoachmarkInformation\\\":[{\\\"ts\\\":1748366298870,\\\"type\\\":\\\"Viewed\\\"},{\\\"ts\\\":1748455387791,\\\"type\\\":\\\"Viewed\\\"},{\\\"ts\\\":1753445527898,\\\"type\\\":\\\"Viewed\\\"}]}]}\",\"crsActivityId\":\"empty\",\"DigitalIdUpdate\":\"{\\\"areDigitalIdsEqual\\\":0,\\\"shouldUpdateTelemetry\\\":1,\\\"reasonNumber\\\":1}\",\"AuthCookies\":\"{\\\"aace\\\":0,\\\"app_anon\\\":0,\\\"ace\\\":0,\\\"anon\\\":0,\\\"authCookieName\\\":\\\"app_anon\\\",\\\"lt\\\":0,\\\"osat\\\":0,\\\"app_wid\\\":0,\\\"wid\\\":0,\\\"it\\\":\\\"app\\\",\\\"elt_token\\\":0}\",\"ppage\":\"10198\",\"debugId\":\"4e6b4645-390f-4118-8ec5-cefeb110cc98|2026-06-06T12:04:57.2702057Z|fabric_msn|KOC-A|News_1579\"}","build":"20260602.321","extSchema":{"markers":{"idx":0,"FCP":197,"CLS100":0,"PreTtvrCLS100":0,"LCP":197}}}}]]></textPostContent>
+</http-action>

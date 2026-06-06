@@ -1,0 +1,56 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/widgets/engage/hyTqjKxaN2DXdKAtX_c"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/f0d166d5-7855-41d0-89cc-9c1810fb3b39.zip"
+    slaProfileEnabled="false" thinkTime="238"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f0d166d5-7855-41d0-89cc-9c1810fb3b39">
+    <embedded-action>2e72e6ed-39f8-4689-a2d5-1a722e4c41e9</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/widgets/engage/hyTqjKxaN2DXdKAtX_c"
+    path="/widgets/engage/hyTqjKxaN2DXdKAtX_c" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/f0d166d5-7855-41d0-89cc-9c1810fb3b39.zip"
+    recordedResponseCode="200" responseSize="32409"
+    serverUid="app.intelliticks.com" slaProfileEnabled="false"
+    uid="2e72e6ed-39f8-4689-a2d5-1a722e4c41e9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2e72e6ed-39f8-4689-a2d5-1a722e4c41e9.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2e72e6ed-39f8-4689-a2d5-1a722e4c41e9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="landing"
+        recordRawValue="https%3A%2F%2Fadvantageonlinebanking.com%2F"
+        separator="=" value="https://advantageonlinebanking.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cudId"
+        recordRawValue="%22hyTGiWfQKWQNS7SEk_cud%22" separator="="
+        value="&quot;hyTGiWfQKWQNS7SEk_cud&quot;" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="iframe"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 12:05:13 GMT&#xd;
+content-type: text/html&#xd;
+cache-control: no-store&#xd;
+pragma: no-cache&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

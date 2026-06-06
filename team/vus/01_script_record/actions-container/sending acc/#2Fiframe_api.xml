@@ -114,8 +114,7 @@ alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
     <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
     <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
     <header name="sec-fetch-dest" value="empty"/>
-    <responseHeaders>HTTP/2.0 100&#xd;
-</responseHeaders>
+    <responseHeaders>HTTP/2.0 100</responseHeaders>
     <record-html-infos extractorRegExp="false" htmlType="0"/>
 </http-action>
 <http-action actionType="1" contentType="text/css"

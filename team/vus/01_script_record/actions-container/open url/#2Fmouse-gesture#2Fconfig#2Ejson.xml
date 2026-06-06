@@ -1,0 +1,186 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/mouse-gesture/config.json" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85808453-f78d-47f3-8a52-b746c6cfba9e.zip"
+    slaProfileEnabled="false" thinkTime="990"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="85808453-f78d-47f3-8a52-b746c6cfba9e">
+    <embedded-action>d576bc25-fffb-49d4-b9c2-0f89b9e80dfa</embedded-action>
+    <embedded-action>4490ab44-b11e-4a2c-835f-4f52627fcef2</embedded-action>
+    <embedded-action>4687aba1-5c6c-41a6-af11-ea98c0589091</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_85808453-f78d-47f3-8a52-b746c6cfba9e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/mouse-gesture/config.json"
+    path="/mouse-gesture/config.json" postType="6"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85808453-f78d-47f3-8a52-b746c6cfba9e.zip"
+    recordedResponseCode="200" responseSize="101"
+    serverUid="edge-consumer-static.azureedge.net"
+    slaProfileEnabled="false" uid="d576bc25-fffb-49d4-b9c2-0f89b9e80dfa" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d576bc25-fffb-49d4-b9c2-0f89b9e80dfa</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d576bc25-fffb-49d4-b9c2-0f89b9e80dfa.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 06 Jun 2026 12:05:09 GMT&#xd;
+content-type: application/json&#xd;
+content-length: 101&#xd;
+last-modified: Tue, 24 Oct 2023 08:27:00 GMT&#xd;
+etag: 0x8DBD46AFE482320&#xd;
+x-ms-request-id: 09422d45-d01e-0053-370e-f49143000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+access-control-expose-headers: x-ms-request-id,Server,x-ms-version,Content-Type,ETag,Last-Modified,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding&#xd;
+access-control-allow-origin: *&#xd;
+x-azure-ref: 20260606T120509Z-r1dfbbb9b657sjn6hC1BOMhun000000006dg000000005f0x&#xd;
+x-fd-int-roxy-purgeid: 83583309&#xd;
+x-cache: TCP_HIT&#xd;
+cache-control: public, max-age=432000&#xd;
+accept-ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/extensionwebstorebase/v1/crx"
+    path="/extensionwebstorebase/v1/crx" postCharset="ISO-8859-1"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85808453-f78d-47f3-8a52-b746c6cfba9e.zip"
+    recordedResponseCode="200" responseSize="379"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="4490ab44-b11e-4a2c-835f-4f52627fcef2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4490ab44-b11e-4a2c-835f-4f52627fcef2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4490ab44-b11e-4a2c-835f-4f52627fcef2.txt</requestContentFileDescription>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Host" value="edge.microsoft.com"/>
+    <header name="MS-CV" value="te/ZoWmvBMXzFfWsABsRuD"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Mesh-Client-Arch" value="x86_64"/>
+    <header name="Sec-Mesh-Client-Edge-Channel" value="stable"/>
+    <header name="Sec-Mesh-Client-Edge-Version" value="149.0.4022.52"/>
+    <header name="Sec-Mesh-Client-OS" value="Windows"/>
+    <header name="Sec-Mesh-Client-OS-Version" value="10.0.19045"/>
+    <header name="Sec-Mesh-Client-WebView" value="0"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="X-Client-Data" value="COeOywE="/>
+    <header name="X-Microsoft-Update-AppId" value="ikdddppdhmjcdfgilpnbkdeggoiicjgo,jmjflgjpcpepeafmmgdpfkogkghcpiha,ndcileolkflehcjpmjnfbnaibdcgglog"/>
+    <header name="X-Microsoft-Update-Interactivity" value="bg"/>
+    <header name="X-Microsoft-Update-Service-Cohort" value="3234"/>
+    <header name="X-Microsoft-Update-Updater" value="msedgecrx-149.0.4022.52"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 209&#xd;
+Content-Type: application/json&#xd;
+Content-Encoding: gzip&#xd;
+Expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+X-FALCON-REF: Ref A: 4EC165E15965413F89EB3A962E5E58B7 Ref B: SC-NCUS-3EZT3_AKS-GEN11-40241877-VMSS000001_FABRICROUTER-AZUREGLOBALPRIVATE-7B6F57BCF4-4JH78 Ref C: 2026-06-06T12:05:10Z&#xd;
+X-Falcon-RouterStatusCode: SuccessfullyForwarded (200)&#xd;
+X-Frame-Options: sameorigin&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+X-Cache: CONFIG_NOCACHE&#xd;
+X-MSEdge-Ref: Ref A: 4EC165E15965413F89EB3A962E5E58B7 Ref B: BOM02EDGE0521 Ref C: 2026-06-06T12:05:10Z&#xd;
+Date: Sat, 06 Jun 2026 12:05:09 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"msedgecrx","acceptformat":"crx3,download,run,xz,zucc","apps":[{"appid":"ikdddppdhmjcdfgilpnbkdeggoiicjgo","cohort":"rrf@0.17","enabled":true,"installdate":6729,"installedby":"internal","lang":"en-US","ping":{"ping_freshness":"{f8380099-6d23-48d9-86c6-e14975a06efd}","rd":7096},"targetingattributes":{"AppCohort":"rrf@0.17","AppMajorVersion":"149","AppRollout":0.17,"AppVersion":"149.0.4022.52","IsInternalUser":false,"Priority":false},"updatecheck":{},"version":"2.0.4"},{"appid":"jmjflgjpcpepeafmmgdpfkogkghcpiha","cohort":"rrf@0.50","enabled":true,"installdate":6729,"installedby":"other","lang":"en-US","ping":{"ping_freshness":"{ec2228ba-592a-4173-85ea-bbf481035134}","rd":7096},"targetingattributes":{"AppCohort":"rrf@0.50","AppMajorVersion":"149","AppRollout":0.5,"AppVersion":"149.0.4022.52","IsInternalUser":false,"Priority":false},"updatecheck":{},"version":"1.2.1"},{"appid":"ndcileolkflehcjpmjnfbnaibdcgglog","cached_items":[{"sha256":"886546508b18cece6e74ed7890090d3429144cea46a99debb7d26e5e2d2f3481"}],"cohort":"rrf@0.94","enabled":true,"installdate":6729,"installedby":"internal","lang":"en-US","ping":{"ping_freshness":"{5a990aa8-5884-47dc-9068-6843cff7435d}","rd":7096},"targetingattributes":{"AppCohort":"rrf@0.94","AppMajorVersion":"149","AppRollout":0.94,"AppVersion":"149.0.4022.52","IsInternalUser":false,"Priority":false},"updatecheck":{},"version":"6.42.0"}],"arch":"x64","dedup":"cr","domainjoined":false,"hw":{"avx":1,"physmemory":12,"sse":1,"sse2":1,"sse3":1,"sse41":1,"sse42":1,"ssse3":1},"ismachine":1,"os":{"arch":"x86_64","platform":"Windows","version":"10.0.19045.6466"},"prodversion":"149.0.4022.52","protocol":"4.0","requestid":"{689dbcd6-a034-4b45-a173-ee63399aa2cf}","revocationviaomahaenabled":"1","sessionid":"{93ecb635-c7fa-466e-815b-421162edce7d}","updaterversion":"149.0.4022.52"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections"
+    path="/$rpc/google.rtc.meetings.v1.MeetingSpaceService/SyncMeetingSpaceCollections"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/85808453-f78d-47f3-8a52-b746c6cfba9e.zip"
+    recordedResponseCode="200" responseSize="96"
+    serverUid="meet.google.com" slaProfileEnabled="false"
+    uid="4687aba1-5c6c-41a6-af11-ea98c0589091" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[ChNzcGFjZXMvdUFrYjhTcFctNnNCEgQKAggtGgQKAggzIgQKAggrSgQKAggqUgQKAggqWgQKAggqYgQKAggqcgQKAggqegQKAggq]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_4687aba1-5c6c-41a6-af11-ea98c0589091</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4687aba1-5c6c-41a6-af11-ea98c0589091.txt</requestContentFileDescription>
+    <header name="referer" value="https://meet.google.com/sfm-dwvm-ijf"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="x-goog-meeting-identifier" value="CAMSDHVBa2I4U3BXLTZzQg=="/>
+    <header name="x-goog-encode-response-if-executable" value="base64"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="x-goog-api-key" value="AIzaSyCG_6Rm6c7ucLr2NwAq33-vluCp2VfSkf0"/>
+    <header name="origin" value="https://meet.google.com"/>
+    <header name="x-goog-meeting-debugid" value="boq_hlane_SBopVZuurTy"/>
+    <header name="authorization" value="SAPISIDHASH 1780747516_96277dd3500600404a41a0c9a8cf6342052c992b SAPISID1PHASH 1780747516_96277dd3500600404a41a0c9a8cf6342052c992b SAPISID3PHASH 1780747516_96277dd3500600404a41a0c9a8cf6342052c992b"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Chromium&quot;;v=&quot;148.0.7778.218&quot;, &quot;Google Chrome&quot;;v=&quot;148.0.7778.218&quot;, &quot;Not/A)Brand&quot;;v=&quot;99.0.0.0&quot;"/>
+    <header name="x-client-data" value="CKmdygEIlaHLAQiFoM0BCNLMlDAI38yUMAjizJQwCO3MlDAIts2UMAjSzZQwCPzNlDAIxc+UMBiKzZQwGOfNlDA="/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="content-type" value="application/x-protobuf"/>
+    <header name="x-compass-routing-destination" value="AHSoBRVqmM067ENlQ2mUb7Lfmuj7NwIwbCDSuAePq854DcLuxmkrhKlcrIW8bSivHZ69205TxAVVE3HwtOeJ10lG3M00lo5pTkVEjIx-rx9K2Wk="/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-ua-full-version" value="&quot;148.0.7778.218&quot;"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="cookie" value="__Secure-BUCKET=CFo; HSID=AjRY0FTUOVBwRaILO; SSID=Albp4T9y8SlRkAVMx; APISID=erLGbCw0f1zhHsmK/Ag09ssYsNS1AETjU7; SAPISID=WrJiWZ_1AWMHWXoY/AE9B0_Y1r2S3cRu3E; __Secure-1PAPISID=WrJiWZ_1AWMHWXoY/AE9B0_Y1r2S3cRu3E; __Secure-3PAPISID=WrJiWZ_1AWMHWXoY/AE9B0_Y1r2S3cRu3E; SEARCH_SAMESITE=CgQIqKAB; SID=g.a000-QhRrSFCl46hFFbLgvjACWmxuCTKMwmRD2jXaIqiI15F0KK5GZM4MZu-TmCCIE_Cp_puGAACgYKAQcSARESFQHGX2MiuTS8MHun_jiW1jvpviFT4RoVAUF8yKo38DUHEWV-IW3Unl38ZLlL0076; __Secure-1PSID=g.a000-QhRrSFCl46hFFbLgvjACWmxuCTKMwmRD2jXaIqiI15F0KK532AAFTIu721Nzp9hsTPgTAACgYKAYcSARESFQHGX2MiJmEbOtcQHndrYq8R-Sl0ehoVAUF8yKpCj-0heJZhKcAi_RQ_Q94s0076; __Secure-3PSID=g.a000-QhRrSFCl46hFFbLgvjACWmxuCTKMwmRD2jXaIqiI15F0KK5T68jM0E5jVcTHMnXwacVqgACgYKAbsSARESFQHGX2MijXfNGSYHwChH1gTLd_kIPBoVAUF8yKo3HcV3cvQASb72FnTjNWAp0076; OSID=g.a000-ghRrc7CMd1pZrQSVOcMjNPlGznGwIpQFbEbOf_s9s-WFdjkMkJ8K50paF5RE4B2mOyvHQACgYKAa4SARESFQHGX2MitS3oserpz4p6QmHBEOMc5RoVAUF8yKpPpuvC1xsPl-PlFsoy9m6H0076; __Secure-OSID=g.a000-ghRrc7CMd1pZrQSVOcMjNPlGznGwIpQFbEbOf_s9s-WFdjk9AwmjktoJ_CbcEZotncueQACgYKAXQSARESFQHGX2Miy9uhKL2xo9FUdUPTKsn8KxoVAUF8yKphpQeqEcCsGQ-2VblMTHvv0076; OTZ=8631936_34_34__34_; AEC=AaJma5v7BsWPTwq51eiLXm4LGohDnEZqpX3VHoHFl7sl2BUwb65HXLN9Gg; COMPASS=meet-ui=CgAQkYWQ0QYaaAAJa4lXf9-ij9UqTm-dGlu2beICUKMFIvlSOjbaf-OoSAebro0Hif12h6WIa-ctIBdeSwbqF4zUArVtPhOkTkwaqe73CPCj5vwVvMoz6uXSFoA4CsFh_IfHxHY90Oy1dCUmO2HuygVkMAE; NID=532=EzpNOC5T-xEqrVzTVeZ_kBnSwzOvPIRF6KlHaHtfs9PjWTYy5J7xIliGdH0-6Twy1e5lypESKY9QN9KRgz-8HHCqs2SDAs0WvBpgaTUo_VokJDVPCxHPU9ii0CMyUJr7fQ6-CfSuqpBkJALFsnXEAkIRqZVHCQpg5toUCdBzEeM6dsdhRdheAoW3eN4EnQlT-e4SMa9OnaE2OKVYPd5n2q1DzzMbJEju5v1UMbc0puqQrUlb2Trmz3AHheMj-S5-66Wx_rV71YPp2s6W_A52CkcH-r7Ax3XSVFxc_gXkYPwqYGnwH-kDQTKQ7sOwOPe8HCeUMRhIpy8DDgV-JVYJyZObGUVhCvfmGXCtp6_i0fp2LGaWfen5eePDn2Bat9pmLrktHiIiziN8tirmjf-ulF1-UfIWi_bBWJNaJ8k8FbTAugslfUjuWSkQMRjvNHr6l3g9XUw8l0oKOfperWu4IhEPKkOgMhNOdKCsbHl0WyqwnhRcwr7fvtuRY7sQ1SOA0Nfd2Fb_JBiIGT5-RwqNoQO-c-tjBbknX9qp3MD90UaC-Pr84nTXnz2gKkByebInPBJ_7lN1cf7yQl5jhEhaGkf4a44yMLQiMQihdTOARaTQ2edG3WlD445LhNvEuWVxPMV6RQk87to0UxwJ2-R358fwIbWxAvb6vAtSXal0lXlrAiQ7jO1zdaEWnLrPWZsLjAhJaz_lIagGdPqTv9WqLf0h6pEpBmorG-mEMoIY9escO09cZC-5Tia98oX3aG9vDXsoA7y-NUfmbv8fikAmM2vlNSC9rg4PUpJTJtuUjefw1JTnYmE; __Secure-1PSIDTS=sidts-CjYByojQU9Mk6jIJA7FuM8_CfjiC1BB42Z2OuZCSExgdoOwD_75FI9KZF8qIG8DT_OHad4auFQYQAA; __Secure-1PSIDRTS=sidts-CjYByojQU9Mk6jIJA7FuM8_CfjiC1BB42Z2OuZCSExgdoOwD_75FI9KZF8qIG8DT_OHad4auFQYQAA; __Secure-3PSIDTS=sidts-CjYByojQU9Mk6jIJA7FuM8_CfjiC1BB42Z2OuZCSExgdoOwD_75FI9KZF8qIG8DT_OHad4auFQYQAA; __Secure-3PSIDRTS=sidts-CjYByojQU9Mk6jIJA7FuM8_CfjiC1BB42Z2OuZCSExgdoOwD_75FI9KZF8qIG8DT_OHad4auFQYQAA; SIDCC=AKEyXzU4PEoeO67VpD_SpUwbRhAogd2GbOZo3GIsLcHvzuR3TNkwOOaiQ0o5peKS_poJkY6xvjc; __Secure-1PSIDCC=AKEyXzWoLFm5A_C_VNTRBIswW124ZG7Rfj5OEQw8K26Z-eE1ezBXORBrtd37V_FLILKMv_9LMCXc; __Secure-3PSIDCC=AKEyXzWNnxooskQzxR_d3ipu25PuE72iZdetCDc1Av9tCILAlT7R2JZTXXqqnq4J-3d9u5ZDM4Q"/>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="x-browser-validation" value="iy/IT6OolEaIa3Ez/HnN2UGAbZU="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="x-goog-meeting-token" value="1780747490946;ADmEuvwzWBo2ARRtWWj0fFO46zCoz0wnWF3gYoiQfG1P5puvOsolWLdhUc4RepDQxFzn1jGADTzhcwaTySGrbYkiJXqw5-NTzxQJ7grTL_wZn5mLOy75jLy7Q4vvqnp9pl7Wh1ktjOZGbom1jYv1bLyF9EkHguwOsxx7LI3Y7JcVRLeTekJqae1Uwrv63osRlQ8bdxVVhkJ633rG_kIuJMAzpfR9iH1xe_rTTU2W2YlMAUd_lpgz6kWDVXOV4F6mheaEqM_4Cwes"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;148&quot;, &quot;Google Chrome&quot;;v=&quot;148&quot;, &quot;Not/A)Brand&quot;;v=&quot;99&quot;"/>
+    <header name="x-goog-authuser" value="0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="x-goog-meeting-rtcclient" value="CAEQqgMYASABKAg4AQ=="/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server-timing: server-processing;dur=11&#xd;
+x-goog-meeting-token: 1780747510650;ADmEuvwTL4DJGkruQZkLG-FUWKaNj1v_sXZUC1u-QtbN5rnYGAB8RGdIrsrJ_piTJk1FbKQOuY8gMvLgrUivisJAKMAZyeiMktgaq6xe9T02h2myge2XbJ7OnLmwIC7Ol-qn0tdmgR5OLVGFdCya9uCq4YXxCdBvpJDVPchjjn5KjKZ9YbcCdozvNlIOXLXJEs8bLx7kcHpY6Xiv-a5YsMTfgCnVvteYYqoGjfFb6SdWkba94hNkaJsjRKwyTnlBZ-iI0hixJs3-&#xd;
+x-compass-routing-destination: AHSoBRWBFerbFk1Tjau8WqA0M63HL8EXnykwDs-TB-gBbFp_jI2G4xhO4U2NP3mGVs7xTHip1MvQ7-P-6FNsfUQJbKUMSolwCbndBBfa2uE2uIo=&#xd;
+content-type: text/plain&#xd;
+x-goog-safety-encoding: base64&#xd;
+x-goog-safety-content-type: application/x-protobuf&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Sat, 06 Jun 2026 12:05:10 GMT&#xd;
+server: ESF&#xd;
+content-length: 73&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+expires: Sat, 06 Jun 2026 12:05:10 GMT&#xd;
+cache-control: private&#xd;
+set-cookie: SIDCC=AKEyXzXruIYImJSKrGWSnKCkN2_7aId6vXBlZuhoeD3qq8VtZ-xL8Sv6Tu0TTYe91YLjGncJCGA; expires=Sun, 06-Jun-2027 12:05:10 GMT; path=/; domain=.google.com; priority=high&#xd;
+set-cookie: __Secure-1PSIDCC=AKEyXzUsK9cD_ELlin3lXkKlLOLJM6qjlaUVAfHkhKT6JA3xXQgLiDnTgty6HCugLKR-FbvCwwkW; expires=Sun, 06-Jun-2027 12:05:10 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high&#xd;
+set-cookie: __Secure-3PSIDCC=AKEyXzV2dC_B5gulHC31Z_5z0ua77rMTKBEOQgXSgw8PjGV3Xb-gb0JQ8wN-dSrs3WNS9x6cIiU; expires=Sun, 06-Jun-2027 12:05:10 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none&#xd;
+set-cookie: SIDCC=AKEyXzXrgMfo_Opqwnqt-jhNl_4OIB0lvlzuetJJCT773iB9BBaAQB966pF7TMW6e_GYb18f4So; expires=Sun, 06-Jun-2027 12:05:10 GMT; path=/; domain=.google.com; priority=high&#xd;
+set-cookie: __Secure-1PSIDCC=AKEyXzW6z9SutLHPx2KhxqQaBKVweiklqoyqFlz3ayA9tl-NFawqvhQ6eTLHXNcHTRBfxuwcgD9k; expires=Sun, 06-Jun-2027 12:05:10 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high&#xd;
+set-cookie: __Secure-3PSIDCC=AKEyXzVp9H5MvNs9_1Q2Pod-YTKzWx4kYubgjuVHSAJaxhvkCgTzV0DD1x3eD8i6MaxezxFr-Hg; expires=Sun, 06-Jun-2027 12:05:10 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000&#xd;
+x-l2-request-path: l2-managed-9</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
