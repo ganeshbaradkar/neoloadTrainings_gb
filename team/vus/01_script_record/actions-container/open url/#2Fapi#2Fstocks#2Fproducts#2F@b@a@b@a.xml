@@ -8,9 +8,11 @@
     <embedded-action>831621ac-ec6c-404d-8b88-5ce7bf91f097</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_e1c1f74f-1a23-46b5-b2a8-38c7f055430b.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;d93-1uSMI1x0bM24mHa8kf8A5D5F0dw&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/stocks/products/BABA"
     path="/api/stocks/products/BABA" postType="4"

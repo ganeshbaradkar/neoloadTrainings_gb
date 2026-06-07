@@ -32,7 +32,7 @@
     <header name="origin" value="https://advantageonlinebanking.com"/>
     <header name="priority" value="u=1, i"/>
     <header name="accept" value="application/json, text/plain, */*"/>
-    <header name="authorization" value="Bearer eyJhbGciOiJIUzI1NiJ9.eyJmaXJzdE5hbWUiOiJzZWNvbmRfbG9naW4iLCJsYXN0TmFtZSI6Imxhc3RuYW1lbG9naW4iLCJzdWIiOiJnYW5lc2hfc2Vjb25kTG9naW4iLCJyb2xlcyI6W3siYXV0aG9yaXR5IjoiQ1VTVE9NRVIifV0sImV4cCI6MTc4MDc0OTczNCwidXNlcklkIjoiMTU2OWM2M2QtOTA4Ni00YzZhLThmMzEtZTE1ZWY1ZWZjNDMyIiwiaWF0IjoxNzgwNzQ2MTM0LCJlbWFpbCI6ImdhbmVzaGJhcmFka2FyQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiZ2FuZXNoX3NlY29uZExvZ2luIn0.WPI3IoO9t_ZGcFVoWVp4uU6Dgn-zN1g3TyT-QfkFSWk"/>
+    <header name="authorization" value="Bearer ${token}"/>
     <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
     <header name="sec-ch-ua-mobile" value="?0"/>
     <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
@@ -57,5 +57,22 @@ expires: 0&#xd;
 strict-transport-security: max-age=15724800; includeSubDomains&#xd;
 x-frame-options: DENY</responseHeaders>
     <record-html-infos extractorRegExp="false" htmlType="0"/>
-    <textPostContent><![CDATA[{"iban":"AB56ADVB481777726312919","balance":450855.8,"fillType":"1","previousTransactions":"","previousMerchants":"","recipient":{"name":"ganesh b","iban":"IT51M0300203280884365336651","bic":"sds","bankName":"sdsd","company_id":null},"amount":11,"currencyCode":"USD","description":"","transaction_type":"other"}]]></textPostContent>
+    <textPostContent><![CDATA[{
+    "previousTransactions": "",
+    "amount": 11,
+    "balance": 450855.8,
+    "fillType": "1",
+    "iban": "AB56ADVB481777726312919",
+    "previousMerchants": "",
+    "recipient": {
+        "company_id": null,
+        "iban": "IT51M0300203280884365336651",
+        "name": "ganesh b",
+        "bankName": "sdsd",
+        "bic": "sds"
+    },
+    "description": "",
+    "transaction_type": "other",
+    "currencyCode": "USD"
+}]]></textPostContent>
 </http-action>

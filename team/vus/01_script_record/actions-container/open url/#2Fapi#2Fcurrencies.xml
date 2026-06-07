@@ -8,9 +8,11 @@
     <embedded-action>a027fb84-3fc0-4b0e-9b71-efa1aa088a81</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_cafafc47-b68e-4ad8-854a-65beec01e308.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;365-2+vwt6Fa2IhoEyDRjSRBPdqaDc4&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/currencies" path="/api/currencies"
     postType="4"

@@ -8,9 +8,11 @@
     <embedded-action>58eaece0-55b5-4a8a-ac01-51fa85a282d6</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_f5b8ddf6-5cb7-491d-b8af-73f792fe50b3.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;155b-FGEhP8aFxus2wxwjsTdYy469174&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/stocks/products" path="/api/stocks/products"
     postType="4"

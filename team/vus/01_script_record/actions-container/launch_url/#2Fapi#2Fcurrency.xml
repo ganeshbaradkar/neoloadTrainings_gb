@@ -8,9 +8,11 @@
     <embedded-action>2c6d2f5a-efcd-4d6e-9dd6-a03fd618810b</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_32c67add-2752-40ff-9e0f-2cc49088ce5b.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;5b4-TXuNDe/wDxVjT8tUhj/MtGHgnfQ&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/currency" path="/api/currency" postType="4"
     recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/32c67add-2752-40ff-9e0f-2cc49088ce5b.zip"

@@ -8,9 +8,11 @@
     <embedded-action>11e8f795-a5dd-4ca8-9f24-ce3db22f89e6</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_08ad7a55-a11a-42fb-abed-75a85c87a859.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;d79-rp2vrBhxPLNviLv+avAOths0/kg&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/stocks/products/AAPL"
     path="/api/stocks/products/AAPL" postType="4"

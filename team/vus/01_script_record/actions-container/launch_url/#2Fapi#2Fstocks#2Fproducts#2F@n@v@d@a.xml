@@ -8,9 +8,11 @@
     <embedded-action>9a2ab860-2965-4344-a411-866ae8417a6a</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_6c6a4be8-32fe-45f4-9c5b-ccc79a27d5af.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;d92-2dR5rBU0xztrEfXO8/paoP3KCro&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/stocks/products/NVDA"
     path="/api/stocks/products/NVDA" postType="4"

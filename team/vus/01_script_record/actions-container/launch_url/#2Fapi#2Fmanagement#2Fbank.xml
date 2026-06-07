@@ -8,9 +8,11 @@
     <embedded-action>202e8635-0f0e-4820-9c08-95d52cffbb59</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_5467f4ab-5cd2-4f0f-96f4-41895c6ada21.jpg</screenshotFileDescription>
 </http-page>
-<http-action actionType="1" extractorInjectPathPolicy="2"
-    extractorPathPolicy="1" followRedirects="false"
-    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+<http-action actionType="1"
+    eTag="W/&quot;83b-BAC0CfAGEmocbBOnfLOZVL9Ub78&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/api/management/bank" path="/api/management/bank"
     postType="4"
