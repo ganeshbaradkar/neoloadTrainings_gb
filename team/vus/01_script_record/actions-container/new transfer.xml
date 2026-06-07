@@ -2,8 +2,5 @@
     name="new transfer" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
     uid="5d5b5d23-fdaf-46a6-9190-dcad1fc66e93" weightsEnabled="false">
-    <weighted-embedded-action uid="a6644076-8287-4d78-a294-0e42dd726fa5"/>
     <weighted-embedded-action uid="b45e6320-8c40-40da-80b7-228236a128ca"/>
-    <weighted-embedded-action uid="c446b333-2e1d-40ac-abd3-e68745211fb1"/>
-    <weighted-embedded-action uid="41b5e734-6021-4562-b049-9eaa22a4cd0c"/>
 </basic-logical-action-container>

@@ -1,13 +1,4 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Inserted Content" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="a32bb986-b065-471c-9ac2-fbfea6c060e7" weightsEnabled="false">
-    <weighted-embedded-action uid="a9a36073-24ea-4711-a09b-ba323df805cc"/>
-    <weighted-embedded-action uid="4e789394-825d-42f4-8d1e-58a3dc5dc483"/>
-    <weighted-embedded-action uid="8bf47969-1905-405b-9ce2-82377e3d670d"/>
-    <weighted-embedded-action uid="764a8de4-bb5c-4afb-a774-e369236604b7"/>
-    <weighted-embedded-action uid="2057cb0a-f1f5-4ff0-97e3-451da9f8d38c"/>
-    <weighted-embedded-action uid="daf22cad-e385-4a08-885b-11adab26c14e"/>
-    <weighted-embedded-action uid="56717f98-fb3a-451c-8967-c9cbacae5316"/>
-    <weighted-embedded-action uid="aa841270-a1f5-4c0f-a9bd-3288711954e3"/>
-</basic-logical-action-container>
+    uid="a32bb986-b065-471c-9ac2-fbfea6c060e7" weightsEnabled="false"/>

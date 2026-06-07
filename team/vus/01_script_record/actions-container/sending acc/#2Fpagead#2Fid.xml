@@ -6,8 +6,6 @@
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="a12a326e-b74d-4485-a831-98285ad6ca5d">
     <embedded-action>e64c8894-804d-4157-9bb4-37af8c6f3ba1</embedded-action>
-    <embedded-action>c9f88780-62c3-44ce-a239-e29478249ec4</embedded-action>
-    <embedded-action>2c621602-e257-4642-af3c-d1bf87edec10</embedded-action>
     <embedded-action>249cdfa0-734c-4b6c-8a78-f11ad8dabdf0</embedded-action>
     <screenshotFileDescription>recorded-screenshots/sc_a12a326e-b74d-4485-a831-98285ad6ca5d.jpg</screenshotFileDescription>
 </http-page>
@@ -61,95 +59,6 @@ server: cafe&#xd;
 content-length: 133&#xd;
 x-xss-protection: 0&#xd;
 set-cookie: IDE=AHWqTUlb9PnbPFHFqchwSjw3OXMLNKY3_3P5wfNNeF4cFdT00-y-17_QS1Ys81ye; expires=Sat, 22-May-2027 11:56:48 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none&#xd;
-alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
-    <record-html-infos extractorRegExp="false" htmlType="0"/>
-</http-action>
-<http-action actionType="1"
-    contentType="application/json; charset=utf-8"
-    extractorInjectPathPolicy="2" extractorPathPolicy="1"
-    followRedirects="false" generatedByClient="false"
-    linkExtractorSeveralMatchOccurrence="1"
-    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
-    method="GET"
-    name="/autofillservice/core/page/-7196230225893011429/1668909590402810660"
-    path="/autofillservice/core/page/-7196230225893011429/1668909590402810660"
-    postType="6"
-    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/a12a326e-b74d-4485-a831-98285ad6ca5d.zip"
-    recordedResponseCode="200" responseSize="192"
-    serverUid="edge.microsoft.com" slaProfileEnabled="false"
-    uid="c9f88780-62c3-44ce-a239-e29478249ec4" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_c9f88780-62c3-44ce-a239-e29478249ec4</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_c9f88780-62c3-44ce-a239-e29478249ec4.txt</requestContentFileDescription>
-    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
-    <header name="Accept-Language" value="en-US,en;q=0.9"/>
-    <header name="Connection" value="keep-alive"/>
-    <header name="Host" value="edge.microsoft.com"/>
-    <header name="Sec-Fetch-Dest" value="empty"/>
-    <header name="Sec-Fetch-Mode" value="no-cors"/>
-    <header name="Sec-Fetch-Site" value="none"/>
-    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
-    <header name="X-Client-Data" value="COeOywE="/>
-    <responseHeaders>HTTP/1.1 200 OK&#xd;
-Cache-Control: max-age=691200&#xd;
-Content-Length: 192&#xd;
-Content-Type: application/json; charset=utf-8&#xd;
-X-Cache: TCP_HIT&#xd;
-X-FALCON-REF: Ref A: 8A7855C3B8FE43519275211CF1ABAB6C Ref B: SC-KORS-4ONYK_AKS-GEN10-18679786-VMSS00000C_FABRICROUTER-AZUREGLOBALPRIVATE-7B6F57BCF4-44CFR Ref C: 2026-06-05T05:12:38Z&#xd;
-X-Falcon-RouterStatusCode: SuccessfullyForwarded (200)&#xd;
-X-MSEdge-Ref: Ref A: 97B129FF1F74426A8C2C81150B6CE88B Ref B: BOM02EDGE0411 Ref C: 2026-06-06T11:43:15Z&#xd;
-Date: Sat, 06 Jun 2026 11:43:15 GMT</responseHeaders>
-    <record-html-infos extractorRegExp="false" htmlType="0"/>
-</http-action>
-<http-action actionType="1" contentType="text/javascript"
-    extractorInjectPathPolicy="2" extractorPathPolicy="1"
-    followRedirects="false" generatedByClient="false"
-    linkExtractorSeveralMatchOccurrence="1"
-    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
-    method="GET"
-    name="/js/th/j4Ntrty0v2XuOTPuDZnwm4R49aNsF-k4GV3wovrYX9k.js"
-    path="/js/th/j4Ntrty0v2XuOTPuDZnwm4R49aNsF-k4GV3wovrYX9k.js"
-    postType="6"
-    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/a12a326e-b74d-4485-a831-98285ad6ca5d.zip"
-    recordedResponseCode="200" responseSize="62046"
-    serverUid="www.google.com" slaProfileEnabled="false"
-    uid="2c621602-e257-4642-af3c-d1bf87edec10" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_2c621602-e257-4642-af3c-d1bf87edec10</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_2c621602-e257-4642-af3c-d1bf87edec10.txt</requestContentFileDescription>
-    <header name="sec-fetch-mode" value="no-cors"/>
-    <header name="referer" value="https://www.youtube.com/"/>
-    <header name="sec-fetch-storage-access" value="active"/>
-    <header name="x-browser-year" value="2026"/>
-    <header name="sec-fetch-site" value="cross-site"/>
-    <header name="cookie" value="NID=532=lQrFyceRLoU-jDNB60cHV1WEYLbC2dsGPqsEWHrMZ7XPkDGEzxyF2FRSNM1mbzvd85zdBZ0adwdMavJ2dbK2XuIwkleMYZ1Iw5_x5dyvteQgVuPqz6Q0XinslknE9x8x2VPOhFrq13a1uhkejVmAZRnJhjnk5UDslcoNoshKdLpH-Z6fpB3_nYXjN4UmkWzLeCRku4TuHCjCWP0QopblPiZsLw1fzArlaYo8Zq5LIODEQOXGgCmCZJe5AUfDhu0J"/>
-    <header name="accept-language" value="en-US,en;q=0.9"/>
-    <header name="x-browser-validation" value="B7J4Z96L3zd+csBCIH4FlLvoWAI="/>
-    <header name="accept" value="*/*"/>
-    <header name="x-browser-channel" value="stable"/>
-    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
-    <header name="sec-ch-ua-mobile" value="?0"/>
-    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
-    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
-    <header name="sec-fetch-dest" value="script"/>
-    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
-    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
-    <responseHeaders>HTTP/2.0 200&#xd;
-accept-ranges: bytes&#xd;
-content-encoding: br&#xd;
-content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/botguard-scs&#xd;
-cross-origin-resource-policy: cross-origin&#xd;
-cross-origin-opener-policy: same-origin; report-to="botguard-scs"&#xd;
-report-to: {"group":"botguard-scs","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/botguard-scs"}]}&#xd;
-content-length: 23675&#xd;
-x-content-type-options: nosniff&#xd;
-server: sffe&#xd;
-x-xss-protection: 0&#xd;
-date: Sun, 31 May 2026 14:50:33 GMT&#xd;
-expires: Mon, 31 May 2027 14:50:33 GMT&#xd;
-cache-control: public, max-age=31536000&#xd;
-last-modified: Thu, 28 May 2026 16:00:00 GMT&#xd;
-content-type: text/javascript&#xd;
-vary: Accept-Encoding&#xd;
-age: 507162&#xd;
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
     <record-html-infos extractorRegExp="false" htmlType="0"/>
 </http-action>

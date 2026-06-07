@@ -41,8 +41,8 @@
         <lg-address enabled="false" hostname="2402:e280:3e8f:fb:12ee:101a:d990:5931">
             <ip value="2402:e280:3e8f:fb:12ee:101a:d990:5931"/>
         </lg-address>
-        <lg-address enabled="false" hostname="2402:e280:3e8f:fb:884e:58c4:382:6eb8">
-            <ip value="2402:e280:3e8f:fb:884e:58c4:382:6eb8"/>
+        <lg-address enabled="false" hostname="2402:e280:3e8f:fb:2ce7:28a9:5c79:cbf4">
+            <ip value="2402:e280:3e8f:fb:2ce7:28a9:5c79:cbf4"/>
         </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:bb28:8e32:30b3:da46%wireless_32772">
             <ip value="fe80:0:0:0:bb28:8e32:30b3:da46%wireless_32772"/>
