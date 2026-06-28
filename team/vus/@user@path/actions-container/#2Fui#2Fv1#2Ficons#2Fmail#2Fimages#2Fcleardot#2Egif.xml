@@ -1,0 +1,69 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/ui/v1/icons/mail/images/cleardot.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/2f2eaedb-58f3-4754-97c2-7b63c268f352.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2f2eaedb-58f3-4754-97c2-7b63c268f352">
+    <embedded-action>eec84815-0537-4494-823f-59ad377310ee</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ui/v1/icons/mail/images/cleardot.gif"
+    path="/ui/v1/icons/mail/images/cleardot.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/2f2eaedb-58f3-4754-97c2-7b63c268f352.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.gstatic.com" slaProfileEnabled="false"
+    uid="eec84815-0537-4494-823f-59ad377310ee" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_eec84815-0537-4494-823f-59ad377310ee.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="ia1ej2f71vkm" separator="=" value="ia1ej2f71vkm" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://mail.google.com/"/>
+    <header name="sec-fetch-storage-access" value="active"/>
+    <header name="x-browser-year" value="2026"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;149.0.7827.114&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.114&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="x-client-data" value="CKmdygEIlqHLAQiFoM0BCOK5zwEI38yUMAjizJQwCO3MlDAIts2UMAjSzZQwCP3NlDAIis6UMAjFz5QwGIrNlDAY582UMA=="/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.7827.114&quot;"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="accept-language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="x-browser-validation" value="a0ol36lpjApnxs3Jgy1Bs5moG6s="/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="x-browser-channel" value="stable"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="x-browser-copyright" value="Copyright 2026 Google LLC. All Rights Reserved."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/gif&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/gmail&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="gmail"&#xd;
+report-to: {"group":"gmail","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gmail"}]}&#xd;
+content-length: 43&#xd;
+date: Sun, 14 Jun 2026 11:29:51 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Tue, 03 Mar 2020 20:15:00 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

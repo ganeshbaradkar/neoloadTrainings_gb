@@ -1,0 +1,34 @@
+<websocket-channel-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="websocket_channel_1" path="/websocket"
+    postType="6" pushType="WEBSOCKET" recordedResponseCode="101"
+    responseSize="0" serverUid="app.intelliticks.com"
+    slaProfileEnabled="false" uid="1c2030c8-efa0-442a-ac22-68ca406f5f5c" useKeepAlive="false">
+    <response-matching extractionMethod="REGEXP_ONLY" regexp="" template="$1$"/>
+    <requestContentFileDescription>team/vus/@user@path/%resources%/recorded-requests/req_1c2030c8-efa0-442a-ac22-68ca406f5f5c.txt</requestContentFileDescription>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Upgrade"/>
+    <header name="Host" value="app.intelliticks.com"/>
+    <header name="Origin" value="https://app.intelliticks.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Sec-WebSocket-Extensions" value="permessage-deflate; client_max_window_bits"/>
+    <header name="Sec-WebSocket-Key" value="lUCZ25fE66LdzkB2DkHwhw=="/>
+    <header name="Sec-WebSocket-Version" value="13"/>
+    <header name="Upgrade" value="websocket"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/1.1 101 Switching Protocols&#xd;
+Date: Sun, 14 Jun 2026 11:30:03 GMT&#xd;
+Connection: upgrade&#xd;
+Upgrade: websocket&#xd;
+Sec-WebSocket-Accept: kfKlllk0yzTlKO28stfjtUdbAbM=&#xd;
+Sec-WebSocket-Extensions: permessage-deflate</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <push-handler filecount="9"
+        filename="team/vus/@user@path/%resources%/recorded-responses/websocket_dfd3af15-83b0-441f-99ab-c19e689de4f4.dat" pushType="WEBSOCKET">
+        <result-handler responseSource="MESSAGE" type="REGEXP"/>
+    </push-handler>
+</websocket-channel-action>

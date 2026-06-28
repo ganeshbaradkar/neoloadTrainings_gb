@@ -1,0 +1,99 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/edge/ntp/service-worker.js" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/3e5f395d-d35b-4e50-b779-bc50ecba1797.zip"
+    slaProfileEnabled="false" thinkTime="2694"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3e5f395d-d35b-4e50-b779-bc50ecba1797">
+    <embedded-action>6e0fb41f-e1e6-49e3-998a-d0c46b722891</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3e5f395d-d35b-4e50-b779-bc50ecba1797.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/edge/ntp/service-worker.js"
+    path="/edge/ntp/service-worker.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/3e5f395d-d35b-4e50-b779-bc50ecba1797.zip"
+    recordedResponseCode="304" responseSize="0" serverUid="ntp.msn.com"
+    slaProfileEnabled="false" uid="6e0fb41f-e1e6-49e3-998a-d0c46b722891" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_6e0fb41f-e1e6-49e3-998a-d0c46b722891.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="bundles"
+        recordRawValue="latest" separator="=" value="latest" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="riverAgeMinutes" recordRawValue="2880" separator="="
+        value="2880" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="navAgeMinutes"
+        recordRawValue="2880" separator="=" value="2880" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="networkTimeoutSeconds" recordRawValue="5" separator="="
+        value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="bgTaskNetworkTimeoutSeconds" recordRawValue="8"
+        separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="ssrBasePageNavAgeMinutes" recordRawValue="720"
+        separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="enableEmptySectionRoute" recordRawValue="true"
+        separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="enableNavPreload" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="enableFallbackVerticalsFeed" recordRawValue="true"
+        separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="noCacheLayoutTemplates" recordRawValue="true"
+        separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="cacheSSRBasePageResponse" recordRawValue="true"
+        separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="enableStaticAdsRouting" recordRawValue="true"
+        separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="enableWidgetsRegion" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="same-origin"/>
+    <header name="referer" value="https://ntp.msn.com/edge/ntp/service-worker.js?bundles=latest&amp;riverAgeMinutes=2880&amp;navAgeMinutes=2880&amp;networkTimeoutSeconds=5&amp;bgTaskNetworkTimeoutSeconds=8&amp;ssrBasePageNavAgeMinutes=720&amp;enableEmptySectionRoute=true&amp;enableNavPreload=true&amp;enableFallbackVerticalsFeed=true&amp;noCacheLayoutTemplates=true&amp;cacheSSRBasePageResponse=true&amp;enableStaticAdsRouting=true&amp;enableWidgetsRegion=true"/>
+    <header name="if-none-match" value="0x8DEC8D3E0996B1B"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="__rubyUX=false; pglt-edgeChromium-ntp=161; __rubyState=1_7; pglt-edgeChromium-dhp=161; _C_Auth=; MicrosoftApplicationsTelemetryDeviceId=6010990d-0294-4e83-b584-0cf42a206c85; USRLOC=BID=MjYwNjE0MTYyMzExXzM0NDYwMTRiYjUxODc5MTllZTE2MTBlZGY3NTc3Y2RmZWQ1ZTg0MTk1YzRkNDExYTJmZGNmMWU0MjIxNDhkYzE=; MUIDB=38A49867CB32647605A58F21CA0B65FE; _EDGE_V=1; MUID=06CE9DF114B36CAF115B894515EF6DB9; MUIDB=06CE9DF114B36CAF115B894515EF6DB9; sptmarket=en-US%7C%7Cin%7Cen-in%7Cen-in%7Cen%7C%7Ccf%3D8%7CRefA%3D6064E0FE42EF4508A98BD5AA636CAA07.RefC%3D2024-07-26T23%3A51%3A29Z; msnup=%7B%22cnex%22%3A%22no%22%7D; sptmarket_restored=en-US%7C%7Cin%7Cen-in%7Cen-in%7Cen%7C%7Ccf%3D8%7CRefA%3D6064E0FE42EF4508A98BD5AA636CAA07.RefC%3D2024-07-26T23%3A51%3A29Z; MSFPC=GUID=9a88bb13bb8744e6b97ec4c2489c3063&amp;HASH=9a88&amp;LV=202606&amp;V=4&amp;LU=1780747471652; _EDGE_S=SID=3C6CE698CD41645C1126F1E8CC4B65A2; App-User=%7B%22userId%22%3A%22m-06CE9DF114B36CAF115B894515EF6DB9%22%2C%22cohorts%22%3A%5B%7B%22name%22%3A%22Ruby%22%2C%22everSelected%22%3Atrue%2C%22reason%22%3A%22MatchedRubyPreviousInteraction%22%7D%2C%7B%22name%22%3A%22SuperCold%22%2C%22everSelected%22%3Afalse%2C%22reason%22%3A%22MatchedBySignal%22%7D%5D%2C%22accountType%22%3A%22NA%22%2C%22identityType%22%3A%22App%22%2C%22settings%22%3Anull%2C%22responseCreationDateTime%22%3A%222026-06-14T10%3A51%3A17.5290370Z%22%2C%22debugId%22%3A%22338aeb46-b580-413c-8dd4-3b8104ccca99%7C2026-06-14T10%3A51%3A17.5290435Z%7CAuth%7CKOS-CF%7Caksgen01000006%22%7D; ai_session=EVVaJ7uV26DiZQE5XYqw7z|1781435536014|1781436594888; _C_ETH=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="sec-ms-gec-version" value="2-149.0.4022.52"/>
+    <header name="sec-ms-gec" value="18591010C6DCED91-4F6CF4EBD2B2BF84189B37620CC13036092B61AD9ECFD80972EB57E45E032E13"/>
+    <header name="accept" value="*/*"/>
+    <header name="if-modified-since" value="Fri, 12 Jun 2026 22:42:26 GMT"/>
+    <header name="sec-edge-ntp" value="{&quot;back_block&quot;:0,&quot;bg_cur&quot;:{&quot;configIndex&quot;:49,&quot;imageId&quot;:&quot;BB1msIHz&quot;,&quot;provider&quot;:&quot;CMSImage&quot;,&quot;userSelected&quot;:false},&quot;bg_img_typ&quot;:&quot;imageAndVideo&quot;,&quot;break_dis&quot;:{},&quot;dsp&quot;:0,&quot;en_widget_reg&quot;:false,&quot;exp&quot;:[&quot;msShowBrowserCustomizationHubEntryPoint&quot;,&quot;msAllowThemeInstallationFromChromeStore&quot;,&quot;msUndersideAutoOpenForMsnTopQuestion&quot;,&quot;msNurturingMetadataTemplate&quot;,&quot;msNurturingOnboardNTPToCE&quot;,&quot;msRubyFlightingAllowed&quot;],&quot;feed_dis&quot;:&quot;off&quot;,&quot;fre_seen_ct&quot;:3,&quot;is_adb&quot;:true,&quot;is_ntp_ruby&quot;:&quot;false&quot;,&quot;layout&quot;:3,&quot;new_prof_fre_time&quot;:1.75544176799e+12,&quot;quick_links_opt&quot;:0,&quot;seen_new_dev_fre&quot;:false,&quot;sel_feed_piv&quot;:&quot;myFeed&quot;,&quot;show_greet&quot;:true,&quot;tscollapsed&quot;:0,&quot;vp&quot;:{&quot;height&quot;:620,&quot;width&quot;:1358},&quot;vt_opened&quot;:false,&quot;wpo_nx&quot;:{&quot;cpt&quot;:true,&quot;v&quot;:&quot;2&quot;}}"/>
+    <header name="x-client-data" value="eyIxIjoiMCIsIjIiOiIwIiwiMyI6IjAiLCI0IjoiNDM1MjE3MTIxMjM2NjgxMDY1MyIsIjYiOiJzdGFibGUiLCI5IjoiZGVza3RvcCJ9"/>
+    <header name="service-worker" value="script"/>
+    <header name="x-edge-shopping-flag" value="0"/>
+    <header name="cache-control" value="max-age=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <header name="sec-fetch-dest" value="serviceworker"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: application/javascript&#xd;
+last-modified: Fri, 12 Jun 2026 22:42:26 GMT&#xd;
+etag: 0x8DEC8D3E0996B1B&#xd;
+date: Sun, 14 Jun 2026 11:30:10 GMT&#xd;
+akamai-request-bc: [a=23.54.80.125,b=271376003,c=g,n=IN_MH_MUMBAI,o=20940]&#xd;
+server-timing: clientrtt; dur=13, clienttt; dur=1, origin; dur=0, cdntime; dur=1, wpo;dur=0,1s;dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+akamai-server-ip: 23.54.80.125&#xd;
+akamai-request-id: 102cde83&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://ntp.msn.com&#xd;
+cache-control: no-cache&#xd;
+x-as-suppresssetcookie: 1&#xd;
+service-worker-allowed: /&#xd;
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}&#xd;
+timing-allow-origin: *&#xd;
+akamai-grn: 0.7d503617.1781436610.102cde83&#xd;
+vary: Origin</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

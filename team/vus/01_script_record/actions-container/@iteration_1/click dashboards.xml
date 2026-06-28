@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click dashboards" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c76ebc55-e4ac-41e7-8633-bc8204315ef9" weightsEnabled="false">
+    <weighted-embedded-action uid="3448ff05-f1e4-4eb4-8298-481c057d5dc2"/>
+    <weighted-embedded-action uid="b20077b1-6d9f-4382-b904-c431805172bd"/>
+    <weighted-embedded-action uid="e97038e5-1e99-497b-b0f4-20b7b278ecbc"/>
+    <weighted-embedded-action uid="f0987e8b-2b80-4c68-b839-92b6b92f636f"/>
+    <weighted-embedded-action uid="51cf8f56-9ee6-4df0-9dcf-bb4769174cd2"/>
+    <weighted-embedded-action uid="e90d0566-851c-4357-aeb9-1ebd3e240065"/>
+    <weighted-embedded-action uid="f2a06767-5bb6-4fdd-8b73-17acd27743a6"/>
+    <weighted-embedded-action uid="5b7ba198-cd65-4d2f-b072-6f1f7f8e01ab"/>
+</basic-logical-action-container>

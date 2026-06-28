@@ -1,0 +1,58 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/1/events/com.amazon.cbb.prod"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/76e8f98f-4b3e-4058-a044-b1f11c5b0842.zip"
+    slaProfileEnabled="false" thinkTime="111"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="76e8f98f-4b3e-4058-a044-b1f11c5b0842">
+    <embedded-action>f64cca65-f7b6-4c83-95d8-6c2f3b48ec1a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_76e8f98f-4b3e-4058-a044-b1f11c5b0842.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/1/events/com.amazon.cbb.prod"
+    path="/1/events/com.amazon.cbb.prod" postCharset="UTF-8"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/76e8f98f-4b3e-4058-a044-b1f11c5b0842.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="unagi.amazon.in" slaProfileEnabled="false"
+    uid="f64cca65-f7b6-4c83-95d8-6c2f3b48ec1a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f64cca65-f7b6-4c83-95d8-6c2f3b48ec1a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f64cca65-f7b6-4c83-95d8-6c2f3b48ec1a.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="Cookie" value="session-id=521-0186726-8562710; session-id-time=2082787201l; i18n-prefs=INR; lc-acbin=en_IN; ubid-acbin=258-6602686-3295518; session-token=5V0kO8NdcN27+SVK9enrsZV5YLTJLb6cLc9GqKGGokfahukF6vHuXDPIc3w+FZM0Q9cV9OpLNvYEWDrJcSW3edybvu11/XXgUGaW9WHlUUaJ2XjppBivNx+pi3P7ksl7vnexHbM0uhWYOkhN1OH19n25x1nATiGF+Avl37Qwjb3asK7pYgAdgmXiCyaLkeYujz3ddpRH35l8k+h0r7yHZgFF3hrfndFJ"/>
+    <header name="Host" value="unagi.amazon.in"/>
+    <header name="Origin" value="https://www.amazon.in"/>
+    <header name="Referer" value="https://www.amazon.in/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Server&#xd;
+Date: Sun, 14 Jun 2026 11:30:03 GMT&#xd;
+Content-Type: application/json&#xd;
+Content-Length: 22&#xd;
+Connection: keep-alive&#xd;
+x-amz-rid: MX81F42KW525RP1AJ11V&#xd;
+x-amzn-RequestId: 54c6fbc3-9437-460a-b93d-203dc4f78a58&#xd;
+Access-Control-Allow-Origin: https://www.amazon.in&#xd;
+Content-Encoding: gzip&#xd;
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Vary: Origin,Accept-Encoding,User-Agent&#xd;
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"events":[{"data":{"rid":"3KQKKT0G1VECW8GM4KX4","sid":"521-0186726-8562710","mid":"A21TJRUUN4KGV","sn":"www.amazon.in","reqs":[{"r":"3KQKKT0G1VECW8GM4KX4","p":"https://www.amazon.in/dp/B0BY938K6R?th=1&tag=manvi1230c-21","c":null,"t":1781436573892,"type":"inc","md":"ECdITeCs:Wxw8FNpZP4ttGe5Y9EbN6FHbx43j1brzvjiAGon7MiVojuPov/iFiWnUMd/yXiUj4HlAHNwwsR+PpHIuCPsZDLy6agPB/8TO35DIB8Jp1ZYYZd6b0ZV4nK0upOh6MJnxMB+grOm+jQ5hIaBQicWRI2KE9ex2V+gMMFAyw4Zwif8ypd3snLpIXQOkyLx5ZI5M"}]}},{"data":{"rid":"3KQKKT0G1VECW8GM4KX4","sid":"521-0186726-8562710","mid":"A21TJRUUN4KGV","sn":"www.amazon.in","reqs":[{"r":"3KQKKT0G1VECW8GM4KX4","p":"https://www.amazon.in/dp/B0BY938K6R?th=1&tag=manvi1230c-21","c":null,"t":1781436581519,"type":"inc","md":"ECdITeCs:vGOuclcLPTgKiVISdtSN6Uf4z03u3YXNnF+mvP8hK/cXmLmkbJa4njKkjZpEarOp7O+mxdNS4ae9FjwpMIQWzNO5bdPwUJWotfYFdR7YAKxJGsV8tSgcWjQAoV4yCJwUJrSy/M8kbaMCwH6eazAgy6KzplQTo2x4k6foorATXK9B3KiY4Yp8+3EqijAMqXEk"}]}},{"data":{"rid":"3KQKKT0G1VECW8GM4KX4","sid":"521-0186726-8562710","mid":"A21TJRUUN4KGV","sn":"www.amazon.in","reqs":[{"r":"3KQKKT0G1VECW8GM4KX4","p":"https://www.amazon.in/dp/B0BY938K6R?th=1&tag=manvi1230c-21","c":null,"t":1781436586521,"type":"inc","md":"ECdITeCs:OtM1r8SKPVVlVqRlCUa7UO5GCAhwaIaFrCz+lsh0kwwj4oqg4jyfUtnfrNWA9f6YimZ9Sn+Is3Cd2LN1HeZ3368wI3g6yJZUcc7Z05iCrH2YwkEvLMHys3T0hJc6KlcpO6zwvbDRyvtQVMP0w1U3e2qmbRHHkrpbGEUTF87molFonSrsFDhF2k/woFt5zDKo"}]}},{"data":{"rid":"3KQKKT0G1VECW8GM4KX4","sid":"521-0186726-8562710","mid":"A21TJRUUN4KGV","sn":"www.amazon.in","reqs":[{"r":"3KQKKT0G1VECW8GM4KX4","p":"https://www.amazon.in/dp/B0BY938K6R?th=1&tag=manvi1230c-21","c":null,"t":1781436591558,"type":"inc","md":"ECdITeCs:Twh3a7O2ebMaEwUSrm73Msoyus5S5fcrf+Pe7x49E8BAjxoGDjneANnrDketk+nzXC1IC+B1P8e3fgT4ZnszAtaLPQ0/wXSFFNy1kGE3bJqEg9XwHH1otl0uHX4R5ASRQ2FqF9B1rRUTOplo4o7yohqeyQDUGgzadMwFEXZYYhHexMkrSlSgIoG9iUgWzmVq"}]}},{"data":{"rid":"3KQKKT0G1VECW8GM4KX4","sid":"521-0186726-8562710","mid":"A21TJRUUN4KGV","sn":"www.amazon.in","reqs":[{"r":"3KQKKT0G1VECW8GM4KX4","p":"https://www.amazon.in/dp/B0BY938K6R?th=1&tag=manvi1230c-21","c":null,"t":1781436596528,"type":"inc","md":"ECdITeCs:2KW2WTEln5zeuYbhrln04Yd2ccwSv8ddAEDCR2+jCimSlq1UQt7EUVg5zJhXhGzpQHJEHksXVh+R+QJoyEevbhtIvDhCq/Q83xRQa2+v2Yrkqpzhi+sMTM8ERuVlWiPOjqwbTWwgMeZgNCaQ+dpRLgsZo8DXGCpm2gvkyzRtum2qqBHRlQimEV/NC/w+F5mD"}]}}]}]]></textPostContent>
+</http-action>

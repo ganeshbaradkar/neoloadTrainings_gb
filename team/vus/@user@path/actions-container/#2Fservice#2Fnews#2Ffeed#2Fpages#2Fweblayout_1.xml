@@ -1,0 +1,163 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/service/news/feed/pages/weblayout_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b751059d-8f4f-4173-87ec-927b3c5d3ed7.zip"
+    slaProfileEnabled="false" thinkTime="18"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b751059d-8f4f-4173-87ec-927b3c5d3ed7">
+    <embedded-action>63b52621-1721-4b62-838e-6563a6752c42</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b751059d-8f4f-4173-87ec-927b3c5d3ed7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/service/news/feed/pages/weblayout"
+    path="/service/news/feed/pages/weblayout" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b751059d-8f4f-4173-87ec-927b3c5d3ed7.zip"
+    recordedResponseCode="200" responseSize="6770"
+    serverUid="assets.msn.com" slaProfileEnabled="false"
+    uid="63b52621-1721-4b62-838e-6563a6752c42" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_63b52621-1721-4b62-838e-6563a6752c42</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_63b52621-1721-4b62-838e-6563a6752c42.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="User"
+        recordRawValue="m-06CE9DF114B36CAF115B894515EF6DB9"
+        separator="=" value="m-06CE9DF114B36CAF115B894515EF6DB9" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="activityId"
+        recordRawValue="6a2e8c9a-7c51-44d1-89e1-f092a97f0d56"
+        separator="=" value="6a2e8c9a-7c51-44d1-89e1-f092a97f0d56" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="adminDisabled"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="adoffsets"
+        recordRawValue="c1:-1,c2:-1,c3:-1,c4:-1" separator="="
+        value="c1:-1,c2:-1,c3:-1,c4:-1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="apikey"
+        recordRawValue="1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc"
+        separator="=" value="1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="audienceMode"
+        recordRawValue="adult" separator="=" value="adult" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="backgroundImageIsSet" recordRawValue="false" separator="="
+        value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cm"
+        recordRawValue="en-in" separator="=" value="en-in" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="colstatus"
+        recordRawValue="c1:0,c2:0,c3:0,c4:0" separator="="
+        value="c1:0,c2:0,c3:0,c4:0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="column"
+        recordRawValue="c4" separator="=" value="c4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="colwidth"
+        recordRawValue="300" separator="=" value="300" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="copilotApiSupported" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="disablecontent" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dprValue"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="inEdgeFeatures" recordRawValue="false" separator="="
+        value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="it"
+        recordRawValue="app" separator="=" value="app" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="l3v"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="layout"
+        recordRawValue="c4" separator="=" value="c4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="memory"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="newProfFreTime" recordRawValue="1755441767990"
+        separator="=" value="1755441767990" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="newsSkip"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="newsTop"
+        recordRawValue="48" separator="=" value="48" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ocid"
+        recordRawValue="anaheim-ntp-feeds" separator="="
+        value="anaheim-ntp-feeds" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pgc"
+        recordRawValue="161" separator="=" value="161" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="promotion"
+        recordRawValue="1646490903172_f_inspirational_informational"
+        separator="="
+        value="1646490903172_f_inspirational_informational" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="revertTimes"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="scn"
+        recordRawValue="APP_ANON" separator="=" value="APP_ANON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="timeOut"
+        recordRawValue="1000" separator="=" value="1000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="vpSize"
+        recordRawValue="1358x620" separator="=" value="1358x620" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wposchema"
+        recordRawValue="byregion" separator="=" value="byregion" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://ntp.msn.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="_C_Auth=; MUID=; MUIDB=; USRLOC=BID=MjYwNjE0MTYyMzExXzM0NDYwMTRiYjUxODc5MTllZTE2MTBlZGY3NTc3Y2RmZWQ1ZTg0MTk1YzRkNDExYTJmZGNmMWU0MjIxNDhkYzE=; _EDGE_V=1; MUID=06CE9DF114B36CAF115B894515EF6DB9; MUIDB=06CE9DF114B36CAF115B894515EF6DB9; msnup=%7B%22cnex%22%3A%22no%22%7D; _EDGE_S=SID=3C6CE698CD41645C1126F1E8CC4B65A2; App-User=%7B%22userId%22%3A%22m-06CE9DF114B36CAF115B894515EF6DB9%22%2C%22cohorts%22%3A%5B%7B%22name%22%3A%22Ruby%22%2C%22everSelected%22%3Atrue%2C%22reason%22%3A%22MatchedRubyPreviousInteraction%22%7D%2C%7B%22name%22%3A%22SuperCold%22%2C%22everSelected%22%3Afalse%2C%22reason%22%3A%22MatchedBySignal%22%7D%5D%2C%22accountType%22%3A%22NA%22%2C%22identityType%22%3A%22App%22%2C%22settings%22%3Anull%2C%22responseCreationDateTime%22%3A%222026-06-14T10%3A51%3A17.5290370Z%22%2C%22debugId%22%3A%22338aeb46-b580-413c-8dd4-3b8104ccca99%7C2026-06-14T10%3A51%3A17.5290435Z%7CAuth%7CKOS-CF%7Caksgen01000006%22%7D; _C_ETH=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://ntp.msn.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="sec-ms-gec-version" value="2-149.0.4022.52"/>
+    <header name="sec-ms-gec" value="AE8D7A7B970489C3-A956EECA8EE097D96509139E9B0F73A04ACC87CEDCDE1170DBB58F28F5E5ADD3"/>
+    <header name="accept" value="*/*"/>
+    <header name="onesvc-uni-feat-tun" value="EdgeInterestTier1Ids:null;LoginState:NA;Product:anaheim;PageName:default;PageType:ntp;OCID:msedgntp;ViewPortWidth:1366;ViewPortHeight:738;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="eyIxIjoiMCIsIjIiOiIwIiwiMyI6IjAiLCI0IjoiNDM1MjE3MTIxMjM2NjgxMDY1MyIsIjYiOiJzdGFibGUiLCI5IjoiZGVza3RvcCJ9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-encoding: br&#xd;
+access-control-allow-headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,OneSvc-Uni-Feat-Tun,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,s-xbox-token,OneWebServiceLatency,X-FD-Features,DDD-UserType,traceparent,Widgets,Muted,Velocity,DDD-Auth-Features,SoftLanding,PrefMigrated,DDD-TMPL-Removed,deviceFeatures,Server-Timing,X-1S-Digital-ID,x-ntp-cohort-prefs&#xd;
+access-control-expose-headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,OneSvc-Uni-Feat-Tun,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,s-xbox-token,OneWebServiceLatency,X-FD-Features,DDD-UserType,traceparent,Widgets,Muted,Velocity,DDD-Auth-Features,SoftLanding,PrefMigrated,DDD-TMPL-Removed,deviceFeatures,Server-Timing,X-1S-Digital-ID,x-ntp-cohort-prefs&#xd;
+ddd-authenticatedwithjwtflow: False&#xd;
+ddd-usertype: AnonymousMuid&#xd;
+ddd-strategyexecutionlatency: 00:00:00.1359480&#xd;
+x-wpo-activityid: c8d582e0-9d2f-41f7-91d9-c71ab174cb99|2026-06-14T11:29:58.6057858Z|fabric_wpo|KOC-A|WPO_86&#xd;
+ddd-tmpl-removed: True&#xd;
+ddd-activityid: c8d582e0-9d2f-41f7-91d9-c71ab174cb99&#xd;
+x-1s-digital-id: at=NA;it=App;muid=m-06CE9DF114B36CAF115B894515EF6DB9&#xd;
+ddd-auth-features: AT:NA;DID:m-06CE9DF114B36CAF115B894515EF6DB9;IT:App;MuidStateOrigin:MuidFromCookie&#xd;
+ddd-debugid: c8d582e0-9d2f-41f7-91d9-c71ab174cb99|2026-06-14T11:29:58.6227668Z|fabric_msn|KOC-A|News_1299&#xd;
+onewebservicelatency: 137&#xd;
+x-msedge-responseinfo: 137&#xd;
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA&#xd;
+x-ceto-ref: 6a2e90b687aa4da3af9768f08153d005|AFD:6a2e90b687aa4da3af9768f08153d005|2026-06-14T11:29:58.481Z&#xd;
+x-msedge-ref: Ref A: 8BD0A8D8BDF74FFAB94B732C35E17686 Ref B: BOM02EDGE0509 Ref C: 2026-06-14T11:29:58Z&#xd;
+expires: Sun, 14 Jun 2026 11:29:58 GMT&#xd;
+date: Sun, 14 Jun 2026 11:29:58 GMT&#xd;
+content-length: 2966&#xd;
+set-cookie: _C_ETH=1; expires=Sat, 13 Jun 2026 11:29:58 GMT; domain=.msn.com; path=/; secure; samesite=none; httponly&#xd;
+set-cookie: _C_Auth=&#xd;
+set-cookie: msnup=%7B%22cnex%22%3A%22no%22%7D; expires=Sat, 12 Sep 2026 11:29:58 GMT; domain=msn.com; path=/; secure; samesite=none; httponly&#xd;
+set-cookie: MUID=; domain=.msn.com; secure; samesite=none&#xd;
+set-cookie: MUIDB=; domain=.msn.com; secure; samesite=none&#xd;
+set-cookie: _EDGE_S=SID=3C6CE698CD41645C1126F1E8CC4B65A2; domain=.msn.com; path=/; secure; samesite=none; httponly&#xd;
+akamai-request-bc: [a=23.54.80.141,b=320527653,c=g,n=IN_MH_MUMBAI,o=20940],[a=12,c=o]&#xd;
+x-cdn-ref: 131add25 | 6a2e90b687aa4da3af9768f08153d005|AFD:6a2e90b687aa4da3af9768f08153d005|2026-06-14T11:29:58.481Z | 2026-06-14T11:29:58&#xd;
+server-timing: clientrtt; dur=9, clienttt; dur=264, origin; dur=262, cdntime; dur=2, wpo;dur=84,1s;dur=122&#xd;
+akamai-cache-status: NotCacheable from child&#xd;
+akamai-server-ip: 23.54.80.141&#xd;
+akamai-request-id: 131add25&#xd;
+access-control-allow-methods: PUT,PATCH,POST,GET,OPTIONS,DELETE&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://ntp.msn.com&#xd;
+x-as-suppresssetcookie: 1&#xd;
+cache-control: private, max-age=0&#xd;
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}&#xd;
+timing-allow-origin: *&#xd;
+akamai-grn: 0.8d503617.1781436598.131add25&#xd;
+vary: Origin</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

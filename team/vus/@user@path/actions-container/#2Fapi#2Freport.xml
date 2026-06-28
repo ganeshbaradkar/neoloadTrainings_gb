@@ -1,0 +1,79 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/api/report"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d38a2d20-5ed5-4fe9-a7d3-a001282bb891.zip"
+    slaProfileEnabled="false" thinkTime="555"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d38a2d20-5ed5-4fe9-a7d3-a001282bb891">
+    <embedded-action>1a49442a-69be-458c-a321-b1362358845f</embedded-action>
+    <embedded-action>9fc2d33e-ba30-43aa-93a9-3b2e3b280956</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d38a2d20-5ed5-4fe9-a7d3-a001282bb891.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/api/report" path="/api/report" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d38a2d20-5ed5-4fe9-a7d3-a001282bb891.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="deff.nelreports.net" slaProfileEnabled="false"
+    uid="1a49442a-69be-458c-a321-b1362358845f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1a49442a-69be-458c-a321-b1362358845f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cat"
+        recordRawValue="msn" separator="=" value="msn" valueMode="USE_VALUE"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Access-Control-Request-Headers" value="content-type"/>
+    <header name="Access-Control-Request-Method" value="POST"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="deff.nelreports.net"/>
+    <header name="Origin" value="https://assets.msn.com"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/html&#xd;
+Content-Length: 0&#xd;
+Date: Sun, 14 Jun 2026 11:30:01 GMT&#xd;
+Connection: keep-alive&#xd;
+PMUSER_FORMAT_QS: &#xd;
+X-CDN-TraceId: 0.eeaf2717.1781436601.471151ec&#xd;
+Access-Control-Allow-Headers: *&#xd;
+Access-Control-Allow-Credentials: false&#xd;
+Access-Control-Allow-Methods: GET, OPTIONS, POST&#xd;
+Access-Control-Allow-Origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/report" path="/api/report"
+    postCharset="ISO-8859-1" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d38a2d20-5ed5-4fe9-a7d3-a001282bb891.zip"
+    recordedResponseCode="503" responseSize="0"
+    serverUid="deff.nelreports.net" slaProfileEnabled="false"
+    uid="9fc2d33e-ba30-43aa-93a9-3b2e3b280956" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_9fc2d33e-ba30-43aa-93a9-3b2e3b280956.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cat"
+        recordRawValue="msn" separator="=" value="msn" valueMode="USE_VALUE"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/reports+json"/>
+    <header name="Host" value="deff.nelreports.net"/>
+    <header name="Origin" value="https://assets.msn.com"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/1.1 503 Service Unavailable&#xd;
+Content-Length: 0&#xd;
+Server: Kestrel&#xd;
+Date: Sun, 14 Jun 2026 11:30:01 GMT&#xd;
+Connection: close&#xd;
+PMUSER_FORMAT_QS: &#xd;
+X-CDN-TraceId: 0.eeaf2717.1781436601.4711522d&#xd;
+Access-Control-Allow-Headers: *&#xd;
+Access-Control-Allow-Credentials: false&#xd;
+Access-Control-Allow-Methods: GET, OPTIONS, POST&#xd;
+Access-Control-Allow-Origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"age":0,"body":{"elapsed_time":2775,"method":"GET","phase":"application","protocol":"http/1.1","referrer":"https://ntp.msn.com/","sampling_fraction":0.1,"server_ip":"","status_code":0,"type":"abandoned"},"type":"network-error","url":"https://assets.msn.com/service/msn/user?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=6a2e8c9a-7c51-44d1-89e1-f092a97f0d56&ocid=pdp-peregrine&cm=en-in&it=app&user=m-06CE9DF114B36CAF115B894515EF6DB9&scn=APP_ANON&source=market-consolidation","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"}]]]></textPostContent>
+</http-action>

@@ -1,0 +1,43 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/favicon.ico"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/jpet_fork_demo/%resources%/recorded-artifacts/e217c6b7-6788-4c3a-8776-e918baac4715.zip"
+    slaProfileEnabled="false" thinkTime="327"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e217c6b7-6788-4c3a-8776-e918baac4715">
+    <embedded-action>cb77b4fd-269a-403f-b11b-56741d796d2b</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_956f915e-1c5a-4acf-a344-3009c65439d2.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/jpet_fork_demo/%resources%/recorded-artifacts/e217c6b7-6788-4c3a-8776-e918baac4715.zip"
+    recordedResponseCode="404" responseSize="762"
+    serverUid="petstore.octoperf.com" slaProfileEnabled="false"
+    uid="cb77b4fd-269a-403f-b11b-56741d796d2b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2cf24660-0557-42fb-b068-69d618c90c7f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2cf24660-0557-42fb-b068-69d618c90c7f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://petstore.octoperf.com/actions/Catalog.action"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="JSESSIONID=88314D7A94C837E919CCC7756A022321"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 404&#xd;
+date: Sat, 27 Jun 2026 08:34:45 GMT&#xd;
+content-type: text/html;charset=utf-8&#xd;
+content-length: 762&#xd;
+content-language: en&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

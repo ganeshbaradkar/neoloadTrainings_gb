@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/api/stocks/products"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/840569e3-6f83-429d-b599-29f1432ed67e.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="840569e3-6f83-429d-b599-29f1432ed67e">
+    <embedded-action>e2da6709-f661-438c-954d-599c1afa31a5</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_194bb20e-70a8-47cc-86e5-45cd9818c54f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    eTag="W/&quot;155b-FGEhP8aFxus2wxwjsTdYy469174&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/stocks/products" path="/api/stocks/products"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/01_script_record/%resources%/recorded-artifacts/840569e3-6f83-429d-b599-29f1432ed67e.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="advantageonlinebanking.com" slaProfileEnabled="false"
+    uid="e2da6709-f661-438c-954d-599c1afa31a5" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f40bec38-37d0-4d9c-806f-6804e7169fc7.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://advantageonlinebanking.com/"/>
+    <header name="if-none-match" value="W/&quot;155b-FGEhP8aFxus2wxwjsTdYy469174&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="_ga=GA1.1.664591116.1777204206; _ga_W08X3SJRS7=GS2.1.s1780746133$o4$g0$t1780746133$j60$l0$h0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json, text/plain, */*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Sat, 06 Jun 2026 11:42:08 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+x-powered-by: Express&#xd;
+access-control-allow-origin: *&#xd;
+etag: W/"155b-FGEhP8aFxus2wxwjsTdYy469174"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

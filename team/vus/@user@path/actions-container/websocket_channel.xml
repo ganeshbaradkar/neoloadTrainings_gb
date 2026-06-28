@@ -1,0 +1,40 @@
+<websocket-channel-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="websocket_channel" path="/socket.io/"
+    postType="6" pushType="WEBSOCKET" recordedResponseCode="101"
+    responseSize="0" serverUid="socket.intelliticks.com"
+    slaProfileEnabled="false" uid="117a5484-2cab-4979-8fee-bbc790f21ed6" useKeepAlive="false">
+    <response-matching extractionMethod="REGEXP_ONLY" regexp="" template="$1$"/>
+    <requestContentFileDescription>team/vus/@user@path/%resources%/recorded-requests/req_117a5484-2cab-4979-8fee-bbc790f21ed6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="EIO"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="transport"
+        recordRawValue="websocket" separator="=" value="websocket" valueMode="USE_VALUE"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Upgrade"/>
+    <header name="Cookie" value="AWSALBCORS=0NdFjYVKukFZlyRMd0CNOQgCHzb3D90APcufgathMCXjSY9/+hvtKpwGr8iXcZZcuPU2p34kA+kOorrX+7lMngfJPV2BEahNPVf6k6iUoAAScpRmzt+NTH0VmIsF"/>
+    <header name="Host" value="socket.intelliticks.com"/>
+    <header name="Origin" value="https://app.intelliticks.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Sec-WebSocket-Extensions" value="permessage-deflate; client_max_window_bits"/>
+    <header name="Sec-WebSocket-Key" value="kQuZADkKnAlOGPncnuCleg=="/>
+    <header name="Sec-WebSocket-Version" value="13"/>
+    <header name="Upgrade" value="websocket"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/1.1 101 Switching Protocols&#xd;
+Date: Sun, 14 Jun 2026 11:30:03 GMT&#xd;
+Connection: upgrade&#xd;
+Set-Cookie: AWSALB=bXEecFLzSUZtSOL5R/5x47mmlrjImTzca/xvgOiE8J6xD0w9N91oNsrThF44/WIMsSF+xplGBZiYJRZE69HJkhUpRx2SnM+u52PkH7GENGkfzME70OnCBwzKXQFd; Expires=Sun, 21 Jun 2026 11:30:03 GMT; Path=/&#xd;
+Set-Cookie: AWSALBCORS=bXEecFLzSUZtSOL5R/5x47mmlrjImTzca/xvgOiE8J6xD0w9N91oNsrThF44/WIMsSF+xplGBZiYJRZE69HJkhUpRx2SnM+u52PkH7GENGkfzME70OnCBwzKXQFd; Expires=Sun, 21 Jun 2026 11:30:03 GMT; Path=/; SameSite=None; Secure&#xd;
+Upgrade: websocket&#xd;
+Sec-WebSocket-Accept: q+4t2V1d4KO03jiMWumGFissVG0=</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <push-handler filecount="2"
+        filename="team/vus/@user@path/%resources%/recorded-responses/websocket_94f9da80-e44a-4e07-b2a5-26c078c41f3b.dat" pushType="WEBSOCKET">
+        <result-handler responseSource="MESSAGE" type="REGEXP"/>
+    </push-handler>
+</websocket-channel-action>

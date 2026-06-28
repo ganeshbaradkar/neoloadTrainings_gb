@@ -1,0 +1,5 @@
+<http-server hostname="browser.events.data.msn.com" port="443"
+    ssl="true" uid="browser.events.data.msn.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

@@ -1,0 +1,87 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/actions/Account.action_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/jpet_fork_demo/%resources%/recorded-artifacts/98b8e0ed-99c1-4565-a376-64e8d3c7487a.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="98b8e0ed-99c1-4565-a376-64e8d3c7487a">
+    <embedded-action>a94eb640-931c-4bf0-8167-e2bdfb886f95</embedded-action>
+    <embedded-action>8d7a437e-d3e7-418e-a34d-29d3d8324bab</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_73390101-de43-49fb-86d6-d6982d87ea45.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/actions/Account.action"
+    path="/actions/Account.action" postType="6"
+    recordedArtifactZipFileName="team/vus/jpet_fork_demo/%resources%/recorded-artifacts/98b8e0ed-99c1-4565-a376-64e8d3c7487a.zip"
+    recordedResponseCode="302"
+    refererUid="4eaa6972-f3a4-4998-adc5-42f5b36cb173" responseSize="0"
+    serverUid="petstore.octoperf.com" slaProfileEnabled="false"
+    uid="a94eb640-931c-4bf0-8167-e2bdfb886f95" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_5542abbf-57bb-4ee4-907f-db14afac32af.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="signoff"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://petstore.octoperf.com/actions/Order.action?newOrder=&amp;confirmed=true"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="JSESSIONID=88314D7A94C837E919CCC7756A022321"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Sat, 27 Jun 2026 08:35:06 GMT&#xd;
+Content-Length: 0&#xd;
+location: /actions/Catalog.action&#xd;
+content-language: en-US&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorContent="Sign Out"
+        extractorOccurence="3" extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="2" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/actions/Catalog.action"
+    path="/actions/Catalog.action" postType="6"
+    recordedArtifactZipFileName="team/vus/jpet_fork_demo/%resources%/recorded-artifacts/98b8e0ed-99c1-4565-a376-64e8d3c7487a.zip"
+    recordedResponseCode="200"
+    refererUid="a94eb640-931c-4bf0-8167-e2bdfb886f95"
+    responseSize="4736" serverUid="petstore.octoperf.com"
+    slaProfileEnabled="false" uid="8d7a437e-d3e7-418e-a34d-29d3d8324bab" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_73bc0827-9417-4bed-96c1-433d2624d345.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_73bc0827-9417-4bed-96c1-433d2624d345.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://petstore.octoperf.com/actions/Order.action?newOrder=&amp;confirmed=true"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="JSESSIONID=88314D7A94C837E919CCC7756A022321"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Sat, 27 Jun 2026 08:35:07 GMT&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+content-length: 4736&#xd;
+set-cookie: JSESSIONID=1A1B06C405DE58E54F5F05FAF372B386; Path=/; HttpOnly&#xd;
+content-language: en-US&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

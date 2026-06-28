@@ -2,8 +2,7 @@
     failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
     type="LEGACY" uid="01_script_record">
     <description>its VU for ramp up and not the time duration 
-250VUs across 80 mins = ramp up time = 
-</description>
+250VUs across 80 mins = ramp up time =</description>
     <init-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
@@ -14,17 +13,7 @@
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
-        <weighted-embedded-action uid="e82a81cc-f5d7-4cca-a38d-e85879eb443b"/>
-        <weighted-embedded-action uid="0f1f16da-fecf-43c7-a43f-658c51833773"/>
-        <weighted-embedded-action uid="2fafc9e7-bb75-4928-8720-0bdaf0cb2233"/>
-        <weighted-embedded-action uid="027f0bfa-c896-449e-a60e-2d4ab1f87999"/>
-        <weighted-embedded-action uid="6b7d4d5d-856a-4dce-b04b-89345b073892"/>
-        <weighted-embedded-action uid="4731cd96-664e-4611-9ed6-a07fe164e4fe"/>
-        <weighted-embedded-action uid="42494f0a-e691-4034-a670-315c214c07e4"/>
-        <weighted-embedded-action uid="e94d7340-a7e0-4824-8723-f4dc67bf0ec5"/>
-        <weighted-embedded-action uid="ec5514b7-d1ac-4217-be19-f579853d3551"/>
-        <weighted-embedded-action uid="fc9db835-d4f0-421a-8af1-17edff247b0d"/>
-        <weighted-embedded-action uid="2e1e8aed-9d09-4d8a-8b47-438de0244931"/>
+        <weighted-embedded-action uid="1b1ab016-8cbe-4d81-83bb-e7aac1c44de8"/>
         <weighted-embedded-action uid="18926c1d-eebd-4761-8486-a7b510537b22"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"

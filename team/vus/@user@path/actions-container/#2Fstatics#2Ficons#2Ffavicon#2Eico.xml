@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/statics/icons/favicon.ico" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/c740bff9-d300-4f98-a826-74b42dd90a2c.zip"
+    slaProfileEnabled="false" thinkTime="538"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c740bff9-d300-4f98-a826-74b42dd90a2c">
+    <embedded-action>28853b72-8f49-4c28-a069-a86fa56634b8</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c740bff9-d300-4f98-a826-74b42dd90a2c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="HEAD" name="/statics/icons/favicon.ico"
+    path="/statics/icons/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/c740bff9-d300-4f98-a826-74b42dd90a2c.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="assets.msn.com" slaProfileEnabled="false"
+    uid="28853b72-8f49-4c28-a069-a86fa56634b8" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_28853b72-8f49-4c28-a069-a86fa56634b8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://ntp.msn.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://ntp.msn.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="pragma" value="no-cache"/>
+    <header name="sec-ms-gec-version" value="2-149.0.4022.52"/>
+    <header name="sec-ms-gec" value="18591010C6DCED91-4F6CF4EBD2B2BF84189B37620CC13036092B61AD9ECFD80972EB57E45E032E13"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="eyIxIjoiMCIsIjIiOiIwIiwiMyI6IjAiLCI0IjoiNDM1MjE3MTIxMjM2NjgxMDY1MyIsIjYiOiJzdGFibGUiLCI5IjoiZGVza3RvcCJ9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="0"/>
+    <header name="cache-control" value="no-cache"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="sec-purpose" value="prefetch"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/x-icon&#xd;
+etag: "b1a1d42024fa6e32ed87f61fd9507274:1574197118.459201"&#xd;
+last-modified: Tue, 19 Nov 2019 20:58:17 GMT&#xd;
+server: AkamaiNetStorage&#xd;
+content-encoding: gzip&#xd;
+date: Sun, 14 Jun 2026 11:30:07 GMT&#xd;
+content-length: 20&#xd;
+akamai-request-bc: [a=23.54.80.141,b=320534791,c=g,n=IN_MH_MUMBAI,o=20940]&#xd;
+server-timing: clientrtt; dur=7, clienttt; dur=0, origin; dur=0, cdntime; dur=0, wpo;dur=0,1s;dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+akamai-server-ip: 23.54.80.141&#xd;
+akamai-request-id: 131af907&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://ntp.msn.com&#xd;
+cache-control: public, max-age=31536000&#xd;
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}&#xd;
+timing-allow-origin: *&#xd;
+akamai-grn: 0.8d503617.1781436607.131af907&#xd;
+vary: Origin</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

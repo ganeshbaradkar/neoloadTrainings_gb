@@ -1,0 +1,109 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/edge/ntp"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d2d415d3-389f-4271-a02c-845c7db1772d.zip"
+    slaProfileEnabled="false" thinkTime="1018"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d2d415d3-389f-4271-a02c-845c7db1772d">
+    <embedded-action>938729cb-ea6b-4887-98de-75520565505d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d2d415d3-389f-4271-a02c-845c7db1772d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/edge/ntp" path="/edge/ntp" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/d2d415d3-389f-4271-a02c-845c7db1772d.zip"
+    recordedResponseCode="200" responseSize="52239"
+    serverUid="ntp.msn.com" slaProfileEnabled="false"
+    uid="938729cb-ea6b-4887-98de-75520565505d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_938729cb-ea6b-4887-98de-75520565505d.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_938729cb-ea6b-4887-98de-75520565505d.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="locale"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="title"
+        recordRawValue="New%20tab" separator="=" value="New tab" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dsp"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sp"
+        recordRawValue="Google" separator="=" value="Google" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="feed_dis"
+        recordRawValue="off" separator="=" value="off" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="en_widget_reg"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="prerender"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="PC"
+        recordRawValue="U531" separator="=" value="U531" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="downlink" value="1.6"/>
+    <header name="device-memory" value="8"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Microsoft Edge&quot;;v=&quot;149.0.4022.52&quot;, &quot;Chromium&quot;;v=&quot;149.0.7827.54&quot;, &quot;Not)A;Brand&quot;;v=&quot;24.0.0.0&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="eyIxIjoiMCIsIjIiOiIwIiwiMyI6IjAiLCI0IjoiNDM1MjE3MTIxMjM2NjgxMDY1MyIsIjYiOiJzdGFibGUiLCI5IjoiZGVza3RvcCJ9"/>
+    <header name="ect" value="4g"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;10.0.0&quot;"/>
+    <header name="sec-ch-prefers-color-scheme" value="light"/>
+    <header name="sec-ch-ua-full-version" value="&quot;149.0.4022.52&quot;"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="sec-ch-viewport-width" value="1358"/>
+    <header name="service-worker-navigation-preload" value="true"/>
+    <header name="cookie" value="__rubyUX=false; pglt-edgeChromium-ntp=161; __rubyState=1_7; pglt-edgeChromium-dhp=161; _C_Auth=; MicrosoftApplicationsTelemetryDeviceId=6010990d-0294-4e83-b584-0cf42a206c85; USRLOC=BID=MjYwNjE0MTYyMzExXzM0NDYwMTRiYjUxODc5MTllZTE2MTBlZGY3NTc3Y2RmZWQ1ZTg0MTk1YzRkNDExYTJmZGNmMWU0MjIxNDhkYzE=; MUIDB=38A49867CB32647605A58F21CA0B65FE; _EDGE_V=1; MUID=06CE9DF114B36CAF115B894515EF6DB9; MUIDB=06CE9DF114B36CAF115B894515EF6DB9; sptmarket=en-US%7C%7Cin%7Cen-in%7Cen-in%7Cen%7C%7Ccf%3D8%7CRefA%3D6064E0FE42EF4508A98BD5AA636CAA07.RefC%3D2024-07-26T23%3A51%3A29Z; msnup=%7B%22cnex%22%3A%22no%22%7D; sptmarket_restored=en-US%7C%7Cin%7Cen-in%7Cen-in%7Cen%7C%7Ccf%3D8%7CRefA%3D6064E0FE42EF4508A98BD5AA636CAA07.RefC%3D2024-07-26T23%3A51%3A29Z; MSFPC=GUID=9a88bb13bb8744e6b97ec4c2489c3063&amp;HASH=9a88&amp;LV=202606&amp;V=4&amp;LU=1780747471652; _EDGE_S=SID=3C6CE698CD41645C1126F1E8CC4B65A2; App-User=%7B%22userId%22%3A%22m-06CE9DF114B36CAF115B894515EF6DB9%22%2C%22cohorts%22%3A%5B%7B%22name%22%3A%22Ruby%22%2C%22everSelected%22%3Atrue%2C%22reason%22%3A%22MatchedRubyPreviousInteraction%22%7D%2C%7B%22name%22%3A%22SuperCold%22%2C%22everSelected%22%3Afalse%2C%22reason%22%3A%22MatchedBySignal%22%7D%5D%2C%22accountType%22%3A%22NA%22%2C%22identityType%22%3A%22App%22%2C%22settings%22%3Anull%2C%22responseCreationDateTime%22%3A%222026-06-14T10%3A51%3A17.5290370Z%22%2C%22debugId%22%3A%22338aeb46-b580-413c-8dd4-3b8104ccca99%7C2026-06-14T10%3A51%3A17.5290435Z%7CAuth%7CKOS-CF%7Caksgen01000006%22%7D; ai_session=EVVaJ7uV26DiZQE5XYqw7z|1781435536014|1781436594888"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-ms-gec-version" value="2-149.0.4022.52"/>
+    <header name="sec-ms-gec" value="18591010C6DCED91-4F6CF4EBD2B2BF84189B37620CC13036092B61AD9ECFD80972EB57E45E032E13"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-edge-ntp" value="{&quot;back_block&quot;:0,&quot;bg_cur&quot;:{&quot;configIndex&quot;:49,&quot;imageId&quot;:&quot;BB1msIHz&quot;,&quot;provider&quot;:&quot;CMSImage&quot;,&quot;userSelected&quot;:false},&quot;bg_img_typ&quot;:&quot;imageAndVideo&quot;,&quot;break_dis&quot;:{},&quot;dsp&quot;:0,&quot;en_widget_reg&quot;:false,&quot;exp&quot;:[&quot;msShowBrowserCustomizationHubEntryPoint&quot;,&quot;msAllowThemeInstallationFromChromeStore&quot;,&quot;msUndersideAutoOpenForMsnTopQuestion&quot;,&quot;msNurturingMetadataTemplate&quot;,&quot;msNurturingOnboardNTPToCE&quot;,&quot;msRubyFlightingAllowed&quot;],&quot;feed_dis&quot;:&quot;off&quot;,&quot;fre_seen_ct&quot;:3,&quot;is_adb&quot;:true,&quot;is_ntp_ruby&quot;:&quot;false&quot;,&quot;layout&quot;:3,&quot;new_prof_fre_time&quot;:1.75544176799e+12,&quot;quick_links_opt&quot;:0,&quot;seen_new_dev_fre&quot;:false,&quot;sel_feed_piv&quot;:&quot;myFeed&quot;,&quot;show_greet&quot;:true,&quot;tscollapsed&quot;:0,&quot;vp&quot;:{&quot;height&quot;:620,&quot;width&quot;:1358},&quot;vt_opened&quot;:false,&quot;wpo_nx&quot;:{&quot;cpt&quot;:true,&quot;v&quot;:&quot;2&quot;}}"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;149&quot;, &quot;Chromium&quot;;v=&quot;149&quot;, &quot;Not)A;Brand&quot;;v=&quot;24&quot;"/>
+    <header name="rtt" value="50"/>
+    <header name="sec-ch-dpr" value="1"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="0"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-viewport-height" value="620"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html; charset=utf-8&#xd;
+server: Kestrel&#xd;
+access-control-allow-methods: HEAD,GET,OPTIONS&#xd;
+cache-control: no-store,no-cache&#xd;
+pragma: no-cache&#xd;
+strict-transport-security: max-age=1209600; includeSubDomains; preload&#xd;
+content-security-policy: base-uri 'self';child-src 'self';connect-src 'self' *.mavideo.microsoft.com arc.msn.com assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn browser.events.data.msn.com browser.events.data.msn.cn browser.events.data.microsoftstart.com browser.events.data.microsoftstart.cn business.bing.com/api/ usgov.business.bing.com/api/ cdn.hubblecontent.osi.office.net copilotexplore.azurewebsites.net events-sandbox.data.msn.com events-sandbox.data.msn.cn events-sandbox.data.microsoftstart.com events-sandbox.data.microsoftstart.cn finance-services.msn.com https://*.sharepoint.com/_api/v2.0/ https://*.sharepoint-df.com/_api/v2.0/ https://*.sharepoint.com/_api/v2.1/ https://*.sharepoint-df.com/_api/v2.1/ https://bingretailmsndata.azureedge.net/msndata/ https://msrewardspme.azureedge.net/rewardsuxassets/ https://browser.pipe.aria.microsoft.com/Collector/ https://dev.virtualearth.net/REST/v1/Imagery/ https://dev.ditu.live.com/REST/v1/Imagery/ https://ecn.dev.virtualearth.net https://jsconfig.adsafeprotected.com https://g.bing.com https://msx.bing.com https://petrol.office.microsoft.com/v1/feedback https://privacyportal.onetrust.com/request/v1/consentreceipts https://sapphire.api.microsoftapp.net https://services.bingapis.com https://trafficanswer.trafficmanager.net https://*.clarity.ms https://edge.microsoft.com/edgedeeplearning/ img-s-msn-com.akamaized.net img-s.msn.cn login.microsoftonline.com notification.services.msn.com ocws.officeapps.live.com/ocs/ ocws-eu.officeapps.live.com/ocs/ odc.officeapps.live.com/odc/ prod-video-cms-amp-microsoft-com.akamaized.net r.bing.com/rp/rms_pr.png raka.bing.com/rp/rms_pr.png ris.api.iris.microsoft.com srtb.msn.com srtb.msn.cn turbo.microsoft.com npe.turbo.microsoft.com srtb-ax.msn.com srtb-pulsar.msn.com https://substrate.office.com/PeoplePredictionsB2/StreamsPreview https://substrate.office.com/PeoplePredictionsB2/StreamsPreviewById https://substrate.office.com/autodiscover/ substrate.office.com/FocusedInboxB2/api/v1/ substrate.office.com/PeoplePredictionsB2/graphql substrate.office.com/PeoplePredictionsB2/MeTaPreview substrate.office.com/PeoplePredictionsB2/SPImageProxied substrate.office.com/PeoplePredictionsB2/SpPreview substrate.office.com/api/beta/me/WorkingSetFiles substrate.office.com/api/beta/me/officegraphinsights/trending substrate.office.com/recommended/api/beta/edgeworth/ substrate.office.com/api/v2.0/ substrate.office.com/peoplepredictionsb2/feedback substrate.office.com/peoplepredictionsb2/microsoftfeed substrate.office.com/recommended/api/v1.0/files substrate.office.com/search/api/v1/ substrate.office.com/todo/api/v1/ substrate.office.com/todob2/api/v1/ th.bing.com/th webshell.suite.office.com/api/shell/newtab wss://www.bing.com/opaluqu/speech/recognition/interactive/cognitiveservices/ wss://sr.bing.com/opaluqu/speech/recognition/interactive/cognitiveservices/ www.bing.com/fd/ls/ls.gif www.msn.com www.msn.cn www.microsoftstart.com cn.bing.com/api/ cn.bing.com/bnc/ cn.bing.com/pnp/ cn.bing.com/profile/interestmanager/update *.cn.mm.bing.net *.mm.cn.bing.net *.tc.mm.bing.net www.bing.com/HPImageArchive.aspx www.bing.com/api/custom/opal/reco/ www.bing.com/DSB cn.bing.com/DSB www.bing.com/DSB/partner/ cn.bing.com/DSB/partner/ www.bing.com/api/ www.bing.com/as/ www.bing.com/AS/Suggestions www.bing.com/AS/Suggestions/v2 www.bing.com/bnc/ www.bing.com/crop/warmer.png www.bing.com/historyHandler www.bing.com/images/sbidlg www.bing.com/pnp/ www.bing.com/profile/history/data www.bing.com/profile/interestmanager/update www.bing.com/qbox www.bing.com/retail/msn/api/shopcard www.bing.com/retailexp/msn/api/ www.bing.com/retailexpdata/msndata/ www.bing.com/rp/rms_pr.png www.bing.com/th wus-streaming-video-msn-com.akamaized.net prod-streaming-video-msn-com.akamaized.net prod-streaming-video.msn.cn msn-api.go2yd.com zerocodecms.blob.core.windows.net *.oneservice.msn.com *.oneservice.msn.cn api.msn.com api.msn.cn ent-api.msn.com ent-api.msn.cn ent-nf-api.msn.com ent-nfc-api.msn.com ent-nf-api.msn.cn ppe-api.msn.com ppe-api.msn.cn graph.microsoft.com/beta/ graph.microsoft.com/v1.0/ https://*.vo.msecnd.net https://rewards.bing.com/ https://www.bing.com/rewards/ https://user.auth.xboxlive.com/user/authenticate https://xsts.auth.xboxlive.com/xsts/authorize https://titlehub.xboxlive.com/users/ https://t.ssl.ak.dynamic.tiles.virtualearth.net https://dynamic.t0.tiles.ditu.live.com https://dev.virtualearth.net/REST/v1/Routes/ https://dev.ditu.live.com/REST/v1/Routes/ https://dev.virtualearth.net/REST/v1/Locations/ https://dev.ditu.live.com/REST/v1/Locations/ browser.events.data.microsoft.com ib.msn.com nym2-ib.msn.com lax1-ib.msn.com fra1-ib.msn.com ams3-ib.msn.com sin3-ib.msn.com irtb.msn.com https://proxy.uet.s.microsoft.com/tpv-dv/ bat.bing.net https://oneservice-pme-signalr-wus-b.service.signalr.net wss://oneservice-pme-signalr-wus-b.service.signalr.net rtb.linkedin.com cn.bing.com/hp/api/v1/carousel www.bing.com/hp/api/v1/carousel;default-src 'none';font-src 'self' data: assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn;frame-ancestors edge://new-tab-page-online edge://copilot-ntp copilot.microsoft.com m365.cloud.microsoft copilotstaging.microsoft.com www.copilot-stg.com copilot-stg.com www.bing.com www.staging-bing-int.com;frame-src https://api.msn.com/auth/cookie/silentpassport https://api.msn.cn/auth/cookie/silentpassport https://www.msn.com https://www.msn.cn https://www.microsoftstart.com login.live.com login.microsoftonline.com www.bing.com/covid www.bing.com/rewardsapp/flyout www.bing.com/rewardsapp/widgetassets/ https://www.bing.com/rewards/ https://rewards.bing.com/ https://bing.com/rewards/ www.bing.com/shop www.bing.com/shop/halloween www.bing.com/videos/search www.facebook.com www.odwebp.svc.ms www.youtube.com msn.pluto.tv www.bing.com/wpt/prefetchcib https://res.cdn.office.net/ business.bing.com sip: mailto: edge-auth.microsoft.com https://edgecompanion.msn.com https://edgecompanion.msn.cn;img-src https://* blob: chrome-search://ntpicon/ chrome-search://local-ntp/ chrome-search://theme/ data:;media-src 'self' blob: *.mavideo.microsoft.com assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn https://sapphire.azureedge.net https://msrewardspme.azureedge.net/rewardsuxassets/ th.bing.com/th wus-streaming-video-msn-com.akamaized.net prod-streaming-video-msn-com.akamaized.net prod-video-cms-amp-microsoft-com.akamaized.net prod-streaming-video.msn.cn video.yidianzixun.com msn2.go2yd.com *.cdn.huya.com *.peopletech.cn liveshopping.azureedge.net podcastresourcesv2-fkgrd7epdeb6gbd8.b01.azurefd.net;report-to csp-endpoint;require-trusted-types-for 'script';style-src 'self' 'unsafe-inline' c.s-microsoft.com/mscc/ assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn;trusted-types serviceWorkerUrlPolicy baw-trustedtypes-policy svgPassThroughPolicy xmlPassThroughPolicy webpackTrustedTypesPolicy webWorkerUrlPolicy inlineHeadCssPassthroughPolicy bundleUrlPolicy fallbackBundleUrlPolicy scriptSrcUrlPolicy commonAsScriptPolicy dompurify fast-html base-html-policy ot-trusted-type-policy default 'allow-duplicates' IasUrlPolicy DvUrlPolicy baseTrustedTypesPolicy DoubleVerifyTrustedTypesPolicy astTrkjsScriptSrcUrlPolicy bingRewardsURLPolicy ClarityUrlPolicy IASBaseTrustedTypesPolicy;worker-src 'self' blob: 'report-sample';script-src 'nonce-WfJdOg9cCjR9q5obIJukQIVNrSlET5HVhOzzS7/zAck=' 'strict-dynamic',script-src 'nonce-WfJdOg9cCjR9q5obIJukQIVNrSlET5HVhOzzS7/zAck=' 'self' 'report-sample' assets.msn.cn assets2.msn.cn assets.msn.com assets2.msn.com www.msn.com www.msn.cn c.s-microsoft.com/mscc/ geolocation.onetrust.com/cookieconsentpub/v1/geo/location https://*.clarity.ms platform.bing.com/geo/AutoSuggest/v1 www.bing.com/as/ www.bing.com/s/as/ www.bing.com/rewardsapp/widgetassets/ https://www.bing.com/rewards/ https://rewards.bing.com/ www.youtube.com js.monitor.azure.com business.bing.com/msb/;worker-src * blob:&#xd;
+x-robots-tag: noindex&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: sameorigin&#xd;
+x-xss-protection: 1&#xd;
+x-ua-compatible: IE=Edge;chrome=1&#xd;
+x-msedge-pglt: 161&#xd;
+x-pcs-ref: TraceId:6a2e90bfb69d4d6d99c82bf86bd0f87e|UtcTimestamp:20260614113007|Tenant:ClusterFleetProdKORS|RoleInstance:pagecompositionservice-56d4779f99-vsdr8&#xd;
+x-ceto-ref: 6a2e90bfb69d4d6d99c82bf86bd0f87e|AFD:6a2e90bfb69d4d6d99c82bf86bd0f87e|2026-06-14T11:30:07.240Z&#xd;
+nel-and-csp-report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]},{"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://deff.nelreports.net/api/report"}]}&#xd;
+content-encoding: gzip&#xd;
+date: Sun, 14 Jun 2026 11:30:07 GMT&#xd;
+set-cookie: _C_ETH=1; domain=.msn.com; path=/; secure; httponly&#xd;
+set-cookie: _C_Auth=&#xd;
+set-cookie: sptmarket_restored=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/&#xd;
+set-cookie: _EDGE_S=SID=3C6CE698CD41645C1126F1E8CC4B65A2; domain=.msn.com; path=/; httponly&#xd;
+akamai-request-bc: [a=23.54.80.125,b=271374798,c=g,n=IN_MH_MUMBAI,o=20940],[a=92,c=o]&#xd;
+x-msedge-ref: 102cd9ce | 6a2e90bfb69d4d6d99c82bf86bd0f87e|AFD:6a2e90bfb69d4d6d99c82bf86bd0f87e|2026-06-14T11:30:07.240Z | 2026-06-14T11:30:07&#xd;
+x-cdn-ref: 102cd9ce | 6a2e90bfb69d4d6d99c82bf86bd0f87e|AFD:6a2e90bfb69d4d6d99c82bf86bd0f87e|2026-06-14T11:30:07.240Z | 2026-06-14T11:30:07&#xd;
+server-timing: clientrtt; dur=11, clienttt; dur=117, origin; dur=116, cdntime; dur=1, wpo;dur=0,1s;dur=0&#xd;
+akamai-cache-status: NotCacheable from child&#xd;
+akamai-server-ip: 23.54.80.125&#xd;
+akamai-request-id: 102cd9ce&#xd;
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}&#xd;
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA, Sec-CH-Viewport-Width, Sec-CH-Viewport-Height, Sec-CH-Prefers-Color-Scheme, Device-Memory, Downlink, ECT, RTT, Sec-CH-DPR&#xd;
+timing-allow-origin: *&#xd;
+akamai-grn: 0.7d503617.1781436607.102cd9ce&#xd;
+vary: Origin</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
